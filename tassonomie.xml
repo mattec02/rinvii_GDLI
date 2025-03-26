@@ -1,0 +1,52 @@
+<taxonomy>
+    <category xml:id="rinvii">
+        <catDesc>
+            Rinvii
+        </catDesc>
+        <category xml:id="vociRinvio">
+            <catDesc>
+                Voci di solo rinvio
+            </catDesc>
+            <category xml:id="vr_omonimi">
+                <catDesc>
+                    Rinvio ad un'entrata di cui esistono omonimi nel dizionario
+                </catDesc>
+            </category>
+            <category xml:id="vr_derivati">
+                <catDesc>
+                    Rinvio ad un'entrata e ai suoi derivati
+                </catDesc>
+            </category>
+            <category xml:id="vr_multipli">
+                <catDesc>
+                    Rinvio a più di un'entrata
+                </catDesc>
+            </category>
+            <category xml:id="vr_vedi">
+                <catDesc>
+                    Rinvio a un'altra voce
+                </catDesc>
+            </category>
+            <category xml:id="vr_composti">
+                <catDesc>
+                    Rinvio ad una voce parte del lemma composto
+                </catDesc>
+            </category>
+            <category xml:id="vr_confronta">
+                <catDesc>
+                    Rinvio a confronti con altre voci
+                </catDesc>
+            </category>
+        </category>
+        <category xml:id="vociPiene">
+            <catDesc>
+                Voci piene
+            </catDesc>
+            <category xml:id="vp_singoli">
+                <catDesc>
+                    Rinvio singolo ad un'entrata del dizionario
+                </catDesc>
+            </category>
+        </category>
+    </category>
+</taxonomy>
