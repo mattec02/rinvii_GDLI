@@ -131,7 +131,7 @@ def process_xml(file_path):
 
 
 #7 Regex per parole seguite da una variante tra parentesi (es. Arreto (arretro))
-    pattern_with_parenthesis = re.compile(r'(<ref type="entry">v\.\s+)([A-Za-zÀ-Úà-ú]+\s*\()([A-Za-zÀ-Úà-ú]+)(\)\.)?(</ref>)')
+    pattern_with_parenthesis = re.compile(r'(<ref type="entry">v\.\s+)([A-Za-zÀ-Úà-ú]+)(\s*\([A-Za-zÀ-Úà-ú]+)(\)\.)?(</ref>)')
 
     # Funzione per sostituire parole seguite da una variante tra parentesi
     def replace_with_parenthesis(match):
@@ -142,7 +142,7 @@ def process_xml(file_path):
         point = match.group(4) # Punto finale
         part5 = match.group(5) # </ref>
 
-        return f"{part1}{word}@RR@{variant}@_@{point}{part5}"
+        return f"{part1}@RR@{word}@_@{variant}{point}{part5}"
 
     modified_xml = pattern_with_parenthesis.sub(replace_with_parenthesis, modified_xml)
 

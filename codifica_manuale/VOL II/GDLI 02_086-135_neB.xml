@@ -59,7 +59,7 @@
 					<orth>Ba#sicità</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><usg type="dom" subtype="SC">chim.</usg><def>sf. Chim. Proprietà di una base chimica; quantità di ioni ossidrili liberati da un composto (cfr. Base, n. 10).</def>
+					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><usg type="dom" subtype="SC">chim.</usg><def>sf. Chim. Proprietà di una base chimica; quantità di ioni ossidrili liberati da un composto (cfr. @RR@Base@_@, n. 10).</def>
 				</sense>
 				<etym>= Cfr. fr. basicité.</etym>
 			</entry>

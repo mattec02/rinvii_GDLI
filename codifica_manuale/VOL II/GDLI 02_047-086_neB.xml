@@ -670,7 +670,7 @@
 					<orth>Baracane</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><def>(baraccane, baraccame) e baracano (baraccano, barakano) sm. Barracano: tessuto di pelo o lana (della capra o del cammello) un po’ grossolano; mantello bianco fatto di questa stoffa in uso presso le popolazioni dell’Africa settentrionale (cfr. Barracano).</def>
+					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><def>(baraccane, baraccame) e baracano (baraccano, barakano) sm. Barracano: tessuto di pelo o lana (della capra o del cammello) un po’ grossolano; mantello bianco fatto di questa stoffa in uso presso le popolazioni dell’Africa settentrionale (cfr. @RR@Barracano@_@).</def>
 					<cit>
 						<bibl>G. Villani, 10-164:</bibl>
 						<quote> L’altro [palio] fu di panno sanguigno, che ’l corsono i fanti a piè; e l’altro di baraccarne bambagino, che lo corsono le meretrici dell’oste.</quote>
@@ -1817,7 +1817,7 @@
 					</cit>
 				</sense>
 				<sense level="1" n="4">
-					<usg type="dom" subtype="DEA">dir.</usg><usg type="dom">marin.</usg><def>4. Dir. e marin. Chi reca danno volutamente e per tornaconto alla nave che gli è affidata (cfr. Baratteria, n. 3).</def>
+					<usg type="dom" subtype="DEA">dir.</usg><usg type="dom">marin.</usg><def>4. Dir. e marin. Chi reca danno volutamente e per tornaconto alla nave che gli è affidata (cfr. @RR@Baratteria@_@, n. 3).</def>
 					<cit>
 						<bibl>Boccardo, I-322:</bibl>
 						<quote> Allorché vi è soltanto negligenza, imperizia, imprevidenza, non vi è sanzione penale, ma semplicemente l’obbligo nel barattiere di risarcire civilmente i danni, interessi e spese de’ suoi mandanti.</quote>
@@ -1917,7 +1917,7 @@
 					<orth>Baratto2</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><usg type="time">ant.</usg><def>(ant. anche barato) sm. Scontro, mischia (cfr. Baratta2).</def>
+					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><usg type="time">ant.</usg><def>(ant. anche barato) sm. Scontro, mischia (cfr. @RR@Baratta2@_@).</def>
 					<cit>
 						<bibl>Fiore, 92-5:</bibl>
 						<quote> Color con cu’ i’ sto sì hanno il mondo / sotto da lor sì forte avviluppato, / ched e’ non è nessun sì gran prelato / ch’a lor possanza truovi riva o fondo. / Con mio baratto ciaschedun affondo.</quote>
@@ -1934,7 +1934,7 @@
 					<orth>Baràttola</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><usg type="dom" subtype="SC">ornit.</usg><def>sf. Ornit. Alzavola (cfr. Moretta).</def>
+					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><usg type="dom" subtype="SC">ornit.</usg><def>sf. Ornit. Alzavola (cfr. @RR@Moretta@_@).</def>
 					<cit>
 						<bibl>Pulci, 14-57:</bibl>
 						<quote> Barattole, germani e faraglioni, / altri uccèi d’acqua, io non saprei dir tanti; / ... / lungo sarebbe a contar tutti quanti, / che stan per fiumi e per paludi e laghi, / perché de’ pesci e dell’acqua son vaghi.</quote>
@@ -2021,7 +2021,7 @@
 					<orth>Barazzuòlo</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><usg type="geo">dial.</usg><def>sm. Dial. Alzavola (cfr. Barattola).</def>
+					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><usg type="geo">dial.</usg><def>sm. Dial. Alzavola (cfr. @RR@Barattola@_@).</def>
 				</sense>
 				<etym>= È voce tosc., specialmente senese: di etimo incerto.</etym>
 			</entry>
@@ -2576,7 +2576,7 @@
 					<usg type="dom">marin.</usg><usg type="time">ant.</usg><def>12. Marin. Ant. Sprone o rostro della nave.</def>
 				</sense>
 				<sense level="1" n="13">
-					<gramGrp><gram type="der">accr.</gram></gramGrp><entry type="relatedEntry"><form type="sub_lemma" subtype="1">Barbóna</form></entry><def>13. Accr. Barbóna: barba prolissa e folta (cfr. anche Barbone1).</def>
+					<gramGrp><gram type="der">accr.</gram></gramGrp><entry type="relatedEntry"><form type="sub_lemma" subtype="1">Barbóna</form></entry><def>13. Accr. Barbóna: barba prolissa e folta (cfr. anche @RR@Barbone1@_@).</def>
 					<cit>
 						<bibl>Verga, 3-183:</bibl>
 						<quote> Aveva ragione lo speziale che bisognava dare un calcio al mondo come era fatto adesso, e rifarloda capo. Anche lui, colla sua barbona, che predicava di cominciar da capo, era di quelli che avevano acchiappato la fortuna, e la teneva negli scarabattoli, e si godeva il ben di Dio stando sulla porta della bottega, a chiacchierare con questo o con quell’altro.</quote>
@@ -3341,14 +3341,14 @@
 					<orth>Barbano</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><usg type="time">ant.</usg><def>sm. Ant. Zio (cfr. Barba2).</def>
+					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><usg type="time">ant.</usg><def>sm. Ant. Zio (cfr. @RR@Barba2@_@).</def>
 					<cit>
 						<bibl>S. degli Arienti, 317:</bibl>
 						<quote> Che dirà la nostra matre e 'l patre e li nostri barbani, quando ci vederanno a le brazze queste diavolerie?</quote>
 					</cit>
 				</sense>
 				<sense level="1" n="2">
-					<usg type="geo">dial.</usg><def>2. Dial. Pastore valdese (cfr. Barbetti).</def>
+					<usg type="geo">dial.</usg><def>2. Dial. Pastore valdese (cfr. @RR@Barbetti@_@).</def>
 				</sense>
 			</entry>
 			<entry>
@@ -3371,7 +3371,7 @@
 				<form type="lemma">
 					<orth>Bàrbara2</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Santabarbara.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Santabarbara@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Barbaraménte</orth>
@@ -3604,7 +3604,7 @@
 					<def>- Stati barbareschi: stati musulmani vassalli della Turchia (la quale si era stabilita in Barberia durante i secoli XVI-XIX: cioè, in Tripolitania, Tunisia, Algeria e Marocco) che esercitavano l’attività corsara.</def>
 				</sense>
 				<sense level="1" n="2">
-					<def>2. Cavallo da corsa (di Barberìa). Cfr. Barbero1.</def>
+					<def>2. Cavallo da corsa (di Barberìa). Cfr. @RR@Barbero1@_@.</def>
 					<cit>
 						<bibl>Sacchetti, 166-95:</bibl>
 						<quote> Il gottoso che appena sul letto stare non potea sanza gran guai, prestamente schizzòe del letto, e dato giù per la scala dell’albergo, si fuggì...: e non parve gottoso, ma più tosto barbaresco o can da giugnere.</quote>
@@ -3651,7 +3651,7 @@
 				<form type="lemma">
 					<orth>Barbarìa</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Barbieria.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Barbieria@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Barbariato</orth>
@@ -4313,7 +4313,7 @@
 				<form type="lemma">
 					<orth>Barbaro2</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Barbero1.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Barbero1@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Barbaróssa</orth>
@@ -4344,7 +4344,7 @@
 				<form type="lemma">
 					<orth>Barbasso</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Tasso barbasso.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Tasso barbasso@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Barbassòro1</orth>
@@ -4773,7 +4773,7 @@
 					</cit>
 				</sense>
 				<sense level="1" n="2">
-					<def>2. Proveniente di Barberia: cfr. Barbaresco.</def>
+					<def>2. Proveniente di Barberia: cfr. @RR@Barbaresco@_@.</def>
 				</sense>
 			</entry>
 			<entry>
@@ -4798,7 +4798,7 @@
 					</cit>
 				</sense>
 				<sense level="2" n="1.1">
-					<def>- Venire di Barberìa: a indicare la stranezza di qualcuno (cfr. Barbaresco1).</def>
+					<def>- Venire di Barberìa: a indicare la stranezza di qualcuno (cfr. @RR@Barbaresco1@_@).</def>
 				</sense>
 				<etym>= Deriv. da barberi, berberi: popolazione dell’Africa settentrionale, le cui regioni gli arabi chiamarono al-Maghrib ‘occidente’.</etym>
 			</entry>
@@ -4806,7 +4806,7 @@
 				<form type="lemma">
 					<orth>Barberìa2</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Barbieria.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Barbieria@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Barberina</orth>
@@ -4870,7 +4870,7 @@
 				<form type="lemma">
 					<orth>Bàrbero2</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Barbaro1.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Barbaro1@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Barbétta1</orth>
@@ -5073,7 +5073,7 @@
 					<orth>Barbicato</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram>part.</gram><gram>pass.</gram><gram type="POS">agg.</gram></gramGrp><def>(part. pass. di barbicare) agg. Che ha messo radici; attecchito (v. Abbarbicato).</def>
+					<gramGrp><gram>part.</gram><gram>pass.</gram><gram type="POS">agg.</gram></gramGrp><def>(part. pass. di barbicare) agg. Che ha messo radici; attecchito (v. @RR@Abbarbicato@_@).</def>
 					<cit>
 						<bibl>Boccaccio, III-n-23:</bibl>
 						<quote> Per anni mai lontani / non sentì [il cedro] tarlo, né isgombrò sito / per sua vecchiezza, dove fosse unito.</quote>
@@ -5136,7 +5136,7 @@
 					<orth>Barbicina</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><def>sf. Barba o radice sottile (cfr. Barbolina).</def>
+					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><def>sf. Barba o radice sottile (cfr. @RR@Barbolina@_@).</def>
 					<cit>
 						<bibl source="Crusca">Bencivenni [Crusca]:</bibl>
 						<quote> Strapperai diligentemente tutte quelle barbicine, che, come tanti fili, pendono dalle grandi radici.</quote>
@@ -5164,7 +5164,7 @@
 					<orth>Barbìcola2</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><usg type="dom" subtype="SC">bot.</usg><def>sf. Bot. Piccola barba o radice (di quarto o quinto grado); ramificazione sottilissima e filamentosa (cfr. Barbicella).</def>
+					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><usg type="dom" subtype="SC">bot.</usg><def>sf. Bot. Piccola barba o radice (di quarto o quinto grado); ramificazione sottilissima e filamentosa (cfr. @RR@Barbicella@_@).</def>
 					<cit>
 						<bibl>Soderini, III-97:</bibl>
 						<quote> Le radici [degli alberi] sono la lor bocca con che elli si nutriscono, e le minutissime barbicele son le fibre, con le quali succiano e spoppano la terra.</quote>
@@ -5366,7 +5366,7 @@
 					<orth>Barbificare</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS">verbo</gram><gram type="subc">intr.</gram></gramGrp><def>intr. (barbìfico, barbìfichi) Attecchire con le radici o barbe nel terreno, radicarsi (cfr. Barbicare).</def>
+					<gramGrp><gram type="POS">verbo</gram><gram type="subc">intr.</gram></gramGrp><def>intr. (barbìfico, barbìfichi) Attecchire con le radici o barbe nel terreno, radicarsi (cfr. @RR@Barbicare@_@).</def>
 					<cit>
 						<bibl>Colombini, I-96:</bibl>
 						<quote> Come sotto la nieva e sotto grandi ghiacci le biadora fortemente barbificano, così barba e si fortifica l’anima.</quote>
@@ -5547,7 +5547,7 @@
 				<form type="lemma">
 					<orth>Bàrbio</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Barbo.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Barbo@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Barbipièco</orth>
@@ -5779,7 +5779,7 @@
 				<form type="lemma">
 					<orth>Bàrbola</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Barbula.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Barbula@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Barbolào</orth>
@@ -5822,7 +5822,7 @@
 				<form type="lemma">
 					<orth>Barboncino</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Barbone2.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Barbone2@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Barbóne1</orth>
@@ -5969,7 +5969,7 @@
 					<orth>Barbóne5</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><usg type="dom" subtype="MED">veter.</usg><def>sm. Veter. Stranguglione: malattia dei giovani bufali (tumefazione al mento). Cfr. Adenite.</def>
+					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><usg type="dom" subtype="MED">veter.</usg><def>sm. Veter. Stranguglione: malattia dei giovani bufali (tumefazione al mento). Cfr. @RR@Adenite@_@.</def>
 				</sense>
 				<etym>= Deriv. da barba ‘mento’.</etym>
 			</entry>
@@ -6079,7 +6079,7 @@
 					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><usg type="time">ant.</usg><def>sm. Ant. Parte inferiore della faccia; barbozzo, mento.</def>
 				</sense>
 				<sense level="1" n="2">
-					<def>2. Parte della celata, della barbuta, a protezione del mento e del collo (cfr. Barbozza, n. 2).</def>
+					<def>2. Parte della celata, della barbuta, a protezione del mento e del collo (cfr. @RR@Barbozza@_@, n. 2).</def>
 				</sense>
 				<etym>= Deriv. da barba ‘mento’.</etym>
 			</entry>
@@ -6095,7 +6095,7 @@
 					</cit>
 				</sense>
 				<sense level="1" n="2">
-					<def>2. Parte inferiore della celata, della barbuta, per proteggere il mento e il collo (cfr. Barbotto).</def>
+					<def>2. Parte inferiore della celata, della barbuta, per proteggere il mento e il collo (cfr. @RR@Barbotto@_@).</def>
 				</sense>
 				<etym>= Deriv. da barba1 ‘mento’.</etym>
 			</entry>
@@ -6103,7 +6103,7 @@
 				<form type="lemma">
 					<orth>Barbozzale</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Barbazzale.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Barbazzale@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Barbòzzo</orth>
@@ -6151,7 +6151,7 @@
 					<orth>Barbùcola</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><usg type="dom" subtype="SC">bot.</usg><def>sf. Bot. Barbula, barbolina, radicina (v. Barbicola).</def>
+					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><usg type="dom" subtype="SC">bot.</usg><def>sf. Bot. Barbula, barbolina, radicina (v. @RR@Barbicola@_@).</def>
 					<cit>
 						<bibl>Targioni Tozzetti, 12-2-231:</bibl>
 						<quote> Ad alcune di queste barbucole stavano attaccati coi piedi di dietro, e ciondolanti, alcuni grandi pipistrelli.</quote>
@@ -6985,7 +6985,7 @@
 				<form type="lemma">
 					<orth>Barcaréccio</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Barchereccio.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Barchereccio@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Barcarizzo</orth>
@@ -7039,7 +7039,7 @@
 				<form type="lemma">
 					<orth>Barcaròlo</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Barcaiolo.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Barcaiolo@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Barcata</orth>
@@ -7095,7 +7095,7 @@
 					<orth>Barcèllo</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><usg type="time">ant.</usg><def>sm. Ant. Battello (cfr. Barcella1).</def>
+					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><usg type="time">ant.</usg><def>sm. Ant. Battello (cfr. @RR@Barcella1@_@).</def>
 				</sense>
 				<etym>= Deriv. da barca1.</etym>
 			</entry>
@@ -7318,7 +7318,7 @@
 					<orth>Barchétto</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><usg type="dom">marin.</usg><def>sm. Marin. Piccola barca; imbarcazione leggera per la caccia in palude (v. Barchino).</def>
+					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><usg type="dom">marin.</usg><def>sm. Marin. Piccola barca; imbarcazione leggera per la caccia in palude (v. @RR@Barchino@_@).</def>
 					<cit>
 						<bibl>Sassetti, 15:</bibl>
 						<quote> Le lettere sono arrivate in questo momento, state sostenute da l’acqua che si trova da San Romano in qua; e finalmente sono venute per la strada, ma per barchétto.</quote>
@@ -7364,7 +7364,7 @@
 				<form type="lemma">
 					<orth>Barchevichite</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Barkevikite.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Barkevikite@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Barchière</orth>
@@ -9035,7 +9035,7 @@
 				<form type="lemma">
 					<orth>Bargigliato</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Bargigliuto.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Bargigliuto@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Bargìglio</orth>
@@ -9190,12 +9190,12 @@
 				<form type="lemma">
 					<orth>Barieste#sìa</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Barestesia.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Barestesia@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Barigèllo</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Bargello.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Bargello@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Barìglio</orth>
@@ -9238,7 +9238,7 @@
 					</cit>
 				</sense>
 				<sense level="1" n="2">
-					<def>2. Barile ardente: v. Barile1.</def>
+					<def>2. Barile ardente: v. @RR@Barile1@_@.</def>
 					<cit>
 						<bibl>Guicciardini, II-310:</bibl>
 						<quote> Acciò che la perdita de’ bastioni non potesse portare pericolo alla terra, a tutti, dalla parte di sotto, avevano fatto una cava con bariglioni pieni di molta polvere, per potergli disfare e gittare in aria quando non si potessino più difendere.</quote>
@@ -9276,7 +9276,7 @@
 					<orth>Barilàio</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><usg type="geo">dial.</usg><usg type="dom">marin.</usg><def>(dial. barilaro) sm. Chi fabbrica e vende barili; portatore di barili. - Anche in marin. (sec. XIX): addetto alla manutenzione dei barili (cfr. Barile, n. 5).</def>
+					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><usg type="geo">dial.</usg><usg type="dom">marin.</usg><def>(dial. barilaro) sm. Chi fabbrica e vende barili; portatore di barili. - Anche in marin. (sec. XIX): addetto alla manutenzione dei barili (cfr. @RR@Barile@_@, n. 5).</def>
 				</sense>
 				<etym>= Voce formata come bottaio, guantaio, ecc.</etym>
 			</entry>
@@ -9429,14 +9429,14 @@
 					</cit>
 				</sense>
 				<sense level="1" n="8">
-					<gramGrp><gram type="comp">locuz.</gram></gramGrp><def>8. Locuz. - Fare il pesce in barile: v. Pesce. - Stare come le acciughe in un barile: stretti, schiacciati l’uno contro l’altro.</def>
+					<gramGrp><gram type="comp">locuz.</gram></gramGrp><def>8. Locuz. - Fare il pesce in barile: v. @RR@Pesce@_@. - Stare come le acciughe in un barile: stretti, schiacciati l’uno contro l’altro.</def>
 					<cit>
 						<bibl>De Roberto, 150:</bibl>
 						<quote> La villetta affittata a donna Isabella... Un guscio di noce! I Mongiolino ci stanno come le acciughe in un barile.</quote>
 					</cit>
 				</sense>
 				<sense level="2" n="8.1">
-					<def>- Aprile ogni goccia un barile: v. Aprile, n. 3.</def>
+					<def>- Aprile ogni goccia un barile: v. @RR@Aprile@_@, n. 3.</def>
 				</sense>
 				<sense level="2" n="8.2">
 					<usg type="sem">figur.</usg><def>- A scarica barile (o barili), a scaricabarile (a scaricabarili): gioco dei ragazzi, che incrociano a vicenda le braccia, dorso contro dorso, cercando di alzarsi da terra (fare a scaricabarile). - Al figur.: addossarsi a vicenda un peso, una responsabilità, una fatica.</def>
@@ -9528,7 +9528,7 @@
 					</cit>
 				</sense>
 				<sense level="1" n="2">
-					<usg type="dom" subtype="MED">medic.</usg><def>2. Medic. Distorsione a bariletto: v. Barile.</def>
+					<usg type="dom" subtype="MED">medic.</usg><def>2. Medic. Distorsione a bariletto: v. @RR@Barile@_@.</def>
 				</sense>
 				<sense level="1" n="3">
 					<def>3. Recipiente metallico a forma cilindrica, che si adopera nei forni a gas.</def>
@@ -9567,7 +9567,7 @@
 				<form type="lemma">
 					<orth>Barillo</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Barile.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Barile@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Barilòtto1 e barilòzzo</orth>
@@ -9650,7 +9650,7 @@
 					</cit>
 				</sense>
 				<sense level="1" n="6">
-					<usg type="dom" subtype="MED">medic.</usg><def>6. Medic. Distorsione a barilotto: v. Barile1.</def>
+					<usg type="dom" subtype="MED">medic.</usg><def>6. Medic. Distorsione a barilotto: v. @RR@Barile1@_@.</def>
 				</sense>
 				<etym>= Voce formata secondo il tipo bicchierotto.</etym>
 			</entry>
@@ -9907,7 +9907,7 @@
 				<form type="lemma">
 					<orth>Barlétta1</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Bariletta.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Bariletta@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Barlétta2</orth>
@@ -9933,7 +9933,7 @@
 				<form type="lemma">
 					<orth>Barlétto1</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Bariletto.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Bariletto@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Barlétto2</orth>
@@ -9951,7 +9951,7 @@
 				<form type="lemma">
 					<orth>Barlicche e barlòcche</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Berlicche.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Berlicche@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Barlióne</orth>
@@ -9983,7 +9983,7 @@
 				<form type="lemma">
 					<orth>Barlòtto</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Barilotto.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Barilotto@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Barlume</orth>
@@ -10378,7 +10378,7 @@
 				<form type="lemma">
 					<orth>Baròcchio</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Barocco.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Barocco@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Barocchi#smo</orth>
@@ -10417,7 +10417,7 @@
 				<form type="lemma">
 					<orth>Baròccio e deriv.</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Barroccio e deriv.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Barroccio@_@ e deriv.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Baròcco1</orth>
@@ -10497,7 +10497,7 @@
 					</cit>
 				</sense>
 				<sense level="1" n="3">
-					<usg type="dom" subtype="UM">filos.</usg><def>3. Filos.: v. Baroco.</def>
+					<usg type="dom" subtype="UM">filos.</usg><def>3. Filos.: v. @RR@Baroco@_@.</def>
 				</sense>
 				<etym>= Dal termine della sillogistica baroco (v.), con cui, nei sec. XVI e XVII, si qualificò, nella polemica contro lo scolasticismo e l’aristotelismo, l’astratta pedanteria e la goffa stravaganza della logica tradizionale e puramente formale («argomento in baroco»). Il termine francese baroque ‘bizzarro, stravagante’ (docum. nel sec. XVII col Saint-Simon) ha la medesima origine (la figura sillogistica baroco, menzionata dal Montaigne come simbolo del ragionamento scolastico e capzioso); e tuttavia pare si sia verificata una fusione con l’altra voce baroque (docum. fin dal 1531), che designava un tipo di perla a forma irregolare e perciò strana e anormale (perle baroque), dal port. barroco (della stessa accezione e di etimo incerto, probabilmente prelatino), a cui corrisponde lo spagn. barrueco e berrueco ‘rupe granitica, nodulo sferoidale che si incontra nelle rocce’, e infine ‘perla non perfettamente rotonda, anormale’.</etym>
 			</entry>
@@ -10536,7 +10536,7 @@
 				<form type="lemma">
 					<orth>Baròccolo</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Barocco2.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Barocco2@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Baroccume</orth>
@@ -10729,7 +10729,7 @@
 					<orth>Baronàggine</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><def>sf. Bricconata, azione da mariolo (v. Baronata).</def>
+					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><def>sf. Bricconata, azione da mariolo (v. @RR@Baronata@_@).</def>
 				</sense>
 				<etym>= Deriv. da barone2 ‘briccone’.</etym>
 			</entry>
@@ -11010,7 +11010,7 @@
 					</cit>
 				</sense>
 				<sense level="1" n="5">
-					<def>5. Barone della finanza, dell'industria, ecc.: grande capitalista, che organizza ed è a capo di potenti complessi industriali, commerciali, bancari (v. Capitano).</def>
+					<def>5. Barone della finanza, dell'industria, ecc.: grande capitalista, che organizza ed è a capo di potenti complessi industriali, commerciali, bancari (v. @RR@Capitano@_@).</def>
 					<cit>
 						<bibl>D. Cecchi, 6-97:</bibl>
 						<quote> Nella seconda metà dell’Ottocento, i Vanderbilt... i Rockefeller e gli altri baroni della finanza americana, avevano rozzamente cominciato a raccogliere opere d’arte, allo scopo d’accantonare più solidamente possibile una parte delle loro fortune.</quote>
@@ -11463,7 +11463,7 @@
 				<form type="lemma">
 					<orth>Barracèllo</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Baracello.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Baracello@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Barracuda</orth>
@@ -11583,7 +11583,7 @@
 				<form type="lemma">
 					<orth>Barrétto</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Berretto.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Berretto@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Barricadièro</orth>
@@ -11879,7 +11879,7 @@
 					<usg type="dom" subtype="SC">fis.</usg><def>9. Fis. Barriera di potenziale: che deve essere superata da una carica elettrica che passa da un punto di potenziale più basso a uno più alto (è data, cioè, da una differenza di potenziale).</def>
 				</sense>
 				<sense level="1" n="10">
-					<usg type="dom" subtype="SC">aeron.</usg><def>10. Aeron. Barriera della temperatura: ostacolo incontrato da un aereo alle velocità supersoniche. - Barrièra sonora o sonica: v. Muro.</def>
+					<usg type="dom" subtype="SC">aeron.</usg><def>10. Aeron. Barriera della temperatura: ostacolo incontrato da un aereo alle velocità supersoniche. - Barrièra sonora o sonica: v. @RR@Muro@_@.</def>
 				</sense>
 				<etym>= Dal fr. barrière (docum. nel sec. XIV), deriv. da barra.</etym>
 			</entry>
@@ -11904,7 +11904,7 @@
 				<form type="lemma">
 					<orth>Barrista</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Barista.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Barista@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Barrito</orth>
@@ -12030,7 +12030,7 @@
 					<orth>Barròccio1</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><def>(baròccio) sm. Veicolo rurale, a due ruote, leggero, per lo più adibito al trasporto di cose (tipico delle regioni dell’Italia centrale e meridionale). Cfr. Biroccio.</def>
+					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><def>(baròccio) sm. Veicolo rurale, a due ruote, leggero, per lo più adibito al trasporto di cose (tipico delle regioni dell’Italia centrale e meridionale). Cfr. @RR@Biroccio@_@.</def>
 					<cit>
 						<bibl>Algarotti, 3-235:</bibl>
 						<quote> Dopo un viaggio il più agiato del mondo, parte fatto in baroccio e parte a cavallo, eccomi nelle acque patrie.</quote>
@@ -12131,12 +12131,12 @@
 				<form type="lemma">
 					<orth>Barsòi</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Barzoi.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Barzoi@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Bartoldare</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Bertoldare.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Bertoldare@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Bartolésco</orth>
@@ -12212,7 +12212,7 @@
 				<form type="lemma">
 					<orth>Bartovèllo</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Bertovello.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Bertovello@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Barucca</orth>
@@ -12467,13 +12467,13 @@
 				<form type="lemma">
 					<orth>Barzamino</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Barzemino.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Barzemino@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Bar#zellante</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS">agg.</gram></gramGrp><def>agg. Che compone barzellette e frottole (v. Barzelletta).</def>
+					<gramGrp><gram type="POS">agg.</gram></gramGrp><def>agg. Che compone barzellette e frottole (v. @RR@Barzelletta@_@).</def>
 					<cit>
 						<bibl>Boccalini, I-15:</bibl>
 						<quote> Sono già molti anni che Apollo fece venir di Sicilia due compagnie di poeti frottolanti e barzellanti, uomini arrischiati nella rima e valenti coi concetti in mano.</quote>
@@ -12614,7 +12614,7 @@
 				<form type="lemma">
 					<orth>Bas</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Bus.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Bus@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Ba#sa</orth>
@@ -12679,14 +12679,14 @@
 					</cit>
 				</sense>
 				<sense level="1" n="2">
-					<def>2. Figura che sovrasta l’elmo (v. Basilisco, n. 2).</def>
+					<def>2. Figura che sovrasta l’elmo (v. @RR@Basilisco@_@, n. 2).</def>
 					<cit>
 						<bibl>Boiardo, 1-2-43:</bibl>
 						<quote> Era la insegna del guerriero adatto /il scudo azzurro e un gran scaglion d’argento; / un basalisco porta per cimerò / di sopra a l’elmo lo ardito guerrero.</quote>
 					</cit>
 				</sense>
 				<sense level="1" n="3">
-					<usg type="dom" subtype="UM">stor.</usg><def>3. Stor. Grossa bocca da fuoco del secolo XVI, di grande potenza, cfr. Basilisco, n. 4).</def>
+					<usg type="dom" subtype="UM">stor.</usg><def>3. Stor. Grossa bocca da fuoco del secolo XVI, di grande potenza, cfr. @RR@Basilisco@_@, n. 4).</def>
 					<cit>
 						<bibl>Guicciardini, V-203:</bibl>
 						<quote> Dette fuoco a uno grandissimo basalischio della sua galea, il quale percotendo nella galea capitana... ammazzò al primo colpo quaranta uomini.</quote>
@@ -12698,7 +12698,7 @@
 				<form type="lemma">
 					<orth>Ba#salte</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Basalto.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Basalto@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Ba#sàltico</orth>
@@ -12729,7 +12729,7 @@
 					<orth>Ba#saltina</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><usg type="dom" subtype="SC">miner.</usg><def>sf. Miner. Minerale contenuto nei basalti (v. Augite).</def>
+					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><usg type="dom" subtype="SC">miner.</usg><def>sf. Miner. Minerale contenuto nei basalti (v. @RR@Augite@_@).</def>
 				</sense>
 			</entry>
 			<entry>
@@ -12899,7 +12899,7 @@
 				<form type="lemma">
 					<orth>Ba#sana</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Bazzana.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Bazzana@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Ba#sanite</orth>
@@ -13032,7 +13032,7 @@
 				<form type="lemma">
 					<orth>Bàscio e deriv.</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Bacio e deriv.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Bacio@_@ e deriv.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Basco</orth>
@@ -13316,7 +13316,7 @@
 					</cit>
 				</sense>
 				<sense level="1" n="9">
-					<usg type="dom" subtype="SC">bot.</usg><usg type="dom" subtype="MED">anat.</usg><def>9. Bot. e anat. Parte di un organo o di un arto per cui esso si attacca o si inserisce al resto del corpo (cfr. Basale, n. 2).</def>
+					<usg type="dom" subtype="SC">bot.</usg><usg type="dom" subtype="MED">anat.</usg><def>9. Bot. e anat. Parte di un organo o di un arto per cui esso si attacca o si inserisce al resto del corpo (cfr. @RR@Basale@_@, n. 2).</def>
 					<cit>
 						<bibl>Marino, 7-129:</bibl>
 						<quote> Da le fauci al palato in alto ascende [la lingua], / quanto basta e convien polputa e grossa. / Larga ha la base e quanto più si stende / s’aguzza in cima ed è spugnosa e rossa.</quote>
@@ -13347,7 +13347,7 @@
 					</cit>
 				</sense>
 				<sense level="2" n="11.1">
-					<def>- Base geodetica: un arco di circolo massimo (se la terra fosse perfettamente sferica: v. Geoide), esteso normalmente da 3 a 10 km (dalla lunghezza della base si calcola la triangolazione).</def>
+					<def>- Base geodetica: un arco di circolo massimo (se la terra fosse perfettamente sferica: v. @RR@Geoide@_@), esteso normalmente da 3 a 10 km (dalla lunghezza della base si calcola la triangolazione).</def>
 				</sense>
 				<sense level="1" n="12">
 					<usg type="dom" subtype="UM">ling.</usg><def>12. Ling. Parte di una parola che comprende la radice; forma linguistica che si ritiene originaria rispetto ad altre che la continuano.</def>
@@ -13379,7 +13379,7 @@
 				<form type="lemma">
 					<orth>Ba#sèno</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Basino.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Basino@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Ba#sèo</orth>

@@ -223,7 +223,7 @@ def process_xml(file_path):
         counters['pattern_cfr_parenthesis'] += 1 # Incrementa il contatore
         part1 = match.group(1) # <def> e eventuale testo nella parentesi prima di cfr.
         cfr = match.group(2) # Cfr.
-        word = match.group(3) # La parola o le parole (espressione) da codificare
+        word = match.group(3) # La parola o le parole (polirematica) da codificare
         part4 = match.group(4) if match.group(4) else "" # Eventuale numero indicante il lemma (attaccato al lemma stesso)
         part5 = match.group(5) # Chiusura parentesi e punto o punto e virgola e spazio
         part6 = match.group(6) if match.group(6) else "" # Eventuale testo dopo il rinvio
