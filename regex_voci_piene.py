@@ -390,9 +390,3 @@ os.makedirs(output_directory, exist_ok=True)
 process_multiple_files(input_directory, output_directory)
 
 print("Elaborazione completata su tutti i file!")
-
-
-
-
-
-
