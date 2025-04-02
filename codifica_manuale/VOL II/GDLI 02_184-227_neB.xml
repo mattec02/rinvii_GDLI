@@ -547,7 +547,7 @@
 				<form type="lemma">
 					<orth>Berlòcche</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Berlicche.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Berlicche@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Berlusco</orth>
@@ -884,7 +884,7 @@
 					<orth>Berrétta</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><usg type="time">ant.</usg><def>(ant. anche berétta) sf. Copricapo, per lo più di stoffa, a varie fogge (cfr. Berretto).</def>
+					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><usg type="time">ant.</usg><def>(ant. anche berétta) sf. Copricapo, per lo più di stoffa, a varie fogge (cfr. @RR@Berretto@_@).</def>
 					<cit>
 						<bibl>Nuovi testi fiorentini, 403:</bibl>
 						<quote> Sei fiorini d’oro... ebbe Ricco pellicciaio per lo fodero de la guarnacca mia e de la pelle e del pelliccione de la Cara e fodero di Francesco e di mia berretta.</quote>
@@ -972,7 +972,7 @@
 					</cit>
 				</sense>
 				<sense level="2" n="1.2">
-					<def>- Berretta da notte: leggera (di cotone o di lana) e molto aderente al capo, per dormire (cfr. Papalina).</def>
+					<def>- Berretta da notte: leggera (di cotone o di lana) e molto aderente al capo, per dormire (cfr. @RR@Papalina@_@).</def>
 				</sense>
 				<sense level="2" n="1.3">
 					<def>- Avere il cervello sopra la berretta: avere poco giudizio.</def>
@@ -2181,7 +2181,7 @@
 				<form type="lemma">
 					<orth>Bertabèllo</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Bertuello.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Bertuello@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Berteggiaménto</orth>
@@ -2410,7 +2410,7 @@
 				<form type="lemma">
 					<orth>Bertino</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Berrettino2.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Berrettino2@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Bertòccio</orth>
@@ -2607,14 +2607,14 @@
 					<orth>Bertònica</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><usg type="geo">tosc.</usg><def>sf. Tosc. Variante regionale di betònica (cfr. Brettonica).</def>
+					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><usg type="geo">tosc.</usg><def>sf. Tosc. Variante regionale di betònica (cfr. @RR@Brettonica@_@).</def>
 				</sense>
 			</entry>
 			<entry>
 				<form type="lemma">
 					<orth>Bertovèllo</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Bertuello.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Bertuello@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Bertrandite</orth>
@@ -2953,7 +2953,7 @@
 				<form type="lemma">
 					<orth>Berzàglio</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Bersaglio.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Bersaglio@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Berzare</orth>
@@ -3072,7 +3072,7 @@
 					<orth>Bestémmia</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><def>sf. Imprecazione ingiuriosa, maledica, sacrilega; invettiva oltraggiosa e triviale contro la Divinità o persone e cose sacre o simboli del culto religioso (cfr. anche Biastema).</def>
+					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><def>sf. Imprecazione ingiuriosa, maledica, sacrilega; invettiva oltraggiosa e triviale contro la Divinità o persone e cose sacre o simboli del culto religioso (cfr. anche @RR@Biastema@_@).</def>
 					<cit>
 						<bibl>Giamboni, 191:</bibl>
 						<quote> E credi, chi fa contra le dette comandamenta, che commetta peccato? E io dissi: SI, pecca mortalmente d’alcun de’ sette peccati mortali. E quali sono dessi? E io dissi: Avolterio, omicidio, furto, pergiuro, falso testimonio, rapina e bestemmia.</quote>
@@ -3154,7 +3154,7 @@
 					</cit>
 				</sense>
 				<sense level="1" n="3">
-					<def>3. Giudizio che offende il buon senso; opinione, sentenza, affermazione fortemente erronea che contrasta con le verità accettate o con gli ideali comuni; grosso sproposito (e si veda Eresia nell’accezione analoga).</def>
+					<def>3. Giudizio che offende il buon senso; opinione, sentenza, affermazione fortemente erronea che contrasta con le verità accettate o con gli ideali comuni; grosso sproposito (e si veda @RR@Eresia@_@ nell’accezione analoga).</def>
 					<cit>
 						<bibl>Tasso, n-III-904:</bibl>
 						<quote> Non mi piacque mai l’opinione di Massimo Tirio, il quale pone tre generi d’arti, il primo de’ quali consiste ne la contemplazione, il secondo ne l’azione,  il terzo ne le cose che si fanno: laonde per suo aviso sarebbe quasi bestemmia il dire che la filosofia non fossearte.</quote>
@@ -3224,7 +3224,7 @@
 					<orth>Bestemmiare</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS">verbo</gram><gram type="subc">tr.</gram><gram>assol.</gram></gramGrp><usg type="time">ant.</usg><def>(ant. bastemmiare) tr. (bestémmio) Offendere, oltraggiare la divinità (e le persone e le cose della religione) con ingiurie, con invettive, con imprecazioni, con parole di spregio, di odio, di sacrilegio. - Anche nell’uso assol.: dire bestemmie, imprecare contro il divino e il sacro (cfr. anche Biastemare).</def>
+					<gramGrp><gram type="POS">verbo</gram><gram type="subc">tr.</gram><gram>assol.</gram></gramGrp><usg type="time">ant.</usg><def>(ant. bastemmiare) tr. (bestémmio) Offendere, oltraggiare la divinità (e le persone e le cose della religione) con ingiurie, con invettive, con imprecazioni, con parole di spregio, di odio, di sacrilegio. - Anche nell’uso assol.: dire bestemmie, imprecare contro il divino e il sacro (@RR@Biastemare@_@).</def>
 					<cit>
 						<bibl>Dante, Inf., 11-47:</bibl>
 						<quote> Puossi far forza nella deitade, / col cuor negando e bestemmiando quella, / e spregiando [’n] natura sua bontade.</quote>
@@ -4026,7 +4026,7 @@
 					<orth>Bestiàio</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><usg type="geo">tosc.</usg><def>sm. Tosc. Chi ha cura del bestiame (cfr. Bestiario).</def>
+					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><usg type="geo">tosc.</usg><def>sm. Tosc. Chi ha cura del bestiame (cfr. @RR@Bestiario@_@).</def>
 					<cit>
 						<bibl>Targioni Tozzetti, 12-7-310:</bibl>
 						<quote> Numerò quattro pastori o bestiai, in caso che la compagnia tenga i bestiami a conto proprio.</quote>
@@ -4686,7 +4686,7 @@
 					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><def>sf. Nome della seconda lettera dell’alfabeto greco, resa col segno β (e corrispondente a b dell’alfabeto latino).</def>
 				</sense>
 				<sense level="1" n="2">
-					<usg type="dom" subtype="SC">astron.</usg><def>2. Astron. Si indica col segno di β la stella che in una costellazione occupa il secondo posto rispetto alla luminosità (cfr. Alfa).</def>
+					<usg type="dom" subtype="SC">astron.</usg><def>2. Astron. Si indica col segno di β la stella che in una costellazione occupa il secondo posto rispetto alla luminosità (cfr. @RR@Alfa@_@).</def>
 				</sense>
 				<sense level="1" n="3">
 					<usg type="dom" subtype="SC">chim.</usg><def>3. Chim. Premessa al nome di un composto chimico, indica la posizione di un gruppo sostituente.</def>
@@ -5046,7 +5046,7 @@
 					<orth>Bettolina</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sf.</gram><gram type="POS" subtype="gen">sm.</gram></gramGrp><usg type="dom">marin.</usg><def>sf. (anche bettolino, sm.) Marin. Galleggiante di notevole ampiezza e capacità, impiegato per rifornire i bastimenti (e le navi militari). Cfr. Betta1.</def>
+					<gramGrp><gram type="POS" subtype="gen">sf.</gram><gram type="POS" subtype="gen">sm.</gram></gramGrp><usg type="dom">marin.</usg><def>sf. (anche bettolino, sm.) Marin. Galleggiante di notevole ampiezza e capacità, impiegato per rifornire i bastimenti (e le navi militari). Cfr. @RR@Betta1@_@.</def>
 				</sense>
 				<etym>= Dimin. di bettola2.</etym>
 			</entry>
@@ -5083,13 +5083,13 @@
 				<form type="lemma">
 					<orth>Bettònica</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Betonica.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Betonica@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Bètula</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><usg type="dom" subtype="SC">bot.</usg><def>sf. Bot. Genere della famiglia Betulacee comprendente 40 specie di piante (dell’emisfero boreale). Cfr. Betulla.</def>
+					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><usg type="dom" subtype="SC">bot.</usg><def>sf. Bot. Genere della famiglia Betulacee comprendente 40 specie di piante (dell’emisfero boreale). Cfr. @RR@Betulla@_@.</def>
 					<cit>
 						<bibl>Landino [Plinio], 16-18:</bibl>
 						<quote> Amano luoghi freddi el moro e uno albero in Gallia chiamato betula, el quale è molto candido e fa sottili vermene.</quote>
@@ -5603,7 +5603,7 @@
 				<form type="lemma">
 					<orth>Bévere</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Bere.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Bere@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Beveréccio</orth>
@@ -5685,13 +5685,13 @@
 				<form type="lemma">
 					<orth>Bévero</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Bivero.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Bivero@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Beveróne</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><def>sm. Bevanda d’acqua con farina per le bestie (cfr. Beveraggio).</def>
+					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><def>sm. Bevanda d’acqua con farina per le bestie (cfr. @RR@Beveraggio@_@).</def>
 					<cit>
 						<bibl>Tassoni, 3-30:</bibl>
 						<quote> Il Labadin, persona accorta, / fé* il beverone a la sua vacca morta.</quote>
@@ -5971,25 +5971,25 @@
 				<form type="lemma">
 					<orth>Bèvola</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Beola.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Beola@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Bevóne</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Beone.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Beone@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Bevucchiare</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS">verbo</gram><gram type="subc">tr.</gram></gramGrp><def>tr. Bevicchiare (cfr. Sbevucchiare).</def>
+					<gramGrp><gram type="POS">verbo</gram><gram type="subc">tr.</gram></gramGrp><def>tr. Bevicchiare (cfr. @RR@Sbevucchiare@_@).</def>
 				</sense>
 			</entry>
 			<entry>
 				<form type="lemma">
 					<orth>Bèvuta</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Beuta.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Beuta@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Bevuta</orth>
@@ -6083,13 +6083,13 @@
 				<form type="lemma">
 					<orth>Bèy</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Bei.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Bei@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Be#zoàr</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><usg type="time">ant.</usg><def>(ant. bel#zuà, bel#zuàr, ben#zoàr, be#zaàr; sec. XIX anche be#zzuarre, be#zzuarro, be#zzuardo) sm. Concrezione o calcolo che si forma nell’apparato digerente dei ruminanti (specie dell’antilope): noto nella medicina popolare dell’Oriente e del Medioevo come potente antidoto del veleno (Cfr. Bel#zuar).</def>
+					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><usg type="time">ant.</usg><def>(ant. bel#zuà, bel#zuàr, ben#zoàr, be#zaàr; sec. XIX anche be#zzuarre, be#zzuarro, be#zzuardo) sm. Concrezione o calcolo che si forma nell’apparato digerente dei ruminanti (specie dell’antilope): noto nella medicina popolare dell’Oriente e del Medioevo come potente antidoto del veleno (Cfr. @RR@Bel#zuar@_@).</def>
 					<cit>
 						<bibl>Mattioli [Dioscoride], I-771:</bibl>
 						<quote> Avendomi il bolo armeno... ridotto a memoria la pietra bezaar, tanto celebrata da gli Arabi, ne dirò qui (non essendo conosciuta da Dioscoride né da gli altri Greci) per universal beneficio di tutti, quanto n’ha ritrovato scritto da gli Arabi; e però dico che questa è antidoto infallibile per sua speziai virtù contra tutti i veleni, che si ritrovano al mondo: imperò che gli supera e gli vince tanto tolta per bocca, quanto portata addosso in luogo che tocchi la carne.</quote>
@@ -6115,7 +6115,7 @@
 				<form type="lemma">
 					<orth>Bezuga</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Bizzuca.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Bizzuca@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Bezzicare</orth>
@@ -6266,7 +6266,7 @@
 					<orth>Bi</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sm.</gram><gram type="gen">f.</gram></gramGrp><def>sm. e f. Nome della lettera b (B), la seconda lettera dell’alfabeto, la prima delle consonanti (v. Be1).</def>
+					<gramGrp><gram type="POS" subtype="gen">sm.</gram><gram type="gen">f.</gram></gramGrp><def>sm. e f. Nome della lettera b (B), la seconda lettera dell’alfabeto, la prima delle consonanti (v. @RR@Be1@_@).</def>
 				</sense>
 			</entry>
 			<entry>
@@ -6680,7 +6680,7 @@
 				<form type="lemma">
 					<orth>Biado1</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Biada.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Biada@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Biado2</orth>
@@ -7287,7 +7287,7 @@
 				<form type="lemma">
 					<orth>Bianchétta3</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Bianchetto3.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Bianchetto3@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Bianchétto1</orth>
@@ -7373,7 +7373,7 @@
 				<form type="lemma">
 					<orth>Bianchetto6</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Bianchetta2.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Bianchetta2@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Bianchettóne</orth>
@@ -7459,7 +7459,7 @@
 				<form type="lemma">
 					<orth>Bianchi1</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Bianco2, n. 15, e Guelfo.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Bianco2@_@, n. 15, e @RR@Guelfo@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Bianchi2</orth>
@@ -7530,7 +7530,7 @@
 					<orth>Bianchina1</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><def>sf. La seconda dormita dei bachi da seta (cfr. Bianca1).</def>
+					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><def>sf. La seconda dormita dei bachi da seta (cfr. @RR@Bianca1@_@).</def>
 				</sense>
 			</entry>
 			<entry>
@@ -8184,7 +8184,7 @@
 					<def>- Carbone bianco: la forza idraulica che produce energia elettrica.</def>
 				</sense>
 				<sense level="2" n="15.3">
-					<usg type="sem">figur.</usg><def>- Bandiera bianca: in segno di resa. - Alzare bandiera bianca: arrendersi; capitolare. - Anche al figur. (cfr. Bandiera).</def>
+					<usg type="sem">figur.</usg><def>- Bandiera bianca: in segno di resa. - Alzare bandiera bianca: arrendersi; capitolare. - Anche al figur. (cfr. @RR@Bandiera@_@).</def>
 				</sense>
 				<sense level="2" n="15.4">
 					<def>- Canale bianco: vaso non sanguigno, del sistema linfatico.</def>
@@ -8197,7 +8197,7 @@
 					<def>- Sostanza bianca: una delle due sostanze fondamentali del sistema nervoso.</def>
 				</sense>
 				<sense level="2" n="15.6">
-					<def>- Fumata bianca: v. Fumata.</def>
+					<def>- Fumata bianca: v. @RR@Fumata@_@.</def>
 				</sense>
 				<sense level="2" n="15.7">
 					<def>- Globuli bianchi: i leucociti.</def>
@@ -8318,10 +8318,10 @@
 					<def>- Razza bianca: la razza caucasica o indoeuropea.</def>
 				</sense>
 				<sense level="2" n="15.29">
-					<def>- Reti bianche: v. Rete.</def>
+					<def>- Reti bianche: v. @RR@Rete@_@.</def>
 				</sense>
 				<sense level="2" n="15.30">
-					<def>- Sciopero bianco: v. Sciopero.</def>
+					<def>- Sciopero bianco: v. @RR@Sciopero@_@.</def>
 				</sense>
 				<sense level="2" n="15.31">
 					<def>- Terra bianca: biancana.</def>
@@ -8886,7 +8886,7 @@
 				<form type="lemma">
 					<orth>Bianco e néro</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Bianco2, n. 12.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Bianco2@_@, n. 12.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Bianco fióre</orth>
@@ -9261,7 +9261,7 @@
 				<form type="lemma">
 					<orth>Biasciare e deriv.</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Biascicare e deriv.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Biascicare@_@ e deriv.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Biasciaro#sari</orth>
@@ -10142,7 +10142,7 @@
 					<orth>Biavo</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS">agg.</gram></gramGrp><usg type="dia">letter.</usg><def>agg. Letter. Di colore azzurro chiaro; azzurrognolo (cfr. Biado).</def>
+					<gramGrp><gram type="POS">agg.</gram></gramGrp><usg type="dia">letter.</usg><def>agg. Letter. Di colore azzurro chiaro; azzurrognolo (cfr. @RR@Biado@_@).</def>
 					<cit>
 						<bibl>Cennini, 125:</bibl>
 						<quote> Se la tela è negra, la puoi lavorare d’un biavo ben chiaro, cioè biacca assai e poco indaco. </quote>
@@ -11807,7 +11807,7 @@
 					<orth>Bicipàttino</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><def>(bici-pattino) sm. Pattino costituito da una bicicletta posta su due galleggianti (in uso nelle località balneari). Cfr. Biciplano.</def>
+					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><def>(bici-pattino) sm. Pattino costituito da una bicicletta posta su due galleggianti (in uso nelle località balneari). Cfr. @RR@Biciplano@_@.</def>
 				</sense>
 				<etym>= Comp. da bici[cletta] e pattino (v.).</etym>
 			</entry>
@@ -12110,7 +12110,7 @@
 				<form type="lemma">
 					<orth>Bicóncio</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Bigoncio.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Bigoncio@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Bicontìnuo</orth>
@@ -12277,7 +12277,7 @@
 					<orth>Bicuspidale</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS">agg.</gram></gramGrp><def>agg. Che ha due cuspidi, due punte (cfr. Bicuspide).</def>
+					<gramGrp><gram type="POS">agg.</gram></gramGrp><def>agg. Che ha due cuspidi, due punte (cfr. @RR@Bicuspide@_@).</def>
 				</sense>
 				<sense level="1" n="2">
 					<usg type="dom" subtype="MED">anat.</usg><def>2. Anat. Valvola bicuspidale: valvola bicuspide.</def>
@@ -12288,7 +12288,7 @@
 					<orth>Bicuspidato</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS">agg.</gram></gramGrp><def>agg. Che ha due cuspidi, che è formato con due punte (cfr. Bicuspide).</def>
+					<gramGrp><gram type="POS">agg.</gram></gramGrp><def>agg. Che ha due cuspidi, che è formato con due punte (cfr. @RR@Bicuspide@_@).</def>
 				</sense>
 				<sense level="1" n="2">
 					<def>2. Dente bicuspidato: il premolare.</def>
@@ -12526,7 +12526,7 @@
 				<form type="lemma">
 					<orth>Bidóllo</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Bedollo.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Bedollo@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Bidonare</orth>
@@ -12818,7 +12818,7 @@
 				<form type="lemma">
 					<orth>Biedóne</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Bietone.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Bietone@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Bièlidi</orth>
@@ -12858,7 +12858,7 @@
 				<form type="lemma">
 					<orth>Bieltà</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Beltà.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Beltà@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Biennale</orth>
@@ -13076,7 +13076,7 @@
 					<orth>Bietolàggine</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><def>sf. Balordaggine, insulsaggine, stolidità (cfr. Bietolone).</def>
+					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><def>sf. Balordaggine, insulsaggine, stolidità (cfr. @RR@Bietolone@_@).</def>
 					<cit>
 						<bibl>R. M. Bracci, 2-82:</bibl>
 						<quote> Adesso per confondere la vostra bietolaggine, v’addurrò la ragione di tali diversità ugualmente commendabili.</quote>
@@ -13502,7 +13502,7 @@
 				<form type="lemma">
 					<orth>Bifòglio</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Bifolio.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Bifolio@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Bifólca</orth>
@@ -13690,12 +13690,12 @@
 				<form type="lemma">
 					<orth>Bifonchiare</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Bofonchiare.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Bofonchiare@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Bifónchio</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Bofonchio.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Bofonchio@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Bifònico</orth>
@@ -14130,7 +14130,7 @@
 				<form type="lemma">
 					<orth>Bìgaro</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Bighero.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Bighero@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Bigato</orth>
@@ -14348,7 +14348,7 @@
 				<form type="lemma">
 					<orth>Bighellare</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Bighellonare.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Bighellonare@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Bighellonare</orth>
@@ -14484,7 +14484,7 @@
 				<form type="lemma">
 					<orth>Bighino</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Beghino.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Beghino@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Bìgia</orth>
@@ -14885,7 +14885,7 @@
 					<orth>Bigióne</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><usg type="dom" subtype="SC">ornit.</usg><def>sm. Ornit. Denominazione regionale del beccafico (cfr. Bigia) e della bigia grossa.</def>
+					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><usg type="dom" subtype="SC">ornit.</usg><def>sm. Ornit. Denominazione regionale del beccafico (cfr. @RR@Bigia@_@) e della bigia grossa.</def>
 					<cit>
 						<bibl>Panciatichi, 24:</bibl>
 						<quote> Allegrezza, allegrezza! e’ piove; e’ verranno i bigioni, si farà lo stravizzo.</quote>
@@ -14983,12 +14983,12 @@
 				<form type="lemma">
 					<orth>Bìglia</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Bilia.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Bilia@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Bigliardo e deriv.</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Biliardo e deriv.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Biliardo@_@ e deriv.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Bigliettàio e bigliettàrio</orth>
@@ -15215,7 +15215,7 @@
 					<def>6. Biglietto di nomina: notificazione scritta dell’avvenuta nomina inviata dalla Curia, a nome del pontefice, all’interessato (e precede l’invio della bolla).</def>
 				</sense>
 				<sense level="1" n="7">
-					<usg type="dom">milit.</usg><def>7. Milit. Biglietto d'alloggio: cfr. Alloggio.</def>
+					<usg type="dom">milit.</usg><def>7. Milit. Biglietto d'alloggio: cfr. @RR@Alloggio@_@.</def>
 					<cit>
 						<bibl>Verga, 4-177:</bibl>
 						<quote> S’era visto capitare a tre ore di notteil Capitano d’Arme, un bell’uomo colla barba a collana e i baffi alla militare, che recava il biglietto di alloggio.</quote>

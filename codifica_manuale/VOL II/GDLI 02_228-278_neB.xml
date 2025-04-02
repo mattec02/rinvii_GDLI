@@ -69,7 +69,7 @@
 				<form type="lemma">
 					<orth>Bigòllo1</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Bicollo.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Bicollo@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Bigòllo2</orth>
@@ -388,7 +388,7 @@
 					<orth>Bigotterìa</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><usg type="sem">figur.</usg><def>sf. Condizione di bigotto; azione, sentimento, condotta da bigotto. - Anche al figur. (cfr. Bacchettoneria).</def>
+					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><usg type="sem">figur.</usg><def>sf. Condizione di bigotto; azione, sentimento, condotta da bigotto. - Anche al figur. (cfr. @RR@Bacchettoneria@_@).</def>
 					<cit>
 						<bibl>Arlìa, 64:</bibl>
 						<quote> Bigotteria è voce straniera, di uso comune sì, ma straniera; e non ci serve avendo ipocrisia, bacchettoneria, nelle quali due voci è compendiata ogni minima gradazione di simile peste di gente.</quote>
@@ -420,7 +420,7 @@
 					<orth>Bigotti#smo</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><def>sm. Comportamento da bigotto; condizione morale del bacchettone (cfr. Bigotteria).</def>
+					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><def>sm. Comportamento da bigotto; condizione morale del bacchettone (cfr. @RR@Bigotteria@_@).</def>
 					<cit>
 						<bibl>Cesarotti, I-70:</bibl>
 						<quote> Un saggio scrittore nelle cose che non ammettono una poziorità sensibile, cercherà di sfuggire anche i difetti apparenti, se non altro per non irritare il bigottismo, ugualmente pericoloso in letteratura ed in società.</quote>
@@ -523,7 +523,7 @@
 				<form type="lemma">
 					<orth>Bikini</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Bichini.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Bichini@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Bilabiale</orth>
@@ -560,7 +560,7 @@
 					<orth>Bilancèlla2</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><def>sf. Tipo di rete da pesca detta anche bilancia (cfr. Bilancia2).</def>
+					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><def>sf. Tipo di rete da pesca detta anche bilancia (cfr. @RR@Bilancia2@_@).</def>
 					<cit>
 						<bibl>Linati, 30-218:</bibl>
 						<quote> Di tanto in tanto uno della casa fa girare una carrucola e cala in acqua la bilancella: ve la lascia per qualche minuto poi la tira su e fa schizzare dentro un secchio quel poco argento di pescheria minuta.</quote>
@@ -1717,7 +1717,7 @@
 					<orth>Bile</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><def>sf. Umore denso, vischioso, di colore giallo (più o meno scuro) e di sapore amaro, che il fegato elabora incessantemente; si raccoglie e si concentra nella cistifellea (o vescichetta biliare) mentre il corpo è digiuno, per versarsi nel duodeno durante il passaggio del cibo nell’intestino (esercita una funzione importantissima nella digestione dei grassi, come attivatrice della peristalsi intestinale; ha inoltre azione lassativa e antiputrida). Cfr. Fiele.</def>
+					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><def>sf. Umore denso, vischioso, di colore giallo (più o meno scuro) e di sapore amaro, che il fegato elabora incessantemente; si raccoglie e si concentra nella cistifellea (o vescichetta biliare) mentre il corpo è digiuno, per versarsi nel duodeno durante il passaggio del cibo nell’intestino (esercita una funzione importantissima nella digestione dei grassi, come attivatrice della peristalsi intestinale; ha inoltre azione lassativa e antiputrida). Cfr. @RR@Fiele@_@.</def>
 					<cit>
 						<bibl source="Crusca">Bencivenni [Crusca]:</bibl>
 						<quote> Quando la vescica biliaria è piena di bile.</quote>
@@ -2398,7 +2398,7 @@
 					</cit>
 				</sense>
 				<sense level="1" n="2">
-					<usg type="dom" subtype="SC">matem.</usg><def>2. Matem. Equazione avente due variabili, di primo grado in ciascuna delle due variabili, di espressione generale (cfr. Plurilineare).</def>
+					<usg type="dom" subtype="SC">matem.</usg><def>2. Matem. Equazione avente due variabili, di primo grado in ciascuna delle due variabili, di espressione generale (cfr. @RR@Plurilineare@_@).</def>
 				</sense>
 				<etym>= Voce scient., comp. da bi- ‘due, doppio’ e lineare (v.).</etym>
 			</entry>
@@ -2695,7 +2695,7 @@
 				<form type="lemma">
 					<orth>Billa</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Billo.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Billo@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Billèra</orth>
@@ -3075,7 +3075,7 @@
 					<orth>Bimetàllico</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS">agg.</gram><gram type="numb">plur.</gram><gram type="gen">m.</gram></gramGrp><def>agg. (plur. m. -ci) Composto di due metalli diversi; che segue il sistema monetario bimetallico (v. Bimetallismo).</def>
+					<gramGrp><gram type="POS">agg.</gram><gram type="numb">plur.</gram><gram type="gen">m.</gram></gramGrp><def>agg. (plur. m. -ci) Composto di due metalli diversi; che segue il sistema monetario bimetallico (v. @RR@Bimetallismo@_@).</def>
 					<cit>
 						<bibl>Bacchelli, 6-285:</bibl>
 						<quote> Mentre in genere si diffondeva il monometallismo monetario aureo, il Messico, parte dell’America meridionale, sopra tutto l’Asia, si serbavano bimetallici.</quote>
@@ -3143,7 +3143,7 @@
 				<form type="lemma">
 					<orth>Bimòlle</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Bemolle.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Bemolle@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Bimotóre</orth>
@@ -3336,7 +3336,7 @@
 					<orth>Binàscere</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS">verbo</gram><gram type="subc">intr.</gram></gramGrp><usg type="fre">disus.</usg><def>intr. (per la coniugazione: cfr. Nascere) Disus. Nascere a coppia (detto in particolare dei frutti).</def>
+					<gramGrp><gram type="POS">verbo</gram><gram type="subc">intr.</gram></gramGrp><usg type="fre">disus.</usg><def>intr. (per la coniugazione: cfr. @RR@Nascere@_@) Disus. Nascere a coppia (detto in particolare dei frutti).</def>
 					<cit>
 						<bibl>Sassetti, 399:</bibl>
 						<quote> Non so come voi vi facciate a ire ordinando queste vostre lettere nel modo che voi fate, tirando giù l’una cosa dietro all’altra, che paiono nate e poste insieme, come i frutti che si binascono.</quote>
@@ -4362,7 +4362,7 @@
 				<form type="lemma">
 					<orth>Biólco</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Bifolco.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Bifolco@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Biologìa</orth>
@@ -5767,7 +5767,7 @@
 					<orth>Bipròra</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS">agg.</gram><gram type="POS" subtype="gen">sf.</gram></gramGrp><usg type="dom">marin.</usg><def>agg. e sf. Marin. Nave avente la poppa eguale alla prora; ed è munita di due timoni, al fine di poter navigare nelle due direzioni (cfr. Anfidromo).</def>
+					<gramGrp><gram type="POS">agg.</gram><gram type="POS" subtype="gen">sf.</gram></gramGrp><usg type="dom">marin.</usg><def>agg. e sf. Marin. Nave avente la poppa eguale alla prora; ed è munita di due timoni, al fine di poter navigare nelle due direzioni (cfr. @RR@Anfidromo@_@).</def>
 				</sense>
 				<etym>= Comp. da bi- ‘due, doppio’ e prora (v.).</etym>
 			</entry>
@@ -5817,7 +5817,7 @@
 				<form type="lemma">
 					<orth>Biquadro</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Bequadro.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Bequadro@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Biquarzo</orth>
@@ -6237,7 +6237,7 @@
 				<form type="lemma">
 					<orth>Birbo</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Birba1.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Birba1@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Birbologaménte</orth>
@@ -6723,7 +6723,7 @@
 				<form type="lemma">
 					<orth>Biricòcola e biricòcolo</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Bericoca.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Bericoca@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Birifrangente</orth>
@@ -7083,7 +7083,7 @@
 				<form type="lemma">
 					<orth>Birrarìa</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Birreria.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Birreria@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Birràrio</orth>
@@ -7370,7 +7370,7 @@
 				<form type="lemma">
 					<orth>Birrovière</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Berroviere.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Berroviere@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Bis1</orth>
@@ -7567,7 +7567,7 @@
 				<form type="lemma">
 					<orth>Bi#santino</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Bizantino.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Bizantino@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Bi#sarcàvolo</orth>
@@ -9415,7 +9415,7 @@
 				<form type="lemma">
 					<orth>Bi#sello</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Bigello.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Bigello@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Bisènso</orth>
@@ -9768,7 +9768,7 @@
 					<orth>Bi#slìngua</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><usg type="dom" subtype="SC">bot.</usg><def>sf. Bot. Suffrutice sempreverde (Ruscus hypophyllum e Ruscus hypoglossum), rizomatoso, alto 50 cm, i cui rami portano lunghi e numerosi fillocladi, con fiori in piccole ombrelle inserite nel mezzo della pagina superiore del fillocladio (cfr. Ippoglosso).</def>
+					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><usg type="dom" subtype="SC">bot.</usg><def>sf. Bot. Suffrutice sempreverde (Ruscus hypophyllum e Ruscus hypoglossum), rizomatoso, alto 50 cm, i cui rami portano lunghi e numerosi fillocladi, con fiori in piccole ombrelle inserite nel mezzo della pagina superiore del fillocladio (cfr. @RR@Ippoglosso@_@).</def>
 					<cit>
 						<bibl source="Crusca">Bencivenni [Crusca]:</bibl>
 						<quote> Al dolor del capo usano la ghirlanda della bislungua.</quote>
@@ -11253,12 +11253,12 @@
 				<form type="lemma">
 					<orth>Bisquizzo</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Bisticcio1.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Bisticcio1@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Bissa</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Bissona.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Bissona@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Bissare</orth>
@@ -11783,7 +11783,7 @@
 				<form type="lemma">
 					<orth>Bistorì</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Bisturi.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Bisturi@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Bistornare</orth>
@@ -12454,7 +12454,7 @@
 					<orth>Bìtter</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><def>sm. Liquore amaro, infuso di radici amare: come aperitivo (cfr. Amaro, n. 11).</def>
+					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><def>sm. Liquore amaro, infuso di radici amare: come aperitivo (cfr. @RR@Amaro@_@, n. 11).</def>
 					<cit>
 						<bibl>Rigutini-Cappuccini, II-77:</bibl>
 						<quote> Bitter, parola tedesca, che vale amaro-, e nel linguaggio de’ caffè chiamano con questo nome uno de’ così detti aperitivi, che dovrebbero far bene allo stomaco.</quote>
@@ -14831,7 +14831,7 @@
 					<orth>Blatta</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><usg type="dom" subtype="SC">entom.</usg><def>sf. Entom. Nome dato a varie specie di insetti dell’ordine Blattoidei (noti volgarmente come scarafaggi o piattole): hanno corpo piatto, capo piccolo quasi tutto nascosto sotto il corsaletto, lunghe antenne filiformi e lunghe zampe con cui corrono velocissimi (temono la luce, per cui sono attivi solo di notte: e si nutrono degli avanzi di cibi, specialmente farinacei). La specie più comune in Europa è la Periplaneta orientalis, importata dalle navi mercantili provenienti dall’Oriente; è di colore bruno lucente, e si annida nei muri delle case, da cui sbuca di notte per nutrirsi degli avanzi di cibo lasciati dall’uomo. La rapidità con cui si riproduce ne rende particolarmente difficile la distruzione (v. Scarafaggio).</def>
+					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><usg type="dom" subtype="SC">entom.</usg><def>sf. Entom. Nome dato a varie specie di insetti dell’ordine Blattoidei (noti volgarmente come scarafaggi o piattole): hanno corpo piatto, capo piccolo quasi tutto nascosto sotto il corsaletto, lunghe antenne filiformi e lunghe zampe con cui corrono velocissimi (temono la luce, per cui sono attivi solo di notte: e si nutrono degli avanzi di cibi, specialmente farinacei). La specie più comune in Europa è la Periplaneta orientalis, importata dalle navi mercantili provenienti dall’Oriente; è di colore bruno lucente, e si annida nei muri delle case, da cui sbuca di notte per nutrirsi degli avanzi di cibo lasciati dall’uomo. La rapidità con cui si riproduce ne rende particolarmente difficile la distruzione (v. @RR@Scarafaggio@_@).</def>
 					<cit>
 						<bibl>Landino [Plinio], 11-27:</bibl>
 						<quote> Le blatte, cioè piattole, nutrite nelle tenebre, fuggono la luce: ne’ bagni ne nascono molte, generate d’umido vapore.</quote>
@@ -15999,7 +15999,7 @@
 					</cit>
 				</sense>
 				<sense level="1" n="3">
-					<usg type="sem">figur.</usg><def>3. Figur. Lunga striscia di morbida pelliccia (o di piume) arrotolata e cucita col pelo verso l'esterno, che le donne del secolo scorso portavano intorno al collo o ricadente in curve serpentine sulle spalle (v. Stola).</def>
+					<usg type="sem">figur.</usg><def>3. Figur. Lunga striscia di morbida pelliccia (o di piume) arrotolata e cucita col pelo verso l'esterno, che le donne del secolo scorso portavano intorno al collo o ricadente in curve serpentine sulle spalle (v. @RR@Stola@_@).</def>
 					<cit>
 						<bibl>Carena, I-84:</bibl>
 						<quote> Boa, stretta e lunga striscia di pelliccia fine, cucita longitudinalmente in tondo, col pelo al di fuori. Portanlo d’inverno le signore sulle spalle, a uso di sciarpa, anche facendogli dare un giro o due intorno al collo.</quote>
@@ -17593,7 +17593,7 @@
 					</cit>
 				</sense>
 				<sense level="2" n="16.41">
-					<def>- Acqua in bocca!: fa silenzio (cfr. Acqua, n. 4).</def>
+					<def>- Acqua in bocca!: fa silenzio (cfr. @RR@Acqua@_@, n. 4).</def>
 					<cit>
 						<bibl>Giusti, II-579:</bibl>
 						<quote> Acqua in bocca più che potete: in bocca chiusa non entran mosche.</quote>
@@ -17695,7 +17695,7 @@
 					</cit>
 				</sense>
 				<sense level="2" n="16.47">
-					<def>- Aprire la bocca ad alcuno: permettergli di parlare, indurlo a dire qualcosa (cfr. Aprire).</def>
+					<def>- Aprire la bocca ad alcuno: permettergli di parlare, indurlo a dire qualcosa (cfr. @RR@Aprire@_@).</def>
 					<cit>
 						<bibl>Dante, Par., 24-119:</bibl>
 						<quote> La Grazia, che donnea / con la tua mente, la bocca t’aperse / infino a qui come aprir si dovea.</quote>
@@ -17726,7 +17726,7 @@
 					</cit>
 				</sense>
 				<sense level="2" n="16.50">
-					<def>- Avere in bocca qualcuno o qualche cosa: parlarne in continuazione (cfr. Avere).</def>
+					<def>- Avere in bocca qualcuno o qualche cosa: parlarne in continuazione (cfr. @RR@Avere@_@).</def>
 					<cit>
 						<bibl>Dante, Purg., 6-132:</bibl>
 						<quote> Molti han giustizia in cuore, e tardi scocca / per non venir sanza consiglio all’arco; / ma il popol tuo l’ha in sommo della bocca.</quote>

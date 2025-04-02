@@ -589,7 +589,7 @@
 				<form type="lemma">
 					<orth>Bà#sio e deriv.</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Bacio e deriv.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Bacio@_@ e deriv.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Ba#sioccipitale</orth>
@@ -785,7 +785,7 @@
 				<form type="lemma">
 					<orth>Ba#sòffia</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Bazzoffia.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Bazzoffia@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Ba#sofilìa</orth>
@@ -827,7 +827,7 @@
 					<orth>Bà#sola</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sf.</gram><gram type="POS" subtype="gen">sm.</gram></gramGrp><def>sf. (anche sm., bà#solo) Lastra di pietra eruttiva (a forma rettangolare o poligonale) con cui si pavimenta una strada, uno spiazzo: come le antiche strade romane e molte vie di Napoli (v. Massello).</def>
+					<gramGrp><gram type="POS" subtype="gen">sf.</gram><gram type="POS" subtype="gen">sm.</gram></gramGrp><def>sf. (anche sm., bà#solo) Lastra di pietra eruttiva (a forma rettangolare o poligonale) con cui si pavimenta una strada, uno spiazzo: come le antiche strade romane e molte vie di Napoli (v. @RR@Massello@_@).</def>
 				</sense>
 				<sense level="1" n="2">
 					<def>2. Basamento; appoggio.</def>
@@ -866,7 +866,7 @@
 				<form type="lemma">
 					<orth>Bà#solo</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Basola.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Basola@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Ba#sommatòfori</orth>
@@ -960,7 +960,7 @@
 				<form type="lemma">
 					<orth>Bassà</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Bascià.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Bascià@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Bassacórte</orth>
@@ -978,7 +978,7 @@
 				<form type="lemma">
 					<orth>Bassa danza</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Bassa3.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Bassa3@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Bassaménte</orth>
@@ -1574,7 +1574,7 @@
 					</cit>
 				</sense>
 				<sense level="1" n="2">
-					<def>2. Di statura bassa, che è meno alto della media (cfr. Bassetto1 e Bassotto1).</def>
+					<def>2. Di statura bassa, che è meno alto della media (cfr. @RR@Bassetto1@_@ e @RR@Bassotto1@_@).</def>
 					<cit>
 						<bibl>Sacchetti, 138-2:</bibl>
 						<quote> Era un uomo basso e largo e grosso.</quote>
@@ -1626,7 +1626,7 @@
 					</cit>
 				</sense>
 				<sense level="1" n="4">
-					<def>4. Profondo; depresso; che sta al disotto del piano, del livello (del mare, di un fiume, di una strada). Cfr. Bassa1.</def>
+					<def>4. Profondo; depresso; che sta al disotto del piano, del livello (del mare, di un fiume, di una strada). Cfr. @RR@Bassa1@_@.</def>
 					<cit>
 						<bibl>Dante, Inf., 1-61:</bibl>
 						<quote> Mentre ch’i’ ruvinava in basso loco, / dinanzi alli occhi mi si fu offerto / chi per lungo silenzio parea fioco.</quote>
@@ -1700,7 +1700,7 @@
 					</cit>
 				</sense>
 				<sense level="1" n="6">
-					<def>6. Che ha poca profondità (fiume, mare, acqua). V. Bassofondo.</def>
+					<def>6. Che ha poca profondità (fiume, mare, acqua). V. @RR@Bassofondo@_@.</def>
 					<cit>
 						<bibl>Dante, Inf., 12-124:</bibl>
 						<quote> Così a più a più si facea basso / quel sangue, sì che cocea pur li piedi; / e quindi fu del fosso il nostro passo.</quote>
@@ -2181,7 +2181,7 @@
 					</cit>
 				</sense>
 				<sense level="2" n="18.1">
-					<entry type="relatedEntry"><form type="sub_lemma" subtype="3">Bassétto</form></entry><def>- Bassétto: cfr. anche Bassetto1.</def>
+					<entry type="relatedEntry"><form type="sub_lemma" subtype="3">Bassétto</form></entry><def>- Bassétto: cfr. anche @RR@Bassetto1@_@.</def>
 					<cit>
 						<bibl>Giovanni dalle Celle, 4-2-54:</bibl>
 						<quote> E nel tempo dell’interdetto possa celebrare ovvero dire l’ufficio in voce bassetta.</quote>
@@ -2195,7 +2195,7 @@
 					<entry type="relatedEntry"><form type="sub_lemma" subtype="2">Bassòtto</form></entry><def>- Bassòtto (v.).</def>
 				</sense>
 				<sense level="1" n="19">
-					<def>19. Cfr. Marea (bassa marea), Messa (messa bassa), Quota (bassa quota), ecc.</def>
+					<def>19. Cfr. @RR@Marea@_@ (bassa marea), @RR@Messa@_@ (messa bassa), @RR@Quota@_@ (bassa quota), ecc.</def>
 				</sense>
 				<etym>= Lat. tardo bassus, attestato nelle glosse: voce che non sembra latina, e pare da attribuire a un prestito osco; si alterna con la forma *bassius, quale terminazione del comparativo, come risulta dagli altri esiti romanzi: merid. vasciu, spagn. bajo e bajar, fr. baisser, ecc.</etym>
 			</entry>
@@ -2392,7 +2392,7 @@
 					</cit>
 				</sense>
 				<sense level="2" n="5.4">
-					<def>- Fare alto e basso; avere gli alti e bassi: esser mutevole (malattia, umore, stato d’animo, condizione, ecc.); comandare, disporre a proprio arbitrio (cfr. anche Alto).</def>
+					<def>- Fare alto e basso; avere gli alti e bassi: esser mutevole (malattia, umore, stato d’animo, condizione, ecc.); comandare, disporre a proprio arbitrio (cfr. anche @RR@Alto@_@).</def>
 					<cit>
 						<bibl>Ser Giovanni, I-115:</bibl>
 						<quote> Rispose al re, che ne facesse alto e basso, come gli piacesse.</quote>
@@ -2419,7 +2419,7 @@
 					</cit>
 				</sense>
 				<sense level="2" n="5.5">
-					<usg type="sem">figur.</usg><def>- Dall'alto in basso; di basso in alto, dal basso in alto: - Anche al figur.: da una condizione d’inferiorità (cfr. Alto).</def>
+					<usg type="sem">figur.</usg><def>- Dall'alto in basso; di basso in alto, dal basso in alto: - Anche al figur.: da una condizione d’inferiorità (cfr. @RR@Alto@_@).</def>
 					<cit>
 						<bibl>Boiardo, 1-6-26:</bibl>
 						<quote> E con un piè mi trabuccò del sasso. / Era quel scoglio orribile ed arguto: / trecento braccia è dalla cima al basso.</quote>
@@ -3073,7 +3073,7 @@
 					</cit>
 				</sense>
 				<sense level="1" n="2">
-					<usg type="time">ant.</usg><usg type="dia">letter.</usg><def>2. A bastanza: abbastanza, d’uso ant. e poi letter. rispetto alla forma più comune (cfr. Abbastanza).</def>
+					<usg type="time">ant.</usg><usg type="dia">letter.</usg><def>2. A bastanza: abbastanza, d’uso ant. e poi letter. rispetto alla forma più comune (cfr. @RR@Abbastanza@_@).</def>
 					<cit>
 						<bibl>M. Villani, 8-84:</bibl>
 						<quote> Cominciarono a torre , le cose de’ cittadini e loro masserizie e arnesi, ...e torsi delle cose da vivere oltre a bastanza.</quote>
@@ -3138,7 +3138,7 @@
 					<orth>Bastarda2</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><usg type="dom">milit.</usg><def>sf. Milit. Arma bastarda (cfr. Bastardo, n. 6).</def>
+					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><usg type="dom">milit.</usg><def>sf. Milit. Arma bastarda (cfr. @RR@Bastardo@_@, n. 6).</def>
 				</sense>
 			</entry>
 			<entry>
@@ -3146,7 +3146,7 @@
 					<orth>Bastarda3</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><usg type="dom">mus.</usg><def>sf. Mus. Viola bastarda: v. Viola.</def>
+					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><usg type="dom">mus.</usg><def>sf. Mus. Viola bastarda: v. @RR@Viola@_@.</def>
 				</sense>
 			</entry>
 			<entry>
@@ -3465,7 +3465,7 @@
 					</cit>
 				</sense>
 				<sense level="1" n="7">
-					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><usg type="dom">marin.</usg><usg type="time">ant.</usg><def>7. Marin. Galea bastarda: v. Bastarda1. - Vela bastarda (ant. anche bastardo, sm.): vela grande latina delle galee (in uso, una volta, per regolare il diverso impeto del vento).</def>
+					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><usg type="dom">marin.</usg><usg type="time">ant.</usg><def>7. Marin. Galea bastarda: v. @RR@Bastarda1@_@. - Vela bastarda (ant. anche bastardo, sm.): vela grande latina delle galee (in uso, una volta, per regolare il diverso impeto del vento).</def>
 					<cit>
 						<bibl>Statuti de' Cavalieri di S. Stefano, 199:</bibl>
 						<quote> Portino [i vascelli] il bastardo grande, borda, treo e trinchetto, ed un bastardo mezzano per rispetto.</quote>
@@ -4074,12 +4074,12 @@
 				<form type="lemma">
 					<orth>Bastémmia</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Bestemmia.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Bestemmia@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Bastemmiare</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Bestemmiare.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Bestemmiare@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Bastèrna</orth>
@@ -4235,13 +4235,13 @@
 				<form type="lemma">
 					<orth>Bàstia</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Basta2.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Basta2@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Bastìa</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><def>sf. Fortificazione (dinanzi o intorno a una città, a un accampamento, stabile o improvvisata, in muratura o con materiale di circostanza). Cfr. Bastione.</def>
+					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><def>sf. Fortificazione (dinanzi o intorno a una città, a un accampamento, stabile o improvvisata, in muratura o con materiale di circostanza). Cfr. @RR@Bastione@_@.</def>
 					<cit>
 						<bibl>Malespini, 1-98:</bibl>
 						<quote> La prima volta fu fatta [Firenze] a similitudine di bastia, siccome si fa quando una terra è assediata.</quote>
@@ -4289,7 +4289,7 @@
 				<form type="lemma">
 					<orth>Bastiemare</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Bestemmiare.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Bestemmiare@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Bastière</orth>
@@ -4848,7 +4848,7 @@
 					</cit>
 				</sense>
 				<sense level="1" n="6">
-					<def>6. Basto rovescio: v. Bastorovescio.</def>
+					<def>6. Basto rovescio: v. @RR@Bastorovescio@_@.</def>
 				</sense>
 				<sense level="1" n="7">
 					<usg type="dom">marin.</usg><def>7. Marin. Grosso pezzo di legno, che di qua e di là della ruota di prua, secondando la curva dell’opera morta, è incastrato nei riempimenti, e l’una e l’altra parte di esso vanno a terminare contro la ruota, servendo come di orlo alla prua.</def>
@@ -5160,7 +5160,7 @@
 					</cit>
 				</sense>
 				<sense level="1" n="3">
-					<usg type="dom" subtype="UM">archit.</usg><def>3. Archit. Elemento ornamentale della colonna (v. Bastoncino, n. 4).</def>
+					<usg type="dom" subtype="UM">archit.</usg><def>3. Archit. Elemento ornamentale della colonna (v. @RR@Bastoncino@_@, n. 4).</def>
 				</sense>
 				<sense level="1" n="4">
 					<gramGrp><gram type="POS" subtype="gen">sm.</gram><gram type="numb">plur.</gram></gramGrp><usg type="dom" subtype="MED">anat.</usg><def>4. Anat. Bastoncelli, sm. plur.: corpuscoli cilindrici che rivestono e prolungano le cellule della retina (a ricevere e trasmettere l’eccitazione della luce). - Cellule a bastoncello: cellule allungate che si producono nel parenchima cerebrale in seguito a paralisi progressiva.</def>
@@ -5246,7 +5246,7 @@
 					</cit>
 				</sense>
 				<sense level="1" n="5">
-					<usg type="dom" subtype="SC">entom.</usg><def>5. Entom. Nome comune d’insetti della famiglia Fasmidi (v. Bacillo).</def>
+					<usg type="dom" subtype="SC">entom.</usg><def>5. Entom. Nome comune d’insetti della famiglia Fasmidi (v. @RR@Bacillo@_@).</def>
 				</sense>
 			</entry>
 			<entry>
@@ -5360,7 +5360,7 @@
 					</cit>
 				</sense>
 				<sense level="2" n="2.1">
-					<usg type="fre">disus.</usg><def>- Disus. Mettere un legno su per un bastone: tentare una cosa impossibile (cfr. Arrampicarsi sui vetri).</def>
+					<usg type="fre">disus.</usg><def>- Disus. Mettere un legno su per un bastone: tentare una cosa impossibile (cfr. @RR@Arrampicarsi sui vetri@_@).</def>
 					<cit>
 						<bibl>Berni, 52:</bibl>
 						<quote> Chi vuol cavar i cardi di stagione, / sarebbe proprio come se volesse / mettere un legno su per un bastone.</quote>
@@ -5538,7 +5538,7 @@
 					</cit>
 				</sense>
 				<sense level="1" n="9">
-					<usg type="dom" subtype="UM">archit.</usg><def>9. Archit. Modanatura a profilo convesso quale ornamento della base del capitello delle colonne (detta tondino o astragalo, e, se di maggiori dimensioni, toro: cfr. Bastoncello e Bastoncino).</def>
+					<usg type="dom" subtype="UM">archit.</usg><def>9. Archit. Modanatura a profilo convesso quale ornamento della base del capitello delle colonne (detta tondino o astragalo, e, se di maggiori dimensioni, toro: cfr. @RR@Bastoncello@_@ e @RR@Bastoncino@_@).</def>
 					<cit>
 						<bibl>Palladio, 1-14:</bibl>
 						<quote> Questa altezza [della base] si divide in due parti eguali: una si dà all’orlo...; l’altra si divide in quattro parti, una si dà al listello... e l’altre tre al toro, over bastone.</quote>
@@ -5683,7 +5683,7 @@
 					<orth>Batàcchia</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><usg type="time">ant.</usg><def>sf. Ant. Bastonata (cfr. Batacchiata).</def>
+					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><usg type="time">ant.</usg><def>sf. Ant. Bastonata (cfr. @RR@Batacchiata@_@).</def>
 					<cit>
 						<bibl>Pataffio, 9:</bibl>
 						<quote> Dato ci fu ventisette batacchie.</quote>
@@ -5830,7 +5830,7 @@
 				<form type="lemma">
 					<orth>Bàtalo</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Batolo.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Batolo@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Batassa</orth>
@@ -5951,7 +5951,7 @@
 				<form type="lemma">
 					<orth>Batìmetro</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Batometro.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Batometro@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Batiscafo</orth>
@@ -5978,12 +5978,12 @@
 				<form type="lemma">
 					<orth>Batista</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Battista.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Battista@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Batistèo</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Battistero.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Battistero@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Batmòtropo</orth>
@@ -6138,7 +6138,7 @@
 					<orth>Batometrìa</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><def>sf. Misurazione delle profondità marine (parte dell’oceanografia). Cfr. Batimetria.</def>
+					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><def>sf. Misurazione delle profondità marine (parte dell’oceanografia). Cfr. @RR@Batimetria@_@.</def>
 				</sense>
 				<etym>= Voce scient., comp. da bato-, dal gr. βάθος ‘profondità’, e -metrìa, dal gr. μέτρον ‘misura’; cfr. fr. bathométrie (del sec. XIX).</etym>
 			</entry>
@@ -6739,7 +6739,7 @@
 					<def>- Battaglia aeronavale: combattimento tra opposte forze aereo-navali.</def>
 				</sense>
 				<sense level="2" n="10.17">
-					<def>- Battaglia affrontata, giudicata, ordinata: combattuta seguendo tutte le norme e dottrine tattiche e strategiche (cfr. anche Affrontato1, n. 2).</def>
+					<def>- Battaglia affrontata, giudicata, ordinata: combattuta seguendo tutte le norme e dottrine tattiche e strategiche (cfr. anche @RR@Affrontato1@_@, n. 2).</def>
 					<cit>
 						<bibl>G. Villani, 7-37:</bibl>
 						<quote> Mai non s’ardirono di venire a battaglia affrontata co’ Cristiani.</quote>
@@ -7735,7 +7735,7 @@
 					</cit>
 				</sense>
 				<sense level="2" n="4.2">
-					<def>- Tamburo battente: che è suonato. - A tamburo battente: con la massima speditezza (v. Tamburo).</def>
+					<def>- Tamburo battente: che è suonato. - A tamburo battente: con la massima speditezza (v. @RR@Tamburo@_@).</def>
 					<cit>
 						<bibl>Goldoni, V-583:</bibl>
 						<quote> Posta la gente in ordine di marciare, col tamburo battente, il Tenente alla testa, marciano tutti dentro alla scena.</quote>
@@ -7802,7 +7802,7 @@
 					</cit>
 				</sense>
 				<sense level="1" n="4">
-					<def>4. Parte dello stipite su cui batte l’imposta nel chiudersi (cfr. Battentatura).</def>
+					<def>4. Parte dello stipite su cui batte l’imposta nel chiudersi (cfr. @RR@Battentatura@_@).</def>
 					<cit>
 						<bibl>Cellini, 1-109 (254):</bibl>
 						<quote> Come io fu’ a dua ore innanzi il giorno, io cavai quelle bandelle con grandissima fatica, perché il battente del legnio della porta, e anche il chiavistello facevano un contrasto, il perché io non potevo aprile.</quote>
@@ -8682,7 +8682,7 @@
 					</cit>
 				</sense>
 				<sense level="2" n="33.2">
-					<def>- Battere banco: tenere il banco (al gioco delle carte e ad altro gioco d’azzardo). Cfr. Banco1.</def>
+					<def>- Battere banco: tenere il banco (al gioco delle carte e ad altro gioco d’azzardo). Cfr. @RR@Banco1@_@.</def>
 					<cit>
 						<bibl>Pratolini, 2-504:</bibl>
 						<quote> E siccome pure lui è giocatore, e crede quindi alla scaramanzia, egli trasse buon auspicio circa il suo proposito di battere banco sulla parola, quella sera, allorché il banco fosse stato di una cifra rilevante.</quote>
@@ -8707,7 +8707,7 @@
 					</cit>
 				</sense>
 				<sense level="2" n="33.5">
-					<def>- Battere in breccia: sconfiggere, superare nettamente (come si fa nell’espugnare una città o una fortezza aprendo una breccia). Cfr. Breccia.</def>
+					<def>- Battere in breccia: sconfiggere, superare nettamente (come si fa nell’espugnare una città o una fortezza aprendo una breccia). Cfr. @RR@Breccia@_@.</def>
 					<cit>
 						<bibl>Carducci, I-446:</bibl>
 						<quote> Fortuna che venne il quarantotto, e che cotesto idealismo falsamente poetico è oramai battuto in breccia ogni dì più.</quote>
@@ -8807,7 +8807,7 @@
 					</cit>
 				</sense>
 				<sense level="2" n="33.15">
-					<def>- Batter cassa: chieder danaro. - Batter la cassetta: far soldi, lucrare. - Battere a soldi: richiederli (cfr. Cassa, Cassetta, Soldi).</def>
+					<def>- Batter cassa: chieder danaro. - Batter la cassetta: far soldi, lucrare. - Battere a soldi: richiederli (cfr. @RR@Cassa@_@, @RR@Cassetta@_@, @RR@Soldi@_@).</def>
 					<cit>
 						<bibl>Chiesa, 5-28:</bibl>
 						<quote> Finché ce n’è, ce n’è. Poi, quando non ce n’è più, si viene a batter cassa allo zio Roma... Comodo!</quote>
@@ -8816,14 +8816,14 @@
 					</cit>
 				</sense>
 				<sense level="2" n="33.16">
-					<def>- Battere la cavallina: menar vita scioperata, dissoluta (cfr. Cavallina).</def>
+					<def>- Battere la cavallina: menar vita scioperata, dissoluta (cfr. @RR@Cavallina@_@).</def>
 					<cit>
 						<bibl>Giusti, III-38:</bibl>
 						<quote> Dicono che non vi sia marito più geloso d’uno che abbia battuto la cavallina del libertino.</quote>
 					</cit>
 				</sense>
 				<sense level="2" n="33.17">
-					<usg type="sem">figur.</usg><def>- Battere il chiodo: per conficcarlo. - Al figur.: insistere (sullo stesso argomento, motivo, tema). Cfr. Chiodo.</def>
+					<usg type="sem">figur.</usg><def>- Battere il chiodo: per conficcarlo. - Al figur.: insistere (sullo stesso argomento, motivo, tema). Cfr. @RR@Chiodo@_@.</def>
 					<cit>
 						<bibl>Monti, III-444:</bibl>
 						<quote> Non ne ho veruna per chiudere l’orecchio alle voci dell’amicizia, specialmente alla vostra, e a quella del buon Roverella che pur batte lo stesso chiodo.</quote>
@@ -9043,7 +9043,7 @@
 					</cit>
 				</sense>
 				<sense level="2" n="33.29">
-					<def>- Battere la fiacca, batter fiacca: scansare la fatica, lavorare adagio e con svogliatezza (cfr. Fiacca).</def>
+					<def>- Battere la fiacca, batter fiacca: scansare la fatica, lavorare adagio e con svogliatezza (cfr. @RR@Fiacca@_@).</def>
 					<cit>
 						<bibl>De Amicis, I-892:</bibl>
 						<quote> Ci gridava in ogni momento che eravamo dei mostri d’ingratitudine a battere così la fiaccona.</quote>
@@ -9107,7 +9107,7 @@
 					</cit>
 				</sense>
 				<sense level="2" n="33.37">
-					<def>- Batter la grancassa: dare, farsi pubblicità (e indica sfrontatezza e ciarlataneria). Cfr. Grancassa.</def>
+					<def>- Batter la grancassa: dare, farsi pubblicità (e indica sfrontatezza e ciarlataneria). Cfr. @RR@Grancassa@_@.</def>
 				</sense>
 				<sense level="2" n="33.38">
 					<gramGrp><gram>assol.</gram></gramGrp><def>- Battere il grano (o altri cereali): col correggiato (e anche con la macchina trebbiatrice), per farne uscire i chicchi. - Anche assol. battere: trebbiare.</def>
@@ -9203,7 +9203,7 @@
 					</cit>
 				</sense>
 				<sense level="2" n="33.43">
-					<def>- Battere il marciapiede, la strada: far la prostituta (cfr. Marciapiede; Strada).</def>
+					<def>- Battere il marciapiede, la strada: far la prostituta (cfr. @RR@Marciapiede@_@; @RR@Strada@_@).</def>
 					<cit>
 						<bibl>Dossi, 126:</bibl>
 						<quote> È l’ora, invece, in cui il mercato di Prìapo affolla. Già, il buio, pesa su quegli intavolati, più che campi dell’arte, ruffiani dei vizi; e le torme di lupe dalla voce ràuca, che il dopopranzo battèrono i marciapiedi infranciosando i cervelli mezzo intontiti dal cibo, son covigliate e tripùdiano.</quote>
@@ -9305,7 +9305,7 @@
 					</cit>
 				</sense>
 				<sense level="2" n="33.51">
-					<def>- Battere il passo: segnare il passo (cfr. Passo).</def>
+					<def>- Battere il passo: segnare il passo (cfr. @RR@Passo@_@).</def>
 					<cit>
 						<bibl>Beltramelli, I-518:</bibl>
 						<quote> La comitiva proseguì in silenzio per la sua destinata strada e il Cavalier Mostardo batté 11 passo alla virtuosa canaglia.</quote>
@@ -9427,7 +9427,7 @@
 					</cit>
 				</sense>
 				<sense level="2" n="33.65">
-					<def>- Batter la solfa: ripetere la stessa musica, lo stesso motivo, gli stessi argomenti (cfr. Solfa).</def>
+					<def>- Batter la solfa: ripetere la stessa musica, lo stesso motivo, gli stessi argomenti (cfr. @RR@Solfa@_@).</def>
 					<cit>
 						<bibl>Giusti, III-323:</bibl>
 						<quote> Cicale che sferzate dal sole, durano un giorno intero a battere una zolfa che è sempre la stessa.</quote>
@@ -9655,7 +9655,7 @@
 					</cit>
 				</sense>
 				<sense level="2" n="33.83">
-					<def>- Senza battere becco: tacere, senza replicare (cfr. Becco).</def>
+					<def>- Senza battere becco: tacere, senza replicare (cfr. @RR@Becco@_@).</def>
 					<cit>
 						<bibl>Nievo, 508:</bibl>
 						<quote> Di più la sfogata eloquenza e la pompa classica di quelle parlate mi assicuravano ch’ella sarebbe stata un bel pezzo senza batter becco.</quote>
@@ -11252,7 +11252,7 @@
 					<orth>Battilòcchio</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><usg type="dom" subtype="UM">stor.</usg><def>sm. Stor. Cuffia alla francese (che ricadeva sugli occhi). Cfr. Battiloglio.</def>
+					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><usg type="dom" subtype="UM">stor.</usg><def>sm. Stor. Cuffia alla francese (che ricadeva sugli occhi). Cfr. @RR@Battiloglio@_@.</def>
 				</sense>
 				<etym>= Traduz. del fr. battant l’oeil (di cui battiloglio è adattamento). Cfr. Littré, I-929: «Coiffure négligée des femmes, dont les côtés avancent beaucoup sur le visage, surtout vers les tempes et les yeux, que la moindre agitation de l’air lui fait battre».</etym>
 			</entry>
@@ -11261,7 +11261,7 @@
 					<orth>Battilòglio</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sm.</gram><gram type="POS" subtype="gen">sf.</gram></gramGrp><usg type="dom" subtype="UM">stor.</usg><def>sm. (anche battilòglia, sf.) Stor. Cuffia che ricadeva sugli occhi (secondo la moda francese: durante il Medioevo). Cfr. Battilocchio.</def>
+					<gramGrp><gram type="POS" subtype="gen">sm.</gram><gram type="POS" subtype="gen">sf.</gram></gramGrp><usg type="dom" subtype="UM">stor.</usg><def>sm. (anche battilòglia, sf.) Stor. Cuffia che ricadeva sugli occhi (secondo la moda francese: durante il Medioevo). Cfr. @RR@Battilocchio@_@.</def>
 				</sense>
 				<etym>= Adattamento del fr. battant l’oeil ‘cuffietta’.</etym>
 			</entry>
@@ -11302,7 +11302,7 @@
 					<orth>Bàttima</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><def>sf. Striscia della spiaggia ove l’onda del mare conchiude l’ultima debole spinta, sporgendosi e spegnendosi e subito ritirandosi; battigia (cfr. Risacca).</def>
+					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><def>sf. Striscia della spiaggia ove l’onda del mare conchiude l’ultima debole spinta, sporgendosi e spegnendosi e subito ritirandosi; battigia (cfr. @RR@Risacca@_@).</def>
 					<cit>
 						<bibl>Pea, 1-46:</bibl>
 						<quote> E sulla bàttima l’acqua è poco mossa e senza schiuma, come se il mare respirasse in un respiro di beato riposo. In questo gigante che dorme, non è ombra di travaglio.</quote>
@@ -11653,7 +11653,7 @@
 				<form type="lemma">
 					<orth>Batti#smale</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Battesimale.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Battesimale@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Battisóffia</orth>
@@ -11693,7 +11693,7 @@
 					<orth>Battispólvero e battispólvere</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><def>sm. Sacchetto di panno leggero e rado, ripieno di gesso o polvere di carbone, usato dai disegnatori per spolverizzare (cfr. Spolvero).</def>
+					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><def>sm. Sacchetto di panno leggero e rado, ripieno di gesso o polvere di carbone, usato dai disegnatori per spolverizzare (cfr. @RR@Spolvero@_@).</def>
 					<cit>
 						<bibl>Carena, II-70:</bibl>
 						<quote> Spolverezzo, battispolvero, è un bottone o sacchetto di pannolino fine e rado, in cui è legata polvere di carbone o di gesso o altra, a uso di spolverezzare, picchiando leggermente o strofinando i bucalini dello spolvero. Gli artisti fiorentini lo chiamano anche brevemente il bottone, quando il contesto del discorso escluda ogni equivoco.</quote>
@@ -11874,7 +11874,7 @@
 					<orth>Battisuòcera</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><def>sf. Altra denominazione dialettale del fiordaliso (v. Battisegola).</def>
+					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><def>sf. Altra denominazione dialettale del fiordaliso (v. @RR@Battisegola@_@).</def>
 				</sense>
 				<etym>= Voce toscana, cfr. ligure batisöxoa (da battere e söxoa ‘suocera’), forse deformazione scherzosa del termine settentr. batisésola ‘battiségala’.</etym>
 			</entry>
@@ -11883,7 +11883,7 @@
 					<orth>Battisuòla</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sf.</gram><gram type="comp">locuz.</gram><gram type="POS">avverb.</gram></gramGrp><def>sf. Nella locuz. avverb. a battisuola: alla svelta (cfr. Battiscarpa).</def>
+					<gramGrp><gram type="POS" subtype="gen">sf.</gram><gram type="comp">locuz.</gram><gram type="POS">avverb.</gram></gramGrp><def>sf. Nella locuz. avverb. a battisuola: alla svelta (cfr. @RR@Battiscarpa@_@).</def>
 					<cit>
 						<bibl>C. E. Gadda, 5-63:</bibl>
 						<quote> Masticava e saporava a battisuòla per dei quarti d’ora filati, mentre una salivazione copiosa interveniva all’atto, ad assistere la fatica molitoria.</quote>
@@ -12164,7 +12164,7 @@
 					</cit>
 				</sense>
 				<sense level="1" n="8">
-					<usg type="time">ant.</usg><def>8. Ant. Luogo del battitoio (per la lana). Cfr. Battitoio, n. 4.</def>
+					<usg type="time">ant.</usg><def>8. Ant. Luogo del battitoio (per la lana). Cfr. @RR@Battitoio@_@, n. 4.</def>
 					<cit>
 						<bibl>Glossario medievale del commercio, 45:</bibl>
 						<quote> Che neuno dell’Arte possa, overo debbia, e non permetta battare [= battere] ne la bottiga, o vero ne li battitori suoi.</quote>
@@ -12846,7 +12846,7 @@
 					</cit>
 				</sense>
 				<sense level="1" n="4">
-					<def>4. Triturato, tritato (la carne). Cfr. Battuto2.</def>
+					<def>4. Triturato, tritato (la carne). Cfr. @RR@Battuto2@_@.</def>
 					<cit>
 						<bibl>Forteguerri, 22-22:</bibl>
 						<quote> Infino allora ci s’era mantenuto/ con certi biscottini e rotellette, / fatte di pollo e di piccion battuto.</quote>
@@ -12988,7 +12988,7 @@
 					</cit>
 				</sense>
 				<sense level="1" n="12">
-					<usg type="sem">figur.</usg><def>12. A spron battuto: a tutta carriera, a galoppo. - Anche al figur. (cfr. Sprone).</def>
+					<usg type="sem">figur.</usg><def>12. A spron battuto: a tutta carriera, a galoppo. - Anche al figur. (cfr. @RR@Sprone@_@).</def>
 					<cit>
 						<bibl>Sacchetti, 117-66:</bibl>
 						<quote> E così, uscendo fuori della porta a sproni battuti, s’andò con Dio.</quote>
@@ -13027,7 +13027,7 @@
 					</cit>
 				</sense>
 				<sense level="1" n="2">
-					<def>2. Condimento ottenuto triturando insieme sul tagliere carne, lardo, erbe e altri ingredienti (secondo le varie regioni italiane). Cfr. Pesto (il battuto genovese).</def>
+					<def>2. Condimento ottenuto triturando insieme sul tagliere carne, lardo, erbe e altri ingredienti (secondo le varie regioni italiane). Cfr. @RR@Pesto@_@ (il battuto genovese).</def>
 					<cit>
 						<bibl>Panzini, II-385:</bibl>
 						<quote> Con Cicerone e con Orazio parlava quasi a tu per tu di tutte quelle cose sublimi; ma tutte quelle umili parsimonie, quelle minestrine col battuto, coi ceci, e tutte quelle maglie e giubboncini pel mercante, a furia di tic e toc coi ferri da calza, li aveva fatti pur lei!</quote>
@@ -13046,7 +13046,7 @@
 					<orth>Battuto3</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><usg type="dom" subtype="UM">stor.</usg><def>sm. Stor. Flagellante; membro delle compagnie dei disciplinati (durante i secoli XIII-XIV): si battevano pubblicamente per penitenza e per esempio agli altri con la disciplina, la sferza (cfr. Battente3).</def>
+					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><usg type="dom" subtype="UM">stor.</usg><def>sm. Stor. Flagellante; membro delle compagnie dei disciplinati (durante i secoli XIII-XIV): si battevano pubblicamente per penitenza e per esempio agli altri con la disciplina, la sferza (cfr. @RR@Battente3@_@).</def>
 					<cit>
 						<bibl>Sacchetti, 113-13:</bibl>
 						<quote> Ed ecco giugnere una compagnia di battuti, per inginocchiarsi all’altare e offerere.</quote>
@@ -13180,7 +13180,7 @@
 					</cit>
 				</sense>
 				<sense level="1" n="2">
-					<def>2. Spauracchio: anche bau bau (cfr. Babau).</def>
+					<def>2. Spauracchio: anche bau bau (cfr. @RR@Babau@_@).</def>
 					<cit>
 						<bibl>Lippi, 3-70:</bibl>
 						<quote> Ove la notte al noce eran concorse / tuttele streghe anch’esse sul caprone, / i diavoli, e col bau e le biliorse, / a ballare, e cantare, e far tempone.</quote>
@@ -13499,7 +13499,7 @@
 					<orth>Bava</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><def>sf. Umore viscoso e spumoso (più denso della saliva) che viene fuori dalla bocca di alcuni animali (specie se idrofobi), dei bambini, dei vecchi, di chi sia in preda a furore, a rabbia, a un attacco epilettico, o che soffra di nausea, ecc. È tipica la bava lasciata dalla lumaca (v. Allumacatura).</def>
+					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><def>sf. Umore viscoso e spumoso (più denso della saliva) che viene fuori dalla bocca di alcuni animali (specie se idrofobi), dei bambini, dei vecchi, di chi sia in preda a furore, a rabbia, a un attacco epilettico, o che soffra di nausea, ecc. È tipica la bava lasciata dalla lumaca (v. @RR@Allumacatura@_@).</def>
 					<cit>
 						<bibl>Dante, Inf., 34-54:</bibl>
 						<quote> Con sei occhi piangea, e per tre menti / gocciava ’l pianto e sanguinosa bava.</quote>
@@ -14461,7 +14461,7 @@
 					<orth>Ba#zar2</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS">agg.</gram></gramGrp><def>agg. Pietra medicinale conosciuta anticamente in Oriente (cfr. Belzuar).</def>
+					<gramGrp><gram type="POS">agg.</gram></gramGrp><def>agg. Pietra medicinale conosciuta anticamente in Oriente (cfr. @RR@Belzuar@_@).</def>
 					<cit>
 						<bibl>Sassetti, 142:</bibl>
 						<quote> Per tornare alla pietra bazar, e’ l’adoperano qua non solo pigliandole per bocca tre in quattro grani, o cinque il più, con acqua rosa, ma mettono la polvere nelle posteme velenose, quando elle sono aperte.</quote>
@@ -14654,7 +14654,7 @@
 				<form type="lemma">
 					<orth>Ba#zzarro1</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Bazar1.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Bazar1@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Ba#zzarro2</orth>
@@ -15656,7 +15656,7 @@
 					<orth>Beatitùdine</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><usg type="time">ant.</usg><def>(ant. e lett. beatitudo) sf. Condizione spirituale di perfetta felicità (quella che le anime elette godono in Paradiso, nella contemplazione di Dio e nel possesso del sommo Bene). - Beatitudini evangeliche: le virtù di coloro che soffrono nella vita, le cui privazioni e tribolazioni sono necessaria preparazione della felicità futura ed eterna (la visione di Dio); ed è la felicità promessa ai poveri, agli infelici, agli umili, agli affamati e assetati di giustizia, ai misericordiosi, ai puri di cuore, ai pacificatori, agli oppressi e perseguitati (secondo i Vangeli di Matteo e di Luca; cfr. Beato). - Monte delle Beatitudini: il luogo dove Gesù pronunciò il discorso della Montagna, elencando le «beatitudini evangeliche».</def>
+					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><usg type="time">ant.</usg><def>(ant. e lett. beatitudo) sf. Condizione spirituale di perfetta felicità (quella che le anime elette godono in Paradiso, nella contemplazione di Dio e nel possesso del sommo Bene). - Beatitudini evangeliche: le virtù di coloro che soffrono nella vita, le cui privazioni e tribolazioni sono necessaria preparazione della felicità futura ed eterna (la visione di Dio); ed è la felicità promessa ai poveri, agli infelici, agli umili, agli affamati e assetati di giustizia, ai misericordiosi, ai puri di cuore, ai pacificatori, agli oppressi e perseguitati (secondo i Vangeli di Matteo e di Luca; cfr. @RR@Beato@_@). - Monte delle Beatitudini: il luogo dove Gesù pronunciò il discorso della Montagna, elencando le «beatitudini evangeliche».</def>
 					<cit>
 						<bibl>Dante, Conv., III-xv-2:</bibl>
 						<quote> E qui si conviene sapere che li occhi de la Sapienza sono le sue demonstrazioni, con la quale si vede la veritade certissimamente; e lo suo riso sono le sue persuasioni, ne le quali si dimostra la luce interiore de la Sapienza sotto alcuno velamento: e in queste due cose si sente quel piacere altissimo di beatitudine, lo quale è massimo bene in Paradiso.</quote>
@@ -15846,7 +15846,7 @@
 					</cit>
 				</sense>
 				<sense level="1" n="2">
-					<def>2. Chi dopo la morte è innalzato dalla Chiesa all’onore degli altari per la fama della sua santità (cfr. Beatificazione).</def>
+					<def>2. Chi dopo la morte è innalzato dalla Chiesa all’onore degli altari per la fama della sua santità (cfr. @RR@Beatificazione@_@).</def>
 					<cit>
 						<bibl>Boccaccio, Dec., 3-4 (297):</bibl>
 						<quote> Tu dèi sapere che i santi dottori tengono che a chi vuol divenir beato si convien fare la penitenzia che tu udirai.</quote>

@@ -109,7 +109,7 @@
 					<orth>Beccapésce</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><usg type="geo">dial.</usg><def>sm. Dial. Nome di vari uccelli acquatici che si nutrono di pesci, tra cui l'airone rosso, il piombino, la starna mezzana, il martin pescatore, ecc. (v. Beccapesci).</def>
+					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><usg type="geo">dial.</usg><def>sm. Dial. Nome di vari uccelli acquatici che si nutrono di pesci, tra cui l'airone rosso, il piombino, la starna mezzana, il martin pescatore, ecc. (v. @RR@Beccapesci@_@).</def>
 				</sense>
 				<etym>= Comp. dall’imp. di beccare e da pesce (v.).</etym>
 			</entry>
@@ -450,12 +450,12 @@
 				<form type="lemma">
 					<orth>Beccarèllo</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Beccherello.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Beccherello@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Beccarìa</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Beccheria.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Beccheria@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Beccarite</orth>
@@ -469,7 +469,7 @@
 				<form type="lemma">
 					<orth>Beccaro</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Beccaio.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Beccaio@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Beccastrino</orth>
@@ -692,7 +692,7 @@
 					<orth>Beccheggiare1</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS">verbo</gram><gram type="subc">intr.</gram></gramGrp><def>intr. (becchéggio) Oscillare continuamente nel senso della lunghezza (proprio del galleggiante, ma esteso all’aeromobile e anche ai veicoli, come la locomotiva). V. Beccheggio.</def>
+					<gramGrp><gram type="POS">verbo</gram><gram type="subc">intr.</gram></gramGrp><def>intr. (becchéggio) Oscillare continuamente nel senso della lunghezza (proprio del galleggiante, ma esteso all’aeromobile e anche ai veicoli, come la locomotiva). V. @RR@Beccheggio@_@.</def>
 					<cit>
 						<bibl>Dizionario militare [1847], 123:</bibl>
 						<quote> Una nave beccheggia duramente se i suoi fondi sono molto tagliati e se è molto lunga.</quote>
@@ -990,7 +990,7 @@
 				<form type="lemma">
 					<orth>Bècchico</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Bechico.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Bechico@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Becchime1</orth>
@@ -1048,7 +1048,7 @@
 				<form type="lemma">
 					<orth>Becchincróce</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Becco in croce.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Becco in croce@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Becchino</orth>
@@ -1126,7 +1126,7 @@
 					<orth>Becchióni</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sm.</gram><gram type="numb">plur.</gram></gramGrp><usg type="dom" subtype="SC">bot.</usg><usg type="time">ant.</usg><def>sm. plur. Bot. Ant. Tossilagine (tussilago farfara). V. Bechio.</def>
+					<gramGrp><gram type="POS" subtype="gen">sm.</gram><gram type="numb">plur.</gram></gramGrp><usg type="dom" subtype="SC">bot.</usg><usg type="time">ant.</usg><def>sm. plur. Bot. Ant. Tossilagine (tussilago farfara). V. @RR@Bechio@_@.</def>
 				</sense>
 			</entry>
 			<entry>
@@ -1766,7 +1766,7 @@
 					<orth>Bécco in cróce</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><usg type="dom" subtype="SC">ornit.</usg><def>(bécch’in cróce) sm. Ornit. Nome del crociere (v. Beccaforbice).</def>
+					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><usg type="dom" subtype="SC">ornit.</usg><def>(bécch’in cróce) sm. Ornit. Nome del crociere (v. @RR@Beccaforbice@_@).</def>
 					<cit>
 						<bibl>Tombari, 2-89:</bibl>
 						<quote> Piagliaroli, becchincroce, ciuffolotti, tornavano a far baccano per riprender i primi posti.</quote>
@@ -1822,7 +1822,7 @@
 					<orth>Beccostòrto</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><usg type="dom" subtype="SC">ornit.</usg><usg type="geo">dial.</usg><def>(bécco storto) sm. Ornit. Dial. Nome del crociere (v. Beccaforbice).</def>
+					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><usg type="dom" subtype="SC">ornit.</usg><usg type="geo">dial.</usg><def>(bécco storto) sm. Ornit. Dial. Nome del crociere (v. @RR@Beccaforbice@_@).</def>
 				</sense>
 			</entry>
 			<entry>
@@ -1864,7 +1864,7 @@
 					<orth>Beccucchiare</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS">verbo</gram><gram type="subc">tr.</gram></gramGrp><def>tr. (beccùcchio) Beccare svogliatamente, a intervalli, qua e là, a piccole quantità (v. Beccolare).</def>
+					<gramGrp><gram type="POS">verbo</gram><gram type="subc">tr.</gram></gramGrp><def>tr. (beccùcchio) Beccare svogliatamente, a intervalli, qua e là, a piccole quantità (v. @RR@Beccolare@_@).</def>
 					<cit>
 						<bibl>Dossi, 19:</bibl>
 						<quote> Quel pàssero delle Canarie... sciaguattava nel beverino i pieducci e beccucchiava il suo rottame di zùcchero...</quote>
@@ -1937,7 +1937,7 @@
 					<orth>Beccuzzare</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS">verbo</gram><gram type="subc">tr.</gram></gramGrp><def>tr. Beccare di poca voglia, qua e là (v. Beccolare e Beccucchiare).</def>
+					<gramGrp><gram type="POS">verbo</gram><gram type="subc">tr.</gram></gramGrp><def>tr. Beccare di poca voglia, qua e là (v. @RR@Beccolare@_@ e @RR@Beccucchiare@_@).</def>
 					<cit>
 						<bibl>Fucini, 37:</bibl>
 						<quote> Ora su quel prato un mucchio di passerotti beccuzzano fra l’erba e si leticano tranquillamente.</quote>
@@ -2520,7 +2520,7 @@
 					<orth>Befanòtto</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><usg type="geo">dial.</usg><def>sm. Dial. Giovane mascherato che in comitiva andava cantando la sera precedente la befana (il 5 gennaio) di casa in casa (v. Befanata).</def>
+					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><usg type="geo">dial.</usg><def>sm. Dial. Giovane mascherato che in comitiva andava cantando la sera precedente la befana (il 5 gennaio) di casa in casa (v. @RR@Befanata@_@).</def>
 					<cit>
 						<bibl>Pea, 7-86:</bibl>
 						<quote> E spalancata che è la porta, vedi al sommo di quella scala, una specie di befanotto: un vecchio arabo magro e lungo: barbetta bianca e stentata.</quote>
@@ -2533,7 +2533,7 @@
 					<orth>Befària</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><usg type="dom" subtype="SC">bot.</usg><def>sf. Bot. Pianta ornamentale (Befaria racemosa) della famiglia Ericacee (v. Bejaria).</def>
+					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><usg type="dom" subtype="SC">bot.</usg><def>sf. Bot. Pianta ornamentale (Befaria racemosa) della famiglia Ericacee (v. @RR@Bejaria@_@).</def>
 				</sense>
 				<etym>= Nome adottato da Linneo per falsa lettura della forma esatta bejària.</etym>
 			</entry>
@@ -3404,7 +3404,7 @@
 				<form type="lemma">
 					<orth>Beglierbèi</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Bellerbei.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Bellerbei@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Begliuòmini</orth>
@@ -3591,7 +3591,7 @@
 					<orth>Bejària</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><usg type="dom" subtype="SC">bot.</usg><def>sf. Bot. Genere di piante dicotiledoni, della famiglia Ericacee, comprendenti circa cinquanta specie: sono arbusti o arboscelli della vegetazione subalpina e alpina (nelle Ande), coltivati anche nei giardini per i loro fiori vistosi (rosa, rossi, bianchi, gialli, secondo le varietà) e le foglie sempre verdi e lucenti; somigliano ai rododendri («rose delle Alpi»): perciò sono chiamate rose delle Ande (cfr. Befaria).</def>
+					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><usg type="dom" subtype="SC">bot.</usg><def>sf. Bot. Genere di piante dicotiledoni, della famiglia Ericacee, comprendenti circa cinquanta specie: sono arbusti o arboscelli della vegetazione subalpina e alpina (nelle Ande), coltivati anche nei giardini per i loro fiori vistosi (rosa, rossi, bianchi, gialli, secondo le varietà) e le foglie sempre verdi e lucenti; somigliano ai rododendri («rose delle Alpi»): perciò sono chiamate rose delle Ande (cfr. @RR@Befaria@_@).</def>
 				</sense>
 				<etym>= Voce dotta, derivata dal nome del botanico spagnolo Bejar; cfr. fr. béjarie. Per falsa lettura Linneo introdusse la forma Befaria (v.).</etym>
 			</entry>
@@ -3797,7 +3797,7 @@
 				<form type="lemma">
 					<orth>Bèl bèllo</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Bello.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Bello@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Belemnite</orth>
@@ -3949,7 +3949,7 @@
 					<orth>Belinuro</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><usg type="dom" subtype="UM">paleont.</usg><def>sm. Paleont. Crostaceo fossile (v. Belinuridi).</def>
+					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><usg type="dom" subtype="UM">paleont.</usg><def>sm. Paleont. Crostaceo fossile (v. @RR@Belinuridi@_@).</def>
 				</sense>
 			</entry>
 			<entry>
@@ -4646,7 +4646,7 @@
 					<orth>Bellézza</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><def>sf. Qualità di ciò che è bello, di ciò che piace agli occhi e all'animo: e implica l’idea dell’armonia e della perfezione, e s’accompagna a sensi d’intimo godimento (di soddisfazione fisica o di esultanza morale o di adesione estetica), e ispira sentimenti di ammirazione o di desiderio, comunque di spontaneo e gratuito consenso (cfr. Bello).</def>
+					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><def>sf. Qualità di ciò che è bello, di ciò che piace agli occhi e all'animo: e implica l’idea dell’armonia e della perfezione, e s’accompagna a sensi d’intimo godimento (di soddisfazione fisica o di esultanza morale o di adesione estetica), e ispira sentimenti di ammirazione o di desiderio, comunque di spontaneo e gratuito consenso (cfr. @RR@Bello@_@).</def>
 					<cit>
 						<bibl>Rustico, VI-1-167 (31-10):</bibl>
 						<quote> Deo, che maraviglia sembrarla / a dir tanta smisure di bellezze, / quanto son quelle di madonna mia.</quote>
@@ -5029,7 +5029,7 @@
 					<orth>Belliciónchio</orth>
 				</form>
 				<sense level="1" n="1">
-					<usg type="time">ant.</usg><def>(biliciónchio) catYYY_s. Ant. Cordone ombelicale (v. Belliconcio).</def>
+					<usg type="time">ant.</usg><def>(biliciónchio) catYYY_s. Ant. Cordone ombelicale (v. @RR@Belliconcio@_@).</def>
 					<cit><bibl>Testi fiorentini, 185:</bibl>
 						<quote> Sapiate che sì tosto come il fanciullo è nato, sì si conviene inviluppare in rose peste, mescolate con salina, e si conviene il bilicionchio tagliare di lungo quatro dita.</quote>
 						<bibl corresp="#Testi fiorentini">Idem, 186:</bibl>
@@ -5214,13 +5214,13 @@
 				<form type="lemma">
 					<orth>Bellìcolo</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Bellico.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Bellico@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Bellicóncio</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><usg type="time">ant.</usg><def>(bellicónchio) sm. Ant. Cordone ombelicale, funicolo (v. Bellicionchio).</def>
+					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><usg type="time">ant.</usg><def>(bellicónchio) sm. Ant. Cordone ombelicale, funicolo (v. @RR@Bellicionchio@_@).</def>
 					<cit>
 						<bibl source="Crusca">Bencivenni [Crusca]:</bibl>
 						<quote> E’ si conviene il belliconcio tagliare di lungo quattro dita, e porre di sopra polvere di sangue di dragone.</quote>
@@ -5572,7 +5572,7 @@
 				<form type="lemma">
 					<orth>Bellìrico</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Bellerico.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Bellerico@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Bèllis</orth>
@@ -5904,7 +5904,7 @@
 					</cit>
 				</sense>
 				<sense level="1" n="4">
-					<def>4. Detto del tempo, della stagione: che è mite (anche indica la primavera, l’estate). Cfr. Bello2.</def>
+					<def>4. Detto del tempo, della stagione: che è mite (anche indica la primavera, l’estate). Cfr. @RR@Bello2@_@.</def>
 					<cit>
 						<bibl>Petrarca, 3x0-1:</bibl>
 						<quote> Zefiro toma, e ’l bel tempo rimena / e i fiori e l’erbe, sua dolce famiglia.</quote>
@@ -6205,7 +6205,7 @@
 					</cit>
 				</sense>
 				<sense level="2" n="9.1">
-					<def>- Belle Arti: le arti del disegno (pittura, scultura, architettura, ecc.); cfr. Arte. - Belle Lettere: gli studi di letteratura, di filosofia, di poesia (cfr. Lettere).</def>
+					<def>- Belle Arti: le arti del disegno (pittura, scultura, architettura, ecc.); cfr. @RR@Arte@_@. - Belle Lettere: gli studi di letteratura, di filosofia, di poesia (cfr. @RR@Lettere@_@).</def>
 					<cit>
 						<bibl>Tasso, n-III-727:</bibl>
 						<quote> La ritrovai a seder fra messer Francesco Patrizio e messer Camillo Coccapani, uomini riputati dottissimi ne le belle lettere.</quote>
@@ -6238,7 +6238,7 @@
 					</cit>
 				</sense>
 				<sense level="2" n="9.2">
-					<def>- Bel canto: v. Canto.</def>
+					<def>- Bel canto: v. @RR@Canto@_@.</def>
 				</sense>
 				<sense level="2" n="9.3">
 					<def>- Bei tempi; bella età; begli anni, ecc.: il tempo passato, quello della giovinezza, o di un’età serena (che ritorna nella memoria).</def>
@@ -6341,29 +6341,29 @@
 					</cit>
 				</sense>
 				<sense level="2" n="9.11">
-					<def>- Bel colpo: detto di cosa che riesce; anche di un’impresa temeraria o azzardata (o poco pulita). Cfr. Colpo.</def>
+					<def>- Bel colpo: detto di cosa che riesce; anche di un’impresa temeraria o azzardata (o poco pulita). Cfr. @RR@Colpo@_@.</def>
 					<cit>
 						<bibl>Beltramelli, I-269:</bibl>
 						<quote> Vi faccio un lieto pronostico, figli miei: o morirete di fame o finirete in galera perché non avete neppure la tempra necessaria per compiere un bel colpo a tempo debito. Quando sarete costretti a tentare, vi coglieranno come pulcini nella stoppa.</quote>
 					</cit>
 				</sense>
 				<sense level="2" n="9.12">
-					<def>- Bella presenza: cfr. Presenza.</def>
+					<def>- Bella presenza: cfr. @RR@Presenza@_@.</def>
 				</sense>
 				<sense level="2" n="9.13">
-					<def>- Bella mostra: cfr. Mostra.</def>
+					<def>- Bella mostra: cfr. @RR@Mostra@_@.</def>
 				</sense>
 				<sense level="2" n="9.14">
-					<def>- Bella figura: cfr. Figura.</def>
+					<def>- Bella figura: cfr. @RR@Figura@_@.</def>
 				</sense>
 				<sense level="2" n="9.15">
-					<def>- Bella vista: cfr. Vista.</def>
+					<def>- Bella vista: cfr. @RR@Vista@_@.</def>
 				</sense>
 				<sense level="2" n="9.16">
-					<def>- Bello spirito: cfr. Spirito.</def>
+					<def>- Bello spirito: cfr. @RR@Spirito@_@.</def>
 				</sense>
 				<sense level="2" n="9.17">
-					<def>- Bella copia: cfr. Bella (anche copia).</def>
+					<def>- Bella copia: cfr. @RR@Bella@_@ (anche copia).</def>
 				</sense>
 				<sense level="1" n="10">
 					<def>10. Per ironia e per antifrasi: di cose che non si gradiscono affatto; oppure a significare disapprovazione, contrarietà.</def>
@@ -6872,7 +6872,7 @@
 					</cit>
 				</sense>
 				<sense level="1" n="7">
-					<def>7. Bel tempo (in quanto il cielo è sereno, e c’è il sole, e l’aria è mite: anche indica la primavera). - È bello, fa bello; si mette al bello (cfr. Bello1).</def>
+					<def>7. Bel tempo (in quanto il cielo è sereno, e c’è il sole, e l’aria è mite: anche indica la primavera). - È bello, fa bello; si mette al bello (cfr. @RR@Bello1@_@).</def>
 					<cit>
 						<bibl>Svevo, 3-869:</bibl>
 						<quote> Quel giorno il tempo s’era rimesso al bello. Brillava un magnifico sole primaverile e, sulla campagna ancora bagnata, l’aria era nitida e sana.</quote>
@@ -7505,7 +7505,7 @@
 				<form type="lemma">
 					<orth>Beltrésca</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Bertesca.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Bertesca@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Beluga</orth>
@@ -7715,7 +7715,7 @@
 				<form type="lemma">
 					<orth>Bel#zoìno e bel#zuìno</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Benzoino.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Benzoino@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Bel#zuar</orth>
@@ -7884,12 +7884,12 @@
 				<form type="lemma">
 					<orth>Ben</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Bèen.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Bèen@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Benaccètto</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Accetto.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Accetto@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Benaccióne</orth>
@@ -7933,12 +7933,12 @@
 				<form type="lemma">
 					<orth>Benallevato</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Allevato.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Allevato@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Benalzato</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Alzato.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Alzato@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Benamato</orth>
@@ -8070,12 +8070,12 @@
 				<form type="lemma">
 					<orth>Benaugurataménte</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Auguratamente.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Auguratamente@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Benaugurato</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Augurato.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Augurato@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Benauguróso</orth>
@@ -8116,7 +8116,7 @@
 				<form type="lemma">
 					<orth>Benavveduto</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Avveduto.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Avveduto@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Benavventuranza</orth>
@@ -8171,7 +8171,7 @@
 					<orth>Benavventurosaménte</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS">avv.</gram></gramGrp><usg type="time">ant.</usg><def>avv. Ant. Felicemente, con molta fortuna (cfr. Avventurosamente).</def>
+					<gramGrp><gram type="POS">avv.</gram></gramGrp><usg type="time">ant.</usg><def>avv. Ant. Felicemente, con molta fortuna (cfr. @RR@Avventurosamente@_@).</def>
 					<cit>
 						<bibl>G. Villani, 8-53:</bibl>
 						<quote> Ebbono i Fiorentini gran vittoria in ogni loro oste e cavalcata che fecero, benavventurosamente, perseguitando in ogni parte gli usciti bianchi e’ ghibellini con loro distruzione.</quote>
@@ -8186,7 +8186,7 @@
 					<orth>Benavventuróso</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS">agg.</gram></gramGrp><usg type="time">ant.</usg><def>(ben avventuróso) agg. Ant. Fortunato; che ha buona sorte; che riesce felicemente (cfr. Avventuroso).</def>
+					<gramGrp><gram type="POS">agg.</gram></gramGrp><usg type="time">ant.</usg><def>(ben avventuróso) agg. Ant. Fortunato; che ha buona sorte; che riesce felicemente (cfr. @RR@Avventuroso@_@).</def>
 					<cit>
 						<bibl>Bartolomeo da S. C., 29-2-4:</bibl>
 						<quote> Alli benavventurosi avanzamenti sanza niuno dubbio sempre è prossimana la ’nvidia.</quote>
@@ -8344,7 +8344,7 @@
 				<form type="lemma">
 					<orth>Bencondizionato</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Condizionato.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Condizionato@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Bencreato</orth>
@@ -8667,7 +8667,7 @@
 					<orth>Bendatura</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><def>sf. Fasciatura (cfr. Bendaggio).</def>
+					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><def>sf. Fasciatura (cfr. @RR@Bendaggio@_@).</def>
 				</sense>
 				<sense level="1" n="2">
 					<def>2. Insieme delle bende con cui le donne si fasciavano il capo e le guance; acconciatura.</def>
@@ -8697,12 +8697,12 @@
 				<form type="lemma">
 					<orth>Bendispósto</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Disposto.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Disposto@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Bèndola</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Bennola.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Bennola@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Bendóne</orth>
@@ -9022,7 +9022,7 @@
 					</cit>
 				</sense>
 				<sense level="1" n="5">
-					<def>5. Anche con valore d’ironia o di antifrasi. - Aver ben onde, ben donde: averne motivo, ragione (cfr. Donde e Onde).</def>
+					<def>5. Anche con valore d’ironia o di antifrasi. - Aver ben onde, ben donde: averne motivo, ragione (cfr. @RR@Donde@_@ e @RR@Onde@_@).</def>
 					<cit>
 						<bibl>Dante, Purg., 6-127:</bibl>
 						<quote> Fiorenza mia, ben puoi esser contenta / di questa disgression che non ti tocca.</quote>
@@ -9100,7 +9100,7 @@
 					</cit>
 				</sense>
 				<sense level="2" n="6.1">
-					<def>- Così, per esempio, il caso di stare, a cui ‘bene’ dà diversi sensi. - Star bene: godere buona salute, vivere agiatamente, avere una buona posizione sociale, sentirsi a proprio agio, star comodamente; andare nel modo migliore, riuscire favorevolmente. - Star bene (una cosa a uno): addirsi, essergli adatta, conveniente. - Gli sta bene! o ben gli sta!: a indicare che uno si merita il danno che l’ha colpito. - Sta bene!: a denotare restia rassegnazione, ammissione, ecc. (v. Stare).</def>
+					<def>- Così, per esempio, il caso di stare, a cui ‘bene’ dà diversi sensi. - Star bene: godere buona salute, vivere agiatamente, avere una buona posizione sociale, sentirsi a proprio agio, star comodamente; andare nel modo migliore, riuscire favorevolmente. - Star bene (una cosa a uno): addirsi, essergli adatta, conveniente. - Gli sta bene! o ben gli sta!: a indicare che uno si merita il danno che l’ha colpito. - Sta bene!: a denotare restia rassegnazione, ammissione, ecc. (v. @RR@Stare@_@).</def>
 					<cit>
 						<bibl>Petrarca, 105-50:</bibl>
 						<quote> Per bene star si scende molte miglia.</quote>
@@ -9163,7 +9163,7 @@
 					</cit>
 				</sense>
 				<sense level="2" n="6.2">
-					<def>- Andar bene: detto di cosa che riesce bene, che si adatta, che procede favorevolmente. - Va bene: siamo d’accordo; è così (v. Andare, n. 11). - Venir bene: riuscire; essere di gradimento, piacere (v. Venire). - Tornare bene: essere di vantaggio, riuscire utile, opportuno. - Avvenire, accadere bene: aver fortuna, successo (cfr. Avvenire, n. 12; Capitare, ecc.).</def>
+					<def>- Andar bene: detto di cosa che riesce bene, che si adatta, che procede favorevolmente. - Va bene: siamo d’accordo; è così (v. @RR@Andare@_@, n. 11). - Venir bene: riuscire; essere di gradimento, piacere (v. @RR@Venire@_@). - Tornare bene: essere di vantaggio, riuscire utile, opportuno. - Avvenire, accadere bene: aver fortuna, successo (cfr. @RR@Avvenire@_@, n. 12; @RR@Capitare@_@, ecc.).</def>
 					<cit>
 						<bibl>Boccaccio, Dec., 7-7 (188):</bibl>
 						<quote> In Parigi fu già un gentile uomo fiorentino, il quale per povertà divenuto era mercatante, ed eragli sì bene avvenuto nella mercatantia, che egli ne era fatto ricchissimo.</quote>
@@ -9196,14 +9196,14 @@
 					</cit>
 				</sense>
 				<sense level="2" n="6.3">
-					<def>- Portarsi bene, condursi bene: tenere un contegno buono, comportarsi bene (cfr. Condurre e Portare).</def>
+					<def>- Portarsi bene, condursi bene: tenere un contegno buono, comportarsi bene (cfr. @RR@Condurre@_@ e @RR@Portare@_@).</def>
 					<cit>
 						<bibl>Palazzeschi, 4-119:</bibl>
 						<quote> Essa non tardò a iniziare il giochetto di ricoprir magagne e marachelle, sempre adducendo che era coi contadini nel podere e stava buono, si portava bene; o nel cortile a fare il chiasso con quelli del casamento.</quote>
 					</cit>
 				</sense>
 				<sense level="2" n="6.4">
-					<def>- Ben venga: sia il benvenuto (a indicare attesa e giubilo; ma anche con intenzione ironica). V. Venire.</def>
+					<def>- Ben venga: sia il benvenuto (a indicare attesa e giubilo; ma anche con intenzione ironica). V. @RR@Venire@_@.</def>
 					<cit>
 						<bibl>Tedaldi, 7-2 (39):</bibl>
 						<quote> Tal si solea per me levare in piede, / e dicea - bene andiate - e - ben vegnate -, / e farmi molto spesso le fiate.</quote>
@@ -9225,7 +9225,7 @@
 					</cit>
 				</sense>
 				<sense level="2" n="6.6">
-					<def>- Alla bene e meglio: alla bell’e meglio (cfr. Bello1).</def>
+					<def>- Alla bene e meglio: alla bell’e meglio (cfr. @RR@Bello1@_@).</def>
 					<cit>
 						<bibl>Bartolini, 15-154:</bibl>
 						<quote> Passavo alla bene e meglio le ore.</quote>
@@ -9234,7 +9234,7 @@
 					</cit>
 				</sense>
 				<sense level="2" n="6.7">
-					<def>- Guardarsi bene dal fare una cosa: evitare di farla (mettendoci tutta la volontà e l’impegno). Cfr. Guardare.</def>
+					<def>- Guardarsi bene dal fare una cosa: evitare di farla (mettendoci tutta la volontà e l’impegno). Cfr. @RR@Guardare@_@.</def>
 					<cit>
 						<bibl>B. Croce, III-22-242:</bibl>
 						<quote> Il governo italiano si guardò bene dal prestare il suo appoggio... al movimento modernistico.</quote>
@@ -9243,7 +9243,7 @@
 					</cit>
 				</sense>
 				<sense level="1" n="7">
-					<def>7. Con valore di esclamazione: a indicare approvazione, consenso, soddisfazione; oppure a introdurre un discorso, a interrogare, ad apostrofare; anche: a interrompere una conversazione, a tagliar corto (cfr. Beh e Be’). - Anche: bene bene.</def>
+					<def>7. Con valore di esclamazione: a indicare approvazione, consenso, soddisfazione; oppure a introdurre un discorso, a interrogare, ad apostrofare; anche: a interrompere una conversazione, a tagliar corto (cfr. @RR@Beh@_@ e @RR@Be’@_@). - Anche: bene bene.</def>
 					<cit>
 						<bibl>Cavalca, 3-55:</bibl>
 						<quote> Ben lo feci, ma non fu un gran male.</quote>
@@ -9325,7 +9325,7 @@
 					</cit>
 				</sense>
 				<sense level="1" n="9">
-					<def>9. Premesso ad altro: ben altro, ben d’altro, ecc. (cfr. Altro, n. 2).</def>
+					<def>9. Premesso ad altro: ben altro, ben d’altro, ecc. (cfr. @RR@Altro@_@, n. 2).</def>
 					<cit>
 						<bibl>Casti, 8-3:</bibl>
 						<quote> Influenza e predominio avere / su debil prence, egli è ben altra cosa / che illimitato esercitarpotere / d’autorità assoluta imperiosa.</quote>
@@ -10179,7 +10179,7 @@
 					</cit>
 				</sense>
 				<sense level="1" n="16">
-					<def>16. Da bene (riferito a persone): probo, onesto, di buoni costumi (cfr. Dabbene).</def>
+					<def>16. Da bene (riferito a persone): probo, onesto, di buoni costumi (cfr. @RR@Dabbene@_@).</def>
 					<cit>
 						<bibl>Boccaccio, Dec., 7-6 (184):</bibl>
 						<quote> Nella nostra città, copiosa di tutti i beni, fu già una giovane donna e gentile e assai bella, la qual fu moglie d’un cavaliere assai valoroso e da bene.</quote>
@@ -10691,7 +10691,7 @@
 					<orth>Benedire</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS">verbo</gram><gram type="subc">tr.</gram><gram type="subc">intr.</gram></gramGrp><usg type="time">ant.</usg><def>(ant. anche benedicere) tr. (per la coniugazione: cfr. Dire; imperat. benedici) Fare il segno della croce (che si traccia in aria con la mano destra alzata) a impetrare per i presenti (persone, salme, cose) la protezione di Dio, il favore celeste; consacrare al culto con cerimonia religiosa (a opera di un ministro della Chiesa); augurare, sollecitare la grazia divina sulle persone e sulle cose. - Anche intr.</def>
+					<gramGrp><gram type="POS">verbo</gram><gram type="subc">tr.</gram><gram type="subc">intr.</gram></gramGrp><usg type="time">ant.</usg><def>(ant. anche benedicere) tr. (per la coniugazione: cfr. @RR@Dire@_@; imperat. benedici) Fare il segno della croce (che si traccia in aria con la mano destra alzata) a impetrare per i presenti (persone, salme, cose) la protezione di Dio, il favore celeste; consacrare al culto con cerimonia religiosa (a opera di un ministro della Chiesa); augurare, sollecitare la grazia divina sulle persone e sulle cose. - Anche intr.</def>
 					<cit>
 						<bibl>Novellino, 36 (66):</bibl>
 						<quote> Allora lo profeta Balaam guardò e vide l’angelo. E l’angelo parlò: - Che è ciò, che tu vai a maladire il popolo di Dio? Incontanente lo benedi’, se tu non vuoli morire, come tu il volevi maladire ! - Andò il profeta e benedicea lo popolo di Dio.</quote>
@@ -10978,7 +10978,7 @@
 					<orth>Beneducato</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS">agg.</gram></gramGrp><def>(bèn educato) agg. Educato bene, che ha ricevuto una buona educazione; che è di maniere civili, gentili, garbate (cfr. Educato).</def>
+					<gramGrp><gram type="POS">agg.</gram></gramGrp><def>(bèn educato) agg. Educato bene, che ha ricevuto una buona educazione; che è di maniere civili, gentili, garbate (cfr. @RR@Educato@_@).</def>
 					<cit>
 						<bibl>Deledda, III-67:</bibl>
 						<quote> Che credi che io sia diventato un animale? Povero sì, disgraziato sì, ma beneducato ancora; questo posso dirlo altamente; e tu pure puoi dirlo perché anche tu sei beneducata.</quote>
@@ -11017,7 +11017,7 @@
 					<orth>Benefare</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS">verbo</gram><gram type="subc">intr.</gram></gramGrp><usg type="time">ant.</usg><def>intr. (per la coniugazione: cfr. Fare) Ant. Operare bene.</def>
+					<gramGrp><gram type="POS">verbo</gram><gram type="subc">intr.</gram></gramGrp><usg type="time">ant.</usg><def>intr. (per la coniugazione: cfr. @RR@Fare@_@) Ant. Operare bene.</def>
 					<cit>
 						<bibl>I. Pitti, 3-125:</bibl>
 						<quote> Quelli pochi che per ambizione fussero affezionati a’ Pisani non potrebbono in tra tanti disposti a benefare tentare alcuna novità.</quote>
@@ -11546,7 +11546,7 @@
 				<form type="lemma">
 					<orth>Beneficiènza</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Beneficenza.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Beneficenza@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Benefìcio e benefìzio</orth>
@@ -11915,7 +11915,7 @@
 				<form type="lemma">
 					<orth>Benefìzio</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Beneficio.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Beneficio@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Benemerènte</orth>
@@ -12057,7 +12057,7 @@
 				<form type="lemma">
 					<orth>Benenanza</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Benignanza.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Benignanza@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Benentrata</orth>
@@ -12661,7 +12661,7 @@
 				<form type="lemma">
 					<orth>Bengiuì</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Benzoino.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Benzoino@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Bengòdi</orth>
@@ -13454,7 +13454,7 @@
 					</cit>
 				</sense>
 				<sense level="1" n="2">
-					<def>2. Tuttavia, però, peraltro; ma invece, anzi (con valore avversativo, e per lo più in correlazione a espressioni negative); unito a ma, gli conferisce maggiore efficacia: ma anche, ma anzi (cfr. Sibbene).</def>
+					<def>2. Tuttavia, però, peraltro; ma invece, anzi (con valore avversativo, e per lo più in correlazione a espressioni negative); unito a ma, gli conferisce maggiore efficacia: ma anche, ma anzi (cfr. @RR@Sibbene@_@).</def>
 					<cit>
 						<bibl>Sarpi, VIII-282:</bibl>
 						<quote> Li eretici, se ben hanno qualche false opinioni, bensì hanno il carattere del battesmo ed onorano Cristo.</quote>
@@ -13497,7 +13497,7 @@
 				<form type="lemma">
 					<orth>Bènthos</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Bentos.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Bentos@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Bentònico</orth>
@@ -13551,7 +13551,7 @@
 					<orth>Bentòsto</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS">avv.</gram></gramGrp><def>(bèn tòsto) avv. Presto, subito  (v. Tosto).</def>
+					<gramGrp><gram type="POS">avv.</gram></gramGrp><def>(bèn tòsto) avv. Presto, subito  (v. @RR@Tosto@_@).</def>
 					<cit>
 						<bibl>Tasso, 5-50:</bibl>
 						<quote> Ben tosto fia, se pur qui contra avremo / l’arme d’Egitto, o d’altro stuol pagano, / ch’assai più chiaro il tuo valore estremo / n’apparirà, mentre sarai lontano.</quote>
@@ -13725,7 +13725,7 @@
 				<form type="lemma">
 					<orth>Benvogliènte e benvogliènza</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Benevolente e Benevolenza.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Benevolente@_@ e @RR@Benevolenza@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Benvolére1</orth>
@@ -13917,7 +13917,7 @@
 					</cit>
 				</sense>
 				<sense level="1" n="2">
-					<usg type="dia">popol.</usg><def>2. Popol. Oste (cfr. Benzina, n. 2). - Anche: grande bevitore.</def>
+					<usg type="dia">popol.</usg><def>2. Popol. Oste (cfr. @RR@Benzina@_@, n. 2). - Anche: grande bevitore.</def>
 				</sense>
 				<etym>= Voce romanesca: e già si usa nella lingua comune la forma benzinaio.</etym>
 			</entry>
@@ -13925,7 +13925,7 @@
 				<form type="lemma">
 					<orth>Ben#zoàr</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Bezoar.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Bezoar@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Ben#zoato</orth>
@@ -14203,13 +14203,13 @@
 				<form type="lemma">
 					<orth>Berberidèe</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Berberidacee.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Berberidacee@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Bèrberis</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><usg type="dom" subtype="SC">bot.</usg><def>sf. Bot. Denominazione scientifica del genere principale della famiglia Berberidee o Berberidacee: comprende circa 400 specie di piante ad arbusto, con fiori a grappoli e frutto a bacca, di cui alcune coltivate per ornamento (cfr. Berbero1 e Crespino).</def>
+					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><usg type="dom" subtype="SC">bot.</usg><def>sf. Bot. Denominazione scientifica del genere principale della famiglia Berberidee o Berberidacee: comprende circa 400 specie di piante ad arbusto, con fiori a grappoli e frutto a bacca, di cui alcune coltivate per ornamento (cfr. @RR@Berbero1@_@ e @RR@Crespino@_@).</def>
 				</sense>
 				<etym>= Voce dotta, lat. scient. berberis vulgaris, dal lat. mediev. berberis (e barberis), dall’arabo barbārîs; cfr. spagn. berberìs (docum. nel 1537) e berbero (nel 1680).</etym>
 			</entry>
@@ -14246,7 +14246,7 @@
 					</cit>
 				</sense>
 				<sense level="1" n="2">
-					<def>2. Cavallo adatto alla corsa (v. Barbero1).</def>
+					<def>2. Cavallo adatto alla corsa (v. @RR@Barbero1@_@).</def>
 				</sense>
 			</entry>
 			<entry>
@@ -15211,7 +15211,7 @@
 				<form type="lemma">
 					<orth>Berétta1</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Berretta.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Berretta@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Berétta2</orth>
@@ -15347,7 +15347,7 @@
 					<orth>Bergamino2</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><def>sm. Proprietario di una mandria di mucche (cfr. Bergamina); addetto all’allevamento dei bovini.</def>
+					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><def>sm. Proprietario di una mandria di mucche (cfr. @RR@Bergamina@_@); addetto all’allevamento dei bovini.</def>
 				</sense>
 			</entry>
 			<entry>
@@ -15439,7 +15439,7 @@
 					</cit>
 				</sense>
 				<sense level="1" n="3">
-					<def>3. Varietà di pero (cfr. Bergamotta).</def>
+					<def>3. Varietà di pero (cfr. @RR@Bergamotta@_@).</def>
 					<cit>
 						<bibl>Varchi, V-169:</bibl>
 						<quote> Se vi rispondessi: un pero del signore,o bergamotto, o più tosto il tal pero del tal padrone, ...non vi rimarrebbe più che dubitare.</quote>
