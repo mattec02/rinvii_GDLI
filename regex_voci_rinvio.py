@@ -218,8 +218,8 @@ def process_multiple_files(input_dir, output_dir):
 
 
 # Eseguo il codice su tutti i file nella cartella di input e salvo i risultati in una cartella di output
-input_directory = '/Users/matteochiaramonte/Downloads/Tesi_Chiaramonte/VOL I'
-output_directory = '/Users/matteochiaramonte/Downloads/Tesi_Chiaramonte/VOL I/ref'
+input_directory = '/Users/matteochiaramonte/Git/rinvii_GDLI/VOL III'
+output_directory = '/Users/matteochiaramonte/Git/rinvii_GDLI/vol3_codificaVociRinvio'
 
 # Controllo che la cartella di output esista
 os.makedirs(output_directory, exist_ok=True)

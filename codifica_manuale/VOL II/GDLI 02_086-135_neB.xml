@@ -1675,7 +1675,7 @@
 					</cit>
 				</sense>
 				<sense level="1" n="5">
-					<def>5. Che costituisce la parte geografica più meridionale (la bassa Italia); la parte meno elevata di una regione, di un sistema montuoso; la parte inferiore di un fiume (cioè, quella più vicina alla foce); la parte bassa del corpo: parti basse, basso ventre (v. Bassoventre); la parte sottostante del bosco (basso bosco).</def>
+					<def>5. Che costituisce la parte geografica più meridionale (la bassa Italia); la parte meno elevata di una regione, di un sistema montuoso; la parte inferiore di un fiume (cioè, quella più vicina alla foce); la parte bassa del corpo: parti basse, basso ventre (v. @RR@Bassoventre@_@); la parte sottostante del bosco (basso bosco).</def>
 					<cit>
 						<bibl>Dante, Inf., 16-98:</bibl>
 						<quote> Che si chiama Acquaqueta suso, avante / che si divalli giù nel basso letto.</quote>
@@ -2568,7 +2568,7 @@
 					<orth>Bassopiano</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sm.</gram><gram type="numb">plur.</gram></gramGrp><def>sm. (plur. bassopiani e bassipiani) Area geografica piuttosto pianeggiante, circondata da rilievi collinosi e montuosi (cfr. Altopiano).</def>
+					<gramGrp><gram type="POS" subtype="gen">sm.</gram><gram type="numb">plur.</gram></gramGrp><def>sm. (plur. bassopiani e bassipiani) Area geografica piuttosto pianeggiante, circondata da rilievi collinosi e montuosi (cfr. @RR@Altopiano@_@).</def>
 					<cit>
 						<bibl>D. Bartoli, 40-II-161:</bibl>
 						<quote> Avea di nuovo edificata una onorevole comoda abitazione agli ufficiali..., in un rilevato, che la rendea superiore alle inondazioni del fiume, che a certe piene ingrossa fino a versar sopra le rive, onde il basso piano della città se ne allaga.</quote>
@@ -5237,7 +5237,7 @@
 					</cit>
 				</sense>
 				<sense level="1" n="4">
-					<usg type="dom" subtype="UM">archit.</usg><def>4. Archit. Elemento ornamentale della colonna (detto anche tondino, astragolo, bastoncello). V. Bastone, n. 9.</def>
+					<usg type="dom" subtype="UM">archit.</usg><def>4. Archit. Elemento ornamentale della colonna (detto anche tondino, astragolo, bastoncello). V. @RR@Bastone@_@, n. 9.</def>
 					<cit>
 						<bibl>C. Bartoli, 1-214:</bibl>
 						<quote> De’ lineamenti delle colonne e delle loro parti, de la basa, mazzocchi, cavetti, bastoncini, dado [ecc.].</quote>
@@ -9024,7 +9024,7 @@
 					</cit>
 				</sense>
 				<sense level="2" n="33.28">
-					<def>- Battere il ferro finché è caldo: approfittare del momento opportuno, delle buone circostanze (cfr. Ferro).</def>
+					<def>- Battere il ferro finché è caldo: approfittare del momento opportuno, delle buone circostanze (cfr. @RR@Ferro@_@).</def>
 					<cit>
 						<bibl>Boiardo, 1-26-16:</bibl>
 						<quote> Come fór giunti dove era Ranaldo, / «su,» disse Astolfo «non prendiam dimora! / Batter si vóle il ferro, mentre è caldo*.</quote>
@@ -15232,7 +15232,7 @@
 					<orth>Bé</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sm.</gram><gram type="POS" subtype="gen">sf.</gram></gramGrp><def>sm. e sf. Nome della lettera b, la seconda dell'alfabeto (v. Bi): d'uso regionale e antiquato.</def></sense>
+					<gramGrp><gram type="POS" subtype="gen">sm.</gram><gram type="POS" subtype="gen">sf.</gram></gramGrp><def>sm. e sf. Nome della lettera b, la seconda dell'alfabeto (v. @RR@Bi@_@): d'uso regionale e antiquato.</def></sense>
 				<etym>= È voce del toscano dialettale (specie dell’aretino). </etym>
 			</entry>
 			<entry>

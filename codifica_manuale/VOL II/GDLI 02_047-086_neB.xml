@@ -7379,7 +7379,7 @@
 					<orth>Barchino</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><usg type="dom">marin.</usg><def>sm. Marin. Imbarcazione leggera, a remi, per la caccia in palude (v. anche Barchetto).</def>
+					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><usg type="dom">marin.</usg><def>sm. Marin. Imbarcazione leggera, a remi, per la caccia in palude (v. anche @RR@Barchetto@_@).</def>
 					<cit>
 						<bibl>Fucini, 16:</bibl>
 						<quote> Cominciò a gesticolare come un ossesso e saltò, per andarsene, nel suo barchino.</quote>
@@ -11382,7 +11382,7 @@
 					<gramGrp><gram type="der">dimin.</gram></gramGrp><def>6. Segno grafico fatto di una sottile linea verticale, un po’ di traverso, secondo l’altezza del rigo (/): per indicare separazione (come in un contesto in cui i versi siano scritti di seguito, per distinguerli l’uno dall’altro; oppure per giustapporre i due termini di un’alternanza; nelle formule matematiche, a distinguere in una frazione il numeratore dal denominatore, ecc.). - Anche al dimin.: barrétta, barrettina.</def>
 				</sense>
 				<sense level="1" n="7">
-					<usg type="sem">figur.</usg><def>7. Sbarramento, steccato, staccionata. - In antico: apprestamento difensivo, barricata. - Anche al figur.: impedimento (cfr. Abbarrare).</def>
+					<usg type="sem">figur.</usg><def>7. Sbarramento, steccato, staccionata. - In antico: apprestamento difensivo, barricata. - Anche al figur.: impedimento (cfr. @RR@Abbarrare@_@).</def>
 					<cit>
 						<bibl>IV- Villani, 10-151:</bibl>
 						<quote> E altri battifolli per gli poggi e tagliate fatte e barre di legname messe, dove stavano di dì e di notte guardie.</quote>
@@ -12171,7 +12171,7 @@
 					<orth>Bartolìstico</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS">agg.</gram><gram type="numb">plur.</gram><gram type="gen">m.</gram></gramGrp><def>agg. (plur. m. -ci) Proprio dei seguaci di Bartolo da Sassoferrato (v. Bartolista): scuola bartolistica, metodo bartolistico.</def>
+					<gramGrp><gram type="POS">agg.</gram><gram type="numb">plur.</gram><gram type="gen">m.</gram></gramGrp><def>agg. (plur. m. -ci) Proprio dei seguaci di Bartolo da Sassoferrato (v. @RR@Bartolista@_@): scuola bartolistica, metodo bartolistico.</def>
 				</sense>
 			</entry>
 			<entry>
@@ -12356,7 +12356,7 @@
 					<orth>Barùgioli</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="comp">locuz.</gram><gram type="POS">avverb.</gram></gramGrp><def>catYYY_l. solo nella locuz. avverb. tra ugioli e barugioli: tra una cosa e l’altra (cfr. Ugioli).</def>
+					<gramGrp><gram type="comp">locuz.</gram><gram type="POS">avverb.</gram></gramGrp><def>catYYY_l. solo nella locuz. avverb. tra ugioli e barugioli: tra una cosa e l’altra (cfr. @RR@Ugioli@_@).</def>
 					<cit>
 						<bibl>Firenzuola, 607:</bibl>
 						<quote> Quel che e’ si prometteva a quei Crocifissi, egli gne ne osservava come di pepe; ancorché e’ girasse certi suoi danaiuoli, che fra ugioli e barùgioli egli stavano a capo all’anno a trentatre e un terzo per cento.</quote>
@@ -12651,7 +12651,7 @@
 					<usg type="dom" subtype="SC">matem.</usg><def>3. Matem. Media basale: media (in aritmetica e geometria) nella cui formula analitica siano espressi i numeri base.</def>
 				</sense>
 				<sense level="1" n="4">
-					<usg type="dom" subtype="MED">medic.</usg><def>4. Medic. Metabolismo basale: cfr. Metabolismo.</def>
+					<usg type="dom" subtype="MED">medic.</usg><def>4. Medic. Metabolismo basale: cfr. @RR@Metabolismo@_@.</def>
 				</sense>
 				<sense level="1" n="5">
 					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><usg type="time">ant.</usg><def>5. Sm. Ant. Base (in architettura).</def>

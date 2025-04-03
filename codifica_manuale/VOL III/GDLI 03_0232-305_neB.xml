@@ -618,7 +618,7 @@
 					<orth>Clòto</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><usg type="dom" subtype="UM">mitol.</usg><def>sf. Mitol. Una delle tre Parche (le Moire della mitologia greca), che appresta e fila con Lachesis lo stame della vita, che poi Atropo recide: a significare la fatalità del vivere (v. Atropo).</def>
+					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><usg type="dom" subtype="UM">mitol.</usg><def>sf. Mitol. Una delle tre Parche (le Moire della mitologia greca), che appresta e fila con Lachesis lo stame della vita, che poi Atropo recide: a significare la fatalità del vivere (v. @RR@Atropo@_@).</def>
 					<cit>
 						<bibl>Dante, Purg., 21-27:</bibl>
 						<quote> Lei che dì e notte fila / non li avea tratta ancora la conocchia / che Cloto impone a ciascuno e compila.</quote>
@@ -789,7 +789,7 @@
 				<form type="lemma">
 					<orth>Cnetocampa</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Processionaria.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Processionaria@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cnicino</orth>
@@ -897,7 +897,7 @@
 					<orth>Co’</orth>
 				</form>
 				<sense level="1" n="1">
-					<usg type="geo">dial.</usg><usg type="dia">letter.</usg><def>catYYY. dial. e letter. Forma tronca della preposizione articolata coi: v. Con.</def>
+					<usg type="geo">dial.</usg><usg type="dia">letter.</usg><def>catYYY. dial. e letter. Forma tronca della preposizione articolata coi: v. @RR@Con@_@.</def>
 				</sense>
 			</entry>
 			<entry>
@@ -1196,7 +1196,7 @@
 					<orth>Coaderire</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS">verbo</gram><gram type="subc">intr.</gram></gramGrp><usg type="dia">letter.</usg><usg type="sem">figur.</usg><def>intr. (per la coniugazione: cfr. Aderire) Letter. Aderire, essere unito insieme con altri (riferito a corpi). - Al figur.: seguire, favorire con altri un partito, un movimento, un’idea.</def>
+					<gramGrp><gram type="POS">verbo</gram><gram type="subc">intr.</gram></gramGrp><usg type="dia">letter.</usg><usg type="sem">figur.</usg><def>intr. (per la coniugazione: cfr. @RR@Aderire@_@) Letter. Aderire, essere unito insieme con altri (riferito a corpi). - Al figur.: seguire, favorire con altri un partito, un movimento, un’idea.</def>
 				</sense>
 				<etym>= Voce dotta, comp. del pref. lat. co- (per cum ‘con’) e aderire (v.). Voce registr. dal Tommaseo.</etym>
 			</entry>
@@ -1381,7 +1381,7 @@
 				<form type="lemma">
 					<orth>Coadministrare</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Coamministrare.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Coamministrare@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Coadottivo</orth>
@@ -1790,7 +1790,7 @@
 				<form type="lemma">
 					<orth>Coaiutóre</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Coadiutore.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Coadiutore@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Coalescènza</orth>
@@ -2396,7 +2396,7 @@
 					</cit>
 				</sense>
 				<sense level="2" n="1.1">
-					<def>- Bomba al cobalto: v. Bomba1, n. 10.</def>
+					<def>- Bomba al cobalto: v. @RR@Bomba1@_@, n. 10.</def>
 				</sense>
 				<sense level="1" n="2">
 					<def>2. Colore azzurro puro e intenso.</def>
@@ -2569,7 +2569,7 @@
 					<orth>Cobite</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><usg type="dom" subtype="SC">ittiol.</usg><def>sm. Ittiol. Genere di pesci Teleostei (v. Cobitidi).</def>
+					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><usg type="dom" subtype="SC">ittiol.</usg><def>sm. Ittiol. Genere di pesci Teleostei (v. @RR@Cobitidi@_@).</def>
 					<cit>
 						<bibl>Tramater [s. v.]:</bibl>
 						<quote> ‘Cobite’, genere di pesci addominali e spinosi, che somigliano il ghiozzo, distinti da un corpo cilindrico allungato, e da occhi situati quasi in cima della testa.</quote>
@@ -2590,7 +2590,7 @@
 				<form type="lemma">
 					<orth>Còbla</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cobbola.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cobbola@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Còbo</orth>
@@ -2604,7 +2604,7 @@
 				<form type="lemma">
 					<orth>Còbola</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cobbola.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cobbola@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cobòldo</orth>
@@ -3084,7 +3084,7 @@
 				<form type="lemma">
 					<orth>Còcca3</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Coca.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Coca@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Coccagna</orth>
@@ -3274,7 +3274,7 @@
 				<form type="lemma">
 					<orth>Còcche</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Coke.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Coke@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Coccherìa</orth>
@@ -3305,7 +3305,7 @@
 				<form type="lemma">
 					<orth>Cocchétta2</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cochetta.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cochetta@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cocchétto</orth>
@@ -3323,7 +3323,7 @@
 				<form type="lemma">
 					<orth>Còcchia</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Coccia2.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Coccia2@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cocchiara</orth>
@@ -3508,7 +3508,7 @@
 				<form type="lemma">
 					<orth>Cocchino</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cochino.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cochino@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Còcchio</orth>
@@ -4070,7 +4070,7 @@
 					</cit>
 				</sense>
 				<sense level="1" n="2">
-					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><def>2. Sm. Panno di color purpureo (cfr. Coccino).</def>
+					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><def>2. Sm. Panno di color purpureo (cfr. @RR@Coccino@_@).</def>
 					<cit>
 						<bibl>Bibbia volgar., X-547:</bibl>
 						<quote> Le sue mercanzie non comprarà più alcuno; mercadanzie d’oro e argento, e di pietre preziose e di perle, ...di seta e di coccinio, e di ogni legno tino.</quote>
@@ -4098,7 +4098,7 @@
 					</cit>
 				</sense>
 				<sense level="1" n="2">
-					<def>2. Sostanza colorante che si ottiene dall’essiccazione delle femmine di una cocciniglia del Messico e dell’America centrale, la Coccus cacti: usata come colorante per polveri, paste dentifrice, pastiglie, ecc. (cfr. Cocco6).</def>
+					<def>2. Sostanza colorante che si ottiene dall’essiccazione delle femmine di una cocciniglia del Messico e dell’America centrale, la Coccus cacti: usata come colorante per polveri, paste dentifrice, pastiglie, ecc. (cfr. @RR@Cocco6@_@).</def>
 					<cit>
 						<bibl>Pasta, 23:</bibl>
 						<quote> Dalle parti d’America ci viene una certa preziosa mercanzia di vermicciuoli, la quale si adopra a tignere in cremisi, e si chiama cocciniglia; ed è di diverse maniere, la più perfetta delle quali dicesi canuta per cagione dell’estemo colore, che pende al canuto.</quote>
@@ -4138,7 +4138,7 @@
 				<form type="lemma">
 					<orth>Coccìnio</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Coccineo.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Coccineo@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Còccino</orth>
@@ -4316,7 +4316,7 @@
 				<form type="lemma">
 					<orth>Còcciola2</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Coccia1.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Coccia1@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cocciòla</orth>
@@ -4638,7 +4638,7 @@
 				<form type="lemma">
 					<orth>Cócco</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Coccato.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Coccato@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Coccodè</orth>
@@ -5229,7 +5229,7 @@
 				<form type="lemma">
 					<orth>Cóccuma</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cuccuma.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cuccuma@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cocènte</orth>
@@ -5409,7 +5409,7 @@
 				<form type="lemma">
 					<orth>Còcere</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cuocere.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cuocere@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cochétta</orth>
@@ -5479,7 +5479,7 @@
 				<form type="lemma">
 					<orth>Cochìglia</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cocchiglia.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cocchiglia@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cochino</orth>
@@ -5532,7 +5532,7 @@
 				<form type="lemma">
 					<orth>Cocina</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cucina.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cucina@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cocióre</orth>
@@ -5574,7 +5574,7 @@
 				<form type="lemma">
 					<orth>Cocire e deriv.</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cucire e deriv.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cucire@_@ e deriv.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cocitóre</orth>
@@ -5827,7 +5827,7 @@
 				<form type="lemma">
 					<orth>Còco</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cuoco.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cuoco@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cocò</orth>
@@ -5852,7 +5852,7 @@
 				<form type="lemma">
 					<orth>Cocodrillo</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Coccodrillo.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Coccodrillo@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cocòi</orth>
@@ -6541,7 +6541,7 @@
 					</cit>
 				</sense>
 				<sense level="1" n="2">
-					<usg type="sem">simil.</usg><def>2. Per simil. Acconciatura femminile dei capelli, che vengono stretti o annodati sulla sommità del capo o sulla nuca (e possono essere lasciati sciolti oppure intrecciati). - Un tempo acconciatura maschile, che consisteva nel portare dietro il capo un ciuffo di capelli legati in punta con un fiocco oppure chiusi in una piccola borsa a reticella (e divenne simbolo della reazione durante e dopo la rivoluzione francese: essere una coda: essere un reazionario: cfr. Codino).</def>
+					<usg type="sem">simil.</usg><def>2. Per simil. Acconciatura femminile dei capelli, che vengono stretti o annodati sulla sommità del capo o sulla nuca (e possono essere lasciati sciolti oppure intrecciati). - Un tempo acconciatura maschile, che consisteva nel portare dietro il capo un ciuffo di capelli legati in punta con un fiocco oppure chiusi in una piccola borsa a reticella (e divenne simbolo della reazione durante e dopo la rivoluzione francese: essere una coda: essere un reazionario: cfr. @RR@Codino@_@).</def>
 					<cit>
 						<bibl>S. Bernardino da Siena, 130:</bibl>
 						<quote> La prima, dico, è per la mala vita. O donne, aviate a mente le code, le quali so’ una delle cagioni; e ricordomi che dei primi luoghi che io l’abbi vedute, fu ne la Lombardia, e a poco a poco so’ venute qua. E vogliovi aggiugniare queste parole, che in tutte le terre che io l’ho vedute, io l’ho vedute mal capitare.</quote>
@@ -7037,13 +7037,13 @@
 					</cit>
 				</sense>
 				<sense level="2" n="27.13">
-					<def>- Dipingere il capo senza la coda: cfr. Capo, n. 19.</def>
+					<def>- Dipingere il capo senza la coda: cfr. @RR@Capo@_@, n. 19.</def>
 				</sense>
 				<sense level="2" n="27.14">
 					<def>- E coda!: invito scherzoso a fare un’abbondante aggiunta alla cifra di un prezzo, di un’età, di una distanza.</def>
 				</sense>
 				<sense level="2" n="27.15">
-					<def>- È meglio essere capo di gatto che coda di leone: v. Capo, n. 20.</def></sense>
+					<def>- È meglio essere capo di gatto che coda di leone: v. @RR@Capo@_@, n. 20.</def></sense>
 				<sense level="2" n="27.16">
 					<def>- Far coda: fare da conclusione.</def>
 					<cit>
@@ -7073,9 +7073,9 @@
 					</cit>
 				</sense>
 				<sense level="2" n="27.20">
-					<def>- Guastare la coda del fagiano, del pavone: v. Fagiano, Pavone.</def></sense>
+					<def>- Guastare la coda del fagiano, del pavone: v. @RR@Fagiano@_@, @RR@Pavone@_@.</def></sense>
 				<sense level="2" n="27.21">
-					<def>- Il diavolo ci ha messo la coda: v. Diavolo.</def></sense>
+					<def>- Il diavolo ci ha messo la coda: v. @RR@Diavolo@_@.</def></sense>
 				<sense level="2" n="27.22">
 					<def>- Il veleno sta nella coda: le difficoltà più gravi sono nella parte finale di un’impresa; le malignità peggiori sono raccolte nella chiusa di un discorso, di una battuta.</def>
 					<cit>
@@ -7112,7 +7112,7 @@
 					</cit>
 				</sense>
 				<sense level="2" n="27.24">
-					<def>- La botta che non chiese non ebbe coda: v. Botta, n. 4.</def>
+					<def>- La botta che non chiese non ebbe coda: v. @RR@Botta@_@, n. 4.</def>
 				</sense>
 				<sense level="2" n="27.25">
 					<def>- La coda e le mani: tutto quello che si possiede.</def>
@@ -7215,7 +7215,7 @@
 					</cit>
 				</sense>
 				<sense level="2" n="27.37">
-					<def>- Non aver né capo né coda: v. Capo, n. 19.</def>
+					<def>- Non aver né capo né coda: v. @RR@Capo@_@, n. 19.</def>
 				</sense>
 				<sense level="2" n="27.38">
 					<def>- Reggere la coda: porgere aiuto, soccorrere.</def>
@@ -7225,7 +7225,7 @@
 					</cit>
 				</sense>
 				<sense level="2" n="27.39">
-					<def>- Saper dove il diavolo tiene la coda: v. Diavolo.</def>
+					<def>- Saper dove il diavolo tiene la coda: v. @RR@Diavolo@_@.</def>
 				</sense>
 				<sense level="2" n="27.40">
 					<def>- Scarpe a coda di topo: lunghe, appuntite (in uso nel sec. XIV).</def>
@@ -7242,7 +7242,7 @@
 					</cit>
 				</sense>
 				<sense level="2" n="27.42">
-					<def>- Tenere l'anguilla per la coda: v. Anguilla, n. 2.</def>
+					<def>- Tenere l'anguilla per la coda: v. @RR@Anguilla@_@, n. 2.</def>
 				</sense>
 				<sense level="2" n="27.43">
 					<def>- Ungere la coda spelata: dopo un insuccesso, con calma, in segreto, provvedere a ristorarsi dei danni subiti.</def>
@@ -7793,7 +7793,7 @@
 				<form type="lemma">
 					<orth>Codeare</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Codiare.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Codiare@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Codegènte</orth>
@@ -7854,7 +7854,7 @@
 					<orth>Coderóne</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><usg type="time">ant.</usg><def>sm. Ant. Gioco infantile: coda romana (cfr. Coda, n. 27).</def>
+					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><usg type="time">ant.</usg><def>sm. Ant. Gioco infantile: coda romana (cfr. @RR@Coda@_@, n. 27).</def>
 					<cit>
 						<bibl>Statuto del Podestà della città di Firenze, 3-95:</bibl>
 						<quote> Neuno nella cittade, o nel contado, o distretto di Firenze, giuochi a giuoco di zara, o d’aliossi, o di gherminella, 0 a coderone.</quote>
@@ -7867,7 +7867,7 @@
 				<form type="lemma">
 					<orth>Codestèi</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Codestui.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Codestui@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Codésti</orth>
@@ -8567,7 +8567,7 @@
 					</cit>
 				</sense>
 				<sense level="1" n="2">
-					<gramGrp><gram type="numb">sing</gram></gramGrp><usg type="dom" subtype="DEA">dir.</usg><usg type="sem">estens.</usg><def>2. Dir. Formazione di un codice (v. Codice, n. 2); inserimento in un codice delle singole norme, di determinati principi di diritto. - Per estens.: lo stabilire per legge una norma, un principio.</def>
+					<gramGrp><gram type="numb">sing</gram></gramGrp><usg type="dom" subtype="DEA">dir.</usg><usg type="sem">estens.</usg><def>2. Dir. Formazione di un codice (v. @RR@Codice@_@, n. 2); inserimento in un codice delle singole norme, di determinati principi di diritto. - Per estens.: lo stabilire per legge una norma, un principio.</def>
 					<cit>
 						<bibl>Boccardo, 1-477:</bibl>
 						<quote> Brameremmo quindi soltanto che la Codificazione fosse disposta per guisa da potere agevolmente dare diritto di cittadinanza a tutti i successivi mutamenti e progressi che la società viene compiendo sotto gli occhi del legislatore.</quote>
@@ -8874,7 +8874,7 @@
 				<form type="lemma">
 					<orth>Codióne</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Codrione.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Codrione@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Codirósso</orth>
@@ -8939,12 +8939,12 @@
 				<form type="lemma">
 					<orth>Codìzzolo</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Codinzolo.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Codinzolo@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Códola</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Coda, n. 29.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Coda@_@, n. 29.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Codolino</orth>
@@ -9693,7 +9693,7 @@
 					<orth>Coe#sìstere</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS">verbo</gram><gram type="subc">intr.</gram></gramGrp><usg type="sem">figur.</usg><def>intr. (per la coniugazione: cfr. Esistere) Esistere insieme o contemporaneamente con altre cose (e può implicare un’idea di affinità, ma anche di contrasto o di compromesso); vivere, abitare insieme. - Anche al figur.</def>
+					<gramGrp><gram type="POS">verbo</gram><gram type="subc">intr.</gram></gramGrp><usg type="sem">figur.</usg><def>intr. (per la coniugazione: cfr. @RR@Esistere@_@) Esistere insieme o contemporaneamente con altre cose (e può implicare un’idea di affinità, ma anche di contrasto o di compromesso); vivere, abitare insieme. - Anche al figur.</def>
 					<cit>
 						<bibl>Gioia, 1-I-343:</bibl>
 						<quote> Quando due o più cose sogliono coesistere o succedersi, dall’esistenza dell’una si deduce resistenza o l’arrivo delle altre.</quote>
@@ -9764,7 +9764,7 @@
 					<orth>Coèssere</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS">verbo</gram><gram type="subc">intr.</gram></gramGrp><def>intr. (per la coniugazione: cfr. Essere) Essere insieme, avere la medesima essenza.</def>
+					<gramGrp><gram type="POS">verbo</gram><gram type="subc">intr.</gram></gramGrp><def>intr. (per la coniugazione: cfr. @RR@Essere@_@) Essere insieme, avere la medesima essenza.</def>
 					<cit>
 						<bibl source="Crusca">Salvini [Crusca]:</bibl>
 						<quote> Ma il Solo né conosce, né ha cosa che ignori. Ma uno essendo, e a se stesso coessendo, non ha d’uopo dell’intellezione di se medesimo.</quote>
@@ -9779,7 +9779,7 @@
 					<orth>Coestèndere</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS">verbo</gram><gram type="subc">tr.</gram></gramGrp><usg type="sem">figur.</usg><def>tr. (per la coniugazione: cfr. Estendere) Estendere ugualmente, per tutta la lunghezza. - Anche al figur.</def>
+					<gramGrp><gram type="POS">verbo</gram><gram type="subc">tr.</gram></gramGrp><usg type="sem">figur.</usg><def>tr. (per la coniugazione: cfr. @RR@Estendere@_@) Estendere ugualmente, per tutta la lunghezza. - Anche al figur.</def>
 					<cit>
 						<bibl>Magalotti, V-39:</bibl>
 						<quote> Sia dunque uno spirito confinato o coesteso a una mole di ghiaccio: a misura che riceverà più o meno vergine in sé l’assoluta disperata quiete delle parti di quel ghiaccio, sentirà dolore più intenso, che ricevendolo per il... veicolo degli organi corporali.</quote>
@@ -10031,7 +10031,7 @@
 					</cit>
 				</sense>
 				<sense level="1" n="3">
-					<usg type="dom">milit.</usg><def>3. Milit. Piccola cassa per le munizioni (cfr. Cofano, n. 6).</def>
+					<usg type="dom">milit.</usg><def>3. Milit. Piccola cassa per le munizioni (cfr. @RR@Cofano@_@, n. 6).</def>
 					<cit>
 						<bibl>Dizionario militare [1847], I-264:</bibl>
 						<quote> * Cofanetto d’affusto ’: l’affusto da battaglia ha due cofanetti collocati e fermati uno per parte pel guscio della sala, al lato degli aloni, e destinati uno a contenere scatole di metraglie, l’altro robe di rispetto e la miccia accesa.</quote>
@@ -10340,7 +10340,7 @@
 				<form type="lemma">
 					<orth>Còggige</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Coccige.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Coccige@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cògia</orth>
@@ -11680,7 +11680,7 @@
 				<form type="lemma">
 					<orth>Cognachiano</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Coniaciano.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Coniaciano@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cognato</orth>
@@ -12054,7 +12054,7 @@
 					<orth>Cognitòrio</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS">agg.</gram></gramGrp><usg type="dom" subtype="DEA">dir.</usg><def>agg. Dir. Che si riferisce al processo civile di cognizione (cfr. Cognizione, n. 5; e Cognitore, n. 2).</def>
+					<gramGrp><gram type="POS">agg.</gram></gramGrp><usg type="dom" subtype="DEA">dir.</usg><def>agg. Dir. Che si riferisce al processo civile di cognizione (cfr. @RR@Cognizione@_@, n. 5; e @RR@Cognitore@_@, n. 2).</def>
 				</sense>
 				<etym>= Voce dotta, lat. tardo cognitorius, deriv. da cognitus ‘cognito’.</etym>
 			</entry>
@@ -12562,7 +12562,7 @@
 				<form type="lemma">
 					<orth>Cognóscere e deriv.</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Conoscere e deriv.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Conoscere@_@ e deriv.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cogolante</orth>
@@ -12648,7 +12648,7 @@
 				<form type="lemma">
 					<orth>Cógoma</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cuccuma.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cuccuma@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cograduato</orth>
@@ -12688,7 +12688,7 @@
 				<form type="lemma">
 					<orth>Cói</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Con.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Con@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Coiàccio</orth>
@@ -12709,12 +12709,12 @@
 				<form type="lemma">
 					<orth>Coiàio</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cuoiaio.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cuoiaio@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Coiame</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cuoiame.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cuoiame@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Coiàttolo</orth>
@@ -13093,7 +13093,7 @@
 				<form type="lemma">
 					<orth>Cointézza e Coitézza</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Contezza.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Contezza@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Coinvestigare</orth>
@@ -13125,7 +13125,7 @@
 					<orth>Coinvòlgere</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS">verbo</gram><gram type="subc">tr.</gram></gramGrp><def>tr. (per la coniugazione: cfr. Volgere) Implicare, trascinare con sé in una responsabilità, in un’accusa, in un delitto.</def>
+					<gramGrp><gram type="POS">verbo</gram><gram type="subc">tr.</gram></gramGrp><def>tr. (per la coniugazione: cfr. @RR@Volgere@_@) Implicare, trascinare con sé in una responsabilità, in un’accusa, in un delitto.</def>
 					<cit>
 						<bibl>Pirandello, 5-128:</bibl>
 						<quote> L’aggressione di quei pochi in mala fede minacciava di coinvolgere tutta l’opposizione nel disgusto, nella nausea della pubblica opinione.</quote>
@@ -13285,7 +13285,7 @@
 				<form type="lemma">
 					<orth>Cól</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Con.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Con@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Còl</orth>
@@ -15506,7 +15506,7 @@
 				<form type="lemma">
 					<orth>Colèi</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Colui.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Colui@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Colelitìa#si</orth>
@@ -15592,7 +15592,7 @@
 				<form type="lemma">
 					<orth>Coleòptile</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Coleottile.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Coleottile@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Coleori#za</orth>
@@ -15947,7 +15947,7 @@
 				<form type="lemma">
 					<orth>Colezióne</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Colazione.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Colazione@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Coliàmbico</orth>
@@ -16227,7 +16227,7 @@
 				<form type="lemma">
 					<orth>Coli#sèo</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Colosseo.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Colosseo@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Colite</orth>
@@ -16265,12 +16265,12 @@
 				<form type="lemma">
 					<orth>Colizióne</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Colazione.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Colazione@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cólla</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Con.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Con@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Còlla1</orth>
@@ -17963,7 +17963,7 @@
 				<form type="lemma">
 					<orth>Cólle</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Con.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Con@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Còlle1</orth>

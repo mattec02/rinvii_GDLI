@@ -3000,7 +3000,7 @@
 				<form type="lemma">
 					<orth>Bèscio</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Besso.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Besso@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Be#sgano</orth>
@@ -4460,7 +4460,7 @@
 					</cit>
 				</sense>
 				<sense level="1" n="3">
-					<def>3. Carro o vagone bestiame: carro o vagone ferroviario adibito al solo trasporto di bestiame, o, eccezionalmente, anche di persone (cfr. Carro).</def>
+					<def>3. Carro o vagone bestiame: carro o vagone ferroviario adibito al solo trasporto di bestiame, o, eccezionalmente, anche di persone (cfr. @RR@Carro@_@).</def>
 					<cit>
 						<bibl>Calvino, 1-108:</bibl>
 						<quote> Gente che s’era fatta le ossa a dormire sul duro, per le stazioni e viaggiando sui « bestiame ».</quote>
@@ -11314,7 +11314,7 @@
 					</cit>
 				</sense>
 				<sense level="1" n="3">
-					<gramGrp><gram type="comp">locuz.</gram></gramGrp><def>3. Locuz. - Alzare il bicchiere: bevendo alla salute di qualcuno. - Toccare i bicchieri: brindare accostando i bicchieri. - Il bicchiere della staffa: l’ultimo bicchiere, prima di congedarsi (quando si beveva salendo a cavallo: v. Staffa).</def>
+					<gramGrp><gram type="comp">locuz.</gram></gramGrp><def>3. Locuz. - Alzare il bicchiere: bevendo alla salute di qualcuno. - Toccare i bicchieri: brindare accostando i bicchieri. - Il bicchiere della staffa: l’ultimo bicchiere, prima di congedarsi (quando si beveva salendo a cavallo: v. @RR@Staffa@_@).</def>
 					<cit>
 						<bibl>Giusti, III-201:</bibl>
 						<quote> Fu per me come il bicchier della staffa, che in certi paesi s’usa di porgere a chi parte, in luogo di dargli il buon viaggio.</quote>
@@ -11792,7 +11792,7 @@
 					<orth>Bicimotóre</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><def>(bici a motóre) sm. Bicicletta a cui è stato applicato un motorino (cfr. Ciclomotore).</def>
+					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><def>(bici a motóre) sm. Bicicletta a cui è stato applicato un motorino (cfr. @RR@Ciclomotore@_@).</def>
 					<cit>
 						<bibl>Panzini, IV-69:</bibl>
 						<quote> Bicimotore: bicicletta a cui è adattato il motore (per distinguere dalla motocicletta). Nome effimero.</quote>
@@ -14305,7 +14305,7 @@
 					<gramGrp><gram type="POS">agg.</gram></gramGrp><def>agg. Gemellare (gravidanza bigemina, parto bigemino).</def>
 				</sense>
 				<sense level="1" n="2">
-					<def>2. Polso, ritmo cardiaco bigemino: che alterna un battito normale con un’extrasistole (cfr. Bigeminismo).</def>
+					<def>2. Polso, ritmo cardiaco bigemino: che alterna un battito normale con un’extrasistole (cfr. @RR@Bigeminismo@_@).</def>
 				</sense>
 				<etym>= Voce dotta, comp. da bi- (lat. bis ‘due volte’) e gemino (v.), secondo il tipo di trigemino, quadrigemino, ecc.</etym>
 			</entry>

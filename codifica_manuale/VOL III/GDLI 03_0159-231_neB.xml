@@ -223,7 +223,7 @@
 				<form type="lemma">
 					<orth>Cinomòlgo</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cinamulgo.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cinamulgo@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cinomòrfe</orth>
@@ -427,7 +427,7 @@
 					<orth>Cinquannale</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS">agg.</gram></gramGrp><usg type="time">ant.</usg><def>agg. Ant. Di cinque anni (cfr. Cinquennale).</def>
+					<gramGrp><gram type="POS">agg.</gram></gramGrp><usg type="time">ant.</usg><def>agg. Ant. Di cinque anni (cfr. @RR@Cinquennale@_@).</def>
 					<cit>
 						<bibl>B. Davanzati, I-343:</bibl>
 						<quote> Nel consolato quarto di Nerone e di Cornelio Cosso ordinossi in Roma la festa cinquannale simile alla greca olimpia, e fu presa variamente, come quasi ogni cosa nuova.</quote>
@@ -940,7 +940,7 @@
 				<form type="lemma">
 					<orth>Cinquedèa</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cinquadea.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cinquadea@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cinquefòglie</orth>
@@ -1326,7 +1326,7 @@
 				<form type="lemma">
 					<orth>Cintellino</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Centellino.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Centellino@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cintìglio</orth>
@@ -1820,7 +1820,7 @@
 					</cit>
 				</sense>
 				<sense level="2" n="3.5">
-					<def>- Stringere la cintola: vivere in gravi strettezze (cfr. Cinghia, n. 5).</def>
+					<def>- Stringere la cintola: vivere in gravi strettezze (cfr. @RR@Cinghia@_@, n. 5).</def>
 					<cit>
 						<bibl>Einaudi, 1-381:</bibl>
 						<quote> Per ben due volte durante le due grandi guerre mondiali abbiamo fatto l’esperienza della necessità per tutti di stringere la cintola.</quote>
@@ -2286,7 +2286,7 @@
 					<def>7. Scherma. Striscetta di cuoio per fissare il fioretto al polso dello schermitore.</def>
 				</sense>
 				<sense level="1" n="8">
-					<usg type="dom" subtype="UM">archit.</usg><def>8. Archit. Cintura (cfr. Cintura, n. 9).</def>
+					<usg type="dom" subtype="UM">archit.</usg><def>8. Archit. Cintura (cfr. @RR@Cintura@_@, n. 9).</def>
 					<cit>
 						<bibl>Baldinucci, 7-97:</bibl>
 						<quote> I paletti fitti negli occhi delle catene,o cinturini, o cerchi, che dir vogliamo, ...sarebbero usciti di piombo.</quote>
@@ -2596,7 +2596,7 @@
 					</cit>
 				</sense>
 				<sense level="1" n="10">
-					<usg type="time">ant.</usg><usg type="dia">letter.</usg><def>10. Seguito dal verbo essere: ciò è (v. Cioè); ant. e letter. anche nelle forme plurali e nei tempi passati, a volte con uso pleonastico, con semplice valore rafforzativo: cioè, ossia, vale a dire.</def>
+					<usg type="time">ant.</usg><usg type="dia">letter.</usg><def>10. Seguito dal verbo essere: ciò è (v. @RR@Cioè@_@); ant. e letter. anche nelle forme plurali e nei tempi passati, a volte con uso pleonastico, con semplice valore rafforzativo: cioè, ossia, vale a dire.</def>
 					<cit>
 						<bibl>Latini, Rettor., 34-3:</bibl>
 						<quote> Quella ch’è in detti è quella scienza che s’adopera colla lingua solamente; et in questa si contiene tre scienze, ciò sono Gramatica, Dialettica, Rettorica.</quote>
@@ -4673,7 +4673,7 @@
 				<form type="lemma">
 					<orth>Ciovétta</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Civetta.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Civetta@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cip1</orth>
@@ -4898,7 +4898,7 @@
 					<orth>Cìpiro</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><usg type="dom" subtype="SC">bot.</usg><def>sm. Bot. Specie di giunco noto agli antichi (v. Cipero).</def>
+					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><usg type="dom" subtype="SC">bot.</usg><def>sm. Bot. Specie di giunco noto agli antichi (v. @RR@Cipero@_@).</def>
 					<cit>
 						<bibl>Landino [Plinio]: 21-18:</bibl>
 						<quote> E1 cipiro ha durissima radice e appena ha odore.</quote>
@@ -5504,7 +5504,7 @@
 					<orth>Cipressina</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><usg type="dom" subtype="SC">bot.</usg><def>sf. Bot. Specie di pioppo (simile al cipresso). V. Cipressino.</def>
+					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><usg type="dom" subtype="SC">bot.</usg><def>sf. Bot. Specie di pioppo (simile al cipresso). V. @RR@Cipressino@_@.</def>
 					<cit>
 						<bibl>Tommaseo [s. v.]:</bibl>
 						<quote> Cipressina, specie di pioppo che ha il tronco molto diritto, elevato, di media grossezza; i rami diritti, disposti quasi a verticello, e in guisa che danno alla pianta una figura piramidale, o di cipresso... È indigena dell’Italia, probabilmente lungo il Po.</quote>
@@ -5525,7 +5525,7 @@
 					<orth>Cipressino</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS">agg.</gram></gramGrp><def>agg. Che ha forma di cipresso (ed è, in particolare, attributo di una varietà di pioppo alto e frondoso: Populus nigra). Vedi Cipressina.</def>
+					<gramGrp><gram type="POS">agg.</gram></gramGrp><def>agg. Che ha forma di cipresso (ed è, in particolare, attributo di una varietà di pioppo alto e frondoso: Populus nigra). Vedi @RR@Cipressina@_@.</def>
 					<cit>
 						<bibl>Pascoli, I-314:</bibl>
 						<quote> Continuarono bensì a vivere, propagandosi l’uno dall’altro, i lunghi pioppi cipressini della sua verde pianura.</quote>
@@ -5643,7 +5643,7 @@
 					<def>- Cipresso della Virginia o gaggia: albero della famiglia Tassodiacee, alto fino a 40 m, simile al larice; cresce nei luoghi paludosi dell’America settentrionale, e viene coltivato in Italia, sia per ornamento sia per il legno leggero e forte.</def>
 				</sense>
 				<sense level="1" n="5">
-					<def>5. Pianta erbacea (l’abrotano). Cfr. Cipressini.</def>
+					<def>5. Pianta erbacea (l’abrotano). Cfr. @RR@Cipressini@_@.</def>
 					<cit>
 						<bibl>Mattioli [Dioscoride], I-131:</bibl>
 						<quote> Le fiondi peste [del cipresso] e messe tra qualsivoglia seme, non vi lascia intrare alcuna sorte di vermini che possano corrodergli, e serba il legno perpetualmente il suo buono odore. Chiamano, oltre a questo, alcuni cipresso l’abrotano femina, per somigliarsigli assai quantunque sia picciola pianta nelle fattezze sue.</quote>
@@ -5999,12 +5999,12 @@
 				<form type="lemma">
 					<orth>Ciragra</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Chiragra.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Chiragra@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Ciramèlla</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cennamella.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cennamella@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Circa</orth>
@@ -6331,7 +6331,7 @@
 				<form type="lemma">
 					<orth>Circavicino</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Circonvicino.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Circonvicino@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Circe</orth>
@@ -6450,7 +6450,7 @@
 				<form type="lemma">
 					<orth>Circinale</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Circinato.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Circinato@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Circinato</orth>
@@ -6484,7 +6484,7 @@
 					<orth>Cìrcio</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><usg type="time">ant.</usg><def>sm. Ant. Vento freddo e secco che soffia da nord-nordovest. - Anche: la direzione cardinale intermedia nord-nordovest. V. Circeo, n. 2.</def>
+					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><usg type="time">ant.</usg><def>sm. Ant. Vento freddo e secco che soffia da nord-nordovest. - Anche: la direzione cardinale intermedia nord-nordovest. V. @RR@Circeo@_@, n. 2.</def>
 					<cit>
 						<bibl>Ottimo, II-45Z:</bibl>
 						<quote> Tramontana dalla destra ha Circio, dalla sinistra Aquilone.</quote>
@@ -6653,7 +6653,7 @@
 					</cit>
 				</sense>
 				<sense level="2" n="2.2">
-					<def>- Biblioteca circolante: dalla quale si possono prendere libri in prestito mediante il pagamento di una modesta quota d’abbonamento (v. Biblioteca).</def>
+					<def>- Biblioteca circolante: dalla quale si possono prendere libri in prestito mediante il pagamento di una modesta quota d’abbonamento (v. @RR@Biblioteca@_@).</def>
 					<cit>
 						<bibl>Fil. Ugolini, 84:</bibl>
 						<quote> Si usa spesso dire Biblioteca circolante per * libri che si dànno a leggere con pagamento ’...; e sono tutti modi da fuggirsi.</quote>
@@ -6994,7 +6994,7 @@
 					</cit>
 				</sense>
 				<sense level="1" n="9">
-					<usg type="dom" subtype="DEA">banc.</usg><def>9. Banc. Assegno circolare, v. Assegno, n. 2.</def></sense>
+					<usg type="dom" subtype="DEA">banc.</usg><def>9. Banc. Assegno circolare, v. @RR@Assegno@_@, n. 2.</def></sense>
 				<sense level="1" n="10">
 					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><def>10. Sf. Linea di un servizio di trasporto pubblico, il cui percorso si svolge circolarmente intorno alla città intera o al solo centro cittadino.</def>
 					<cit>
@@ -7889,18 +7889,18 @@
 				<form type="lemma">
 					<orth>Circompadano</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Circumpadano.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Circumpadano@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Circompolare</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Circumpolare.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Circumpolare@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Circompórre</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS">verbo</gram><gram type="subc">tr.</gram></gramGrp><usg type="time">ant.</usg><def>tr. (per la coniugazione: cfr. Porre) Ant. Porre intorno.</def>
+					<gramGrp><gram type="POS">verbo</gram><gram type="subc">tr.</gram></gramGrp><usg type="time">ant.</usg><def>tr. (per la coniugazione: cfr. @RR@Porre@_@) Ant. Porre intorno.</def>
 					<cit>
 						<bibl>Galileo, 4-1-m:</bibl>
 						<quote> Si moltiplicheranno le girelle della taglia di sotto... circomponendo alle taglie la corda, sicché l’uno dei capi si fermi alla taglia superiore, e nell’altro sia la forza.</quote>
@@ -7913,7 +7913,7 @@
 					<orth>Circomprèndere</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS">verbo</gram><gram type="subc">tr.</gram></gramGrp><usg type="dia">letter.</usg><usg type="sem">figur.</usg><def>tr. (per la coniugazione: cfr. Prendere) Letter. Abbracciare, circondare, cingere. - Anche al figur.</def>
+					<gramGrp><gram type="POS">verbo</gram><gram type="subc">tr.</gram></gramGrp><usg type="dia">letter.</usg><usg type="sem">figur.</usg><def>tr. (per la coniugazione: cfr. @RR@Prendere@_@) Letter. Abbracciare, circondare, cingere. - Anche al figur.</def>
 					<cit>
 						<bibl>D'Annunzio, IV-2-581:</bibl>
 						<quote> I meandri del fiume formano circomprendono e nutrono le isole nella valle.</quote>
@@ -7965,7 +7965,7 @@
 					<orth>Circonchiùdere</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS">verbo</gram><gram type="subc">tr.</gram><gram>coniug.</gram></gramGrp><usg type="dia">letter.</usg><def>tr. (per la coniug.: cfr. Chiudere) Letter. Chiudere intorno, circondare.</def>
+					<gramGrp><gram type="POS">verbo</gram><gram type="subc">tr.</gram><gram>coniug.</gram></gramGrp><usg type="dia">letter.</usg><def>tr. (per la coniug.: cfr. @RR@Chiudere@_@) Letter. Chiudere intorno, circondare.</def>
 				</sense>
 				<etym>= Voce dotta, comp. dal pref. lat. circum- ‘intorno’ e chiudere (v.).</etym>
 			</entry>
@@ -8040,7 +8040,7 @@
 					<orth>Circoncìngere</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS">verbo</gram><gram type="subc">tr.</gram></gramGrp><usg type="time">ant.</usg><usg type="dia">letter.</usg><def>(ant. circumcìngere) tr. (per la coniugazione: cfr. Cingere) Ant. e letter. Cingere tutt’intorno, circondare.</def>
+					<gramGrp><gram type="POS">verbo</gram><gram type="subc">tr.</gram></gramGrp><usg type="time">ant.</usg><usg type="dia">letter.</usg><def>(ant. circumcìngere) tr. (per la coniugazione: cfr. @RR@Cingere@_@) Ant. e letter. Cingere tutt’intorno, circondare.</def>
 					<cit>
 						<bibl>Dante, Par., 28-28:</bibl>
 						<quote> E questo era d’un altro circumcinto, / e quel dal terzo, e ’l terzo poi dal quarto.</quote>
@@ -8835,7 +8835,7 @@
 					<orth>Circondurre</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS">verbo</gram><gram type="subc">tr.</gram></gramGrp><usg type="time">ant.</usg><def>tr. (per la coniugazione: cfr. Condurre) Ant. Condurre intorno; far passare o scorrere un filo, una corda, un nastro intorno a qualcosa.</def>
+					<gramGrp><gram type="POS">verbo</gram><gram type="subc">tr.</gram></gramGrp><usg type="time">ant.</usg><def>tr. (per la coniugazione: cfr. @RR@Condurre@_@) Ant. Condurre intorno; far passare o scorrere un filo, una corda, un nastro intorno a qualcosa.</def>
 					<cit>
 						<bibl>Galileo, 4-1-109:</bibl>
 						<quote> Intendasi il peso X pendente dalle due girelle AB, DE, circonducendo intorno ad esse, e alla superior girella GH, la corda.</quote>
@@ -9161,7 +9161,7 @@
 					<orth>Circonflèttere</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS">verbo</gram><gram type="subc">tr.</gram></gramGrp><def>tr. (per la coniugazione: cfr. Flettere) Piegare in giro, flettere a cerchio.</def>
+					<gramGrp><gram type="POS">verbo</gram><gram type="subc">tr.</gram></gramGrp><def>tr. (per la coniugazione: cfr. @RR@Flettere@_@) Piegare in giro, flettere a cerchio.</def>
 				</sense>
 				<sense level="1" n="2">
 					<def>2. Segnare mediante l’accento circonflesso.</def>
@@ -9190,7 +9190,7 @@
 					<orth>Circonfóndere</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS">verbo</gram><gram type="subc">tr.</gram></gramGrp><usg type="dia">letter.</usg><def>tr. (per la coniugazione: cfr. Fondere) Letter. Spargere, avvolgere tutt’intorno, circondare (riferito all’aria, all’acqua e soprattutto alla luce).</def>
+					<gramGrp><gram type="POS">verbo</gram><gram type="subc">tr.</gram></gramGrp><usg type="dia">letter.</usg><def>tr. (per la coniugazione: cfr. @RR@Fondere@_@) Letter. Spargere, avvolgere tutt’intorno, circondare (riferito all’aria, all’acqua e soprattutto alla luce).</def>
 					<cit>
 						<bibl>Cavalca, IV-44:</bibl>
 						<quote> Avvenne che si approssimò a Damasco, e subitamente lo circonfuse tutto intorno una luce dal cielo, ...e udì una voce che disse: Saulo, Saulo, perché mi perseguiti?</quote>
@@ -9233,7 +9233,7 @@
 					<orth>Circonfùlgere</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS">verbo</gram><gram type="subc">tr.</gram></gramGrp><usg type="time">ant.</usg><usg type="dia">letter.</usg><def>tr. (per la coniugazione: cfr. Fulgere) Ant. e letter. Risplendere, illuminare tutt’intorno (la luce).</def>
+					<gramGrp><gram type="POS">verbo</gram><gram type="subc">tr.</gram></gramGrp><usg type="time">ant.</usg><usg type="dia">letter.</usg><def>tr. (per la coniugazione: cfr. @RR@Fulgere@_@) Ant. e letter. Risplendere, illuminare tutt’intorno (la luce).</def>
 					<cit>
 						<bibl>Dante, Par., 30-49:</bibl>
 						<quote> Come subito lampo che discetti / li spiriti visivi, sì che priva / dell’atto l’occhio di più forti obietti, così mi circonfulse luce viva, / e lasciommi fasciato di tal velo / del suo fulgor, che nulla m’appariva.</quote>
@@ -9368,12 +9368,12 @@
 				<form type="lemma">
 					<orth>Circonnavigazióne</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Circumnavigazione.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Circumnavigazione@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Circonscrìvere</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Circoscrivere.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Circoscrivere@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Circonsoffiante</orth>
@@ -9391,12 +9391,12 @@
 				<form type="lemma">
 					<orth>Circonspètto</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Circospetto.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Circospetto@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Circonspezióne</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Circospezione.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Circospezione@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Circonterminare</orth>
@@ -9492,7 +9492,7 @@
 					<orth>Circonvenire</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS">verbo</gram><gram type="subc">tr.</gram></gramGrp><usg type="time">ant.</usg><def>(ant. circumvenire) tr. (per la coniugazione: cfr. Venire) Darsi da fare intorno a qualcuno con raggiri e artifici per trarlo in inganno o per ottenerne qualcosa; circuire, raggirare, ingannare. - Anche: impedire, ostacolare, intralciare.</def>
+					<gramGrp><gram type="POS">verbo</gram><gram type="subc">tr.</gram></gramGrp><usg type="time">ant.</usg><def>(ant. circumvenire) tr. (per la coniugazione: cfr. @RR@Venire@_@) Darsi da fare intorno a qualcuno con raggiri e artifici per trarlo in inganno o per ottenerne qualcosa; circuire, raggirare, ingannare. - Anche: impedire, ostacolare, intralciare.</def>
 					<cit>
 						<bibl>Bibbia volgar., V-628:</bibl>
 						<quote> A questo modo lei parlando circonvenne il giovane, e con piacevoli e soavi parole trasselo al voler suo.</quote>
@@ -9822,7 +9822,7 @@
 					<orth>Circoscrìvere</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS">verbo</gram><gram type="subc">tr.</gram></gramGrp><def>(circonscrìvere, circumscrìvere) tr. (per la coniugazione: cfr. Scrivere) Tracciare una linea tutto intorno, disegnare il contorno, segnare il limite di una cosa. - Circoscrivere una circonferenza o una conica a un poligono: tracciare una circonferenza o una conica che passa per tutti i vertici del poligono dato. - Circoscrivere un poligono a una circonferenza o a una conica: costruire un poligono i cui lati siano tutti tangenti alla circonferenza o alla conica data.</def>
+					<gramGrp><gram type="POS">verbo</gram><gram type="subc">tr.</gram></gramGrp><def>(circonscrìvere, circumscrìvere) tr. (per la coniugazione: cfr. @RR@Scrivere@_@) Tracciare una linea tutto intorno, disegnare il contorno, segnare il limite di una cosa. - Circoscrivere una circonferenza o una conica a un poligono: tracciare una circonferenza o una conica che passa per tutti i vertici del poligono dato. - Circoscrivere un poligono a una circonferenza o a una conica: costruire un poligono i cui lati siano tutti tangenti alla circonferenza o alla conica data.</def>
 					<cit>
 						<bibl>Marino, VII-92:</bibl>
 						<quote> Gli Egizzii furono i primi che con linee il corpo umano circoscrivessero.</quote>
@@ -10503,7 +10503,7 @@
 					<orth>Circostrìngere</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS">verbo</gram><gram type="subc">tr.</gram></gramGrp><usg type="time">ant.</usg><def>tr. (per la coniugazione: cfr. Stringere) Ant. Stringere intorno.</def>
+					<gramGrp><gram type="POS">verbo</gram><gram type="subc">tr.</gram></gramGrp><usg type="time">ant.</usg><def>tr. (per la coniugazione: cfr. @RR@Stringere@_@) Ant. Stringere intorno.</def>
 					<cit>
 						<bibl>Iacopone, 92-80:</bibl>
 						<quote> Li cieli son stainati, / lo lor silere me face gridare: / o profondato mare, altura del tuo abisso / m’ha cercostritto a volerme annegare!</quote>
@@ -10894,7 +10894,7 @@
 					<def>- Circuito ohmico, induttivo, capacitivo: a seconda che, supponendo di chiuderlo su una forza elettromotrice alternata sinusoidale di determinata frequenza, la corrente assorbita è rispettivamente in fase, in ritardo, in anticipo rispetto alla forza elettromotrice.</def>
 				</sense>
 				<sense level="2" n="10.7">
-					<def>- Corto circuito: v. Cortocircuito.</def>
+					<def>- Corto circuito: v. @RR@Cortocircuito@_@.</def>
 				</sense>
 				<sense level="2" n="10.8">
 					<def>- Circuiti accoppiati: quando l’intensità di corrente che li percorre, oltre che dipendere dalla forza elettromotrice inserita su ciascun circuito, dipende anche dall’intensità di corrente, quindi dalla forza elettromotrice inserita sull’altro circuito.</def>
@@ -11090,7 +11090,7 @@
 				<form type="lemma">
 					<orth>Cìrculo e deriv.</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Circolo e deriv.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Circolo@_@ e deriv.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Circumambulazióne</orth>
@@ -11104,7 +11104,7 @@
 				<form type="lemma">
 					<orth>Circumcìngere</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Circoncingere.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Circoncingere@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Circumcirca</orth>
@@ -11255,7 +11255,7 @@
 				<form type="lemma">
 					<orth>Circumpulsióne</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Circompulsione.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Circompulsione@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Circumrapato</orth>
@@ -11299,7 +11299,7 @@
 				<form type="lemma">
 					<orth>Circumvenire</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Circonvenire.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Circonvenire@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Circumvolante</orth>
@@ -11326,12 +11326,12 @@
 				<form type="lemma">
 					<orth>Circuncìdere</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Circoncidere.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Circoncidere@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Circunvicino</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Circonvicino.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Circonvicino@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cirenàico</orth>
@@ -11429,12 +11429,12 @@
 				<form type="lemma">
 					<orth>Ciridònia</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cirindone.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cirindone@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Ciriègio e deriv.</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Ciliegio e deriv.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Ciliegio@_@ e deriv.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cirìllico</orth>
@@ -11464,7 +11464,7 @@
 				<form type="lemma">
 					<orth>Cirimònia e deriv.</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cerimonia e deriv.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cerimonia@_@ e deriv.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cirindèllo</orth>
@@ -11916,12 +11916,12 @@
 				<form type="lemma">
 					<orth>Cirugìa e Ciru#sìa</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Chirurgia.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Chirurgia@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cirùgico e Cirù#sico</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cerusico.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cerusico@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cisale</orth>
@@ -12078,7 +12078,7 @@
 				<form type="lemma">
 					<orth>Ci#sèllo</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cesello.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cesello@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Ci#siàrio</orth>
@@ -12163,7 +12163,7 @@
 				<form type="lemma">
 					<orth>Ci#sóia</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cesoia.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cesoia@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Ci#solfaut</orth>
@@ -12394,7 +12394,7 @@
 				<form type="lemma">
 					<orth>Cispùglio</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cespuglio.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cespuglio@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cissàmpelo</orth>
@@ -12536,7 +12536,7 @@
 				<form type="lemma">
 					<orth>Cista3</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cisti.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cisti@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cista4</orth>
@@ -12589,12 +12589,12 @@
 				<form type="lemma">
 					<orth>Cìstaro</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cisto.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cisto@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Ciste</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cisti.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cisti@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cistectomìa</orth>
@@ -12617,7 +12617,7 @@
 				<form type="lemma">
 					<orth>Cistèlla</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cestella.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cestella@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cisterciènse</orth>
@@ -12829,7 +12829,7 @@
 					</cit>
 				</sense>
 				<sense level="1" n="3">
-					<usg type="dom" subtype="SC">zool.</usg><def>3. Zool. Forma cistica: v. Cisti, n. 2.</def>
+					<usg type="dom" subtype="SC">zool.</usg><def>3. Zool. Forma cistica: v. @RR@Cisti@_@, n. 2.</def>
 				</sense>
 				<sense level="1" n="4">
 					<def>4. Tenia.</def>
@@ -12861,7 +12861,7 @@
 				<form type="lemma">
 					<orth>Cìstide</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cisti.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cisti@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cistifèllea</orth>
@@ -12916,7 +12916,7 @@
 				<form type="lemma">
 					<orth>Cìstio</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cisto.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cisto@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cistite</orth>
@@ -12934,7 +12934,7 @@
 				<form type="lemma">
 					<orth>Cistitomìa</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cistotomia.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cistotomia@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cisto</orth>
@@ -13370,7 +13370,7 @@
 				<form type="lemma">
 					<orth>Citaredìa</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Citarodia.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Citarodia@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Citarèdico</orth>
@@ -13528,7 +13528,7 @@
 				<form type="lemma">
 					<orth>Citari#zzare e deriv.</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Citareggiare e deriv.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Citareggiare@_@ e deriv.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Citari#zzatóre</orth>
@@ -13750,7 +13750,7 @@
 				<form type="lemma">
 					<orth>Citèllo1</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Citto1, n. 2.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Citto1@_@, n. 2.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Citèllo2</orth>
@@ -13764,7 +13764,7 @@
 				<form type="lemma">
 					<orth>Cìtera1</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cìtara.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cìtara@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cìtera2</orth>
@@ -13865,12 +13865,12 @@
 				<form type="lemma">
 					<orth>Citeri#zzatóre</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Citarizzatore.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Citarizzatore@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Citèrna</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cisterna.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cisterna@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cìtino1</orth>
@@ -14069,7 +14069,7 @@
 				<form type="lemma">
 					<orth>Citolézza</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cittolezza.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cittolezza@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Citoli#si</orth>
@@ -14100,7 +14100,7 @@
 				<form type="lemma">
 					<orth>Cìtolo</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cittolo.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cittolo@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Citologìa</orth>
@@ -14232,7 +14232,7 @@
 				<form type="lemma">
 					<orth>Citracca</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cetracca.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cetracca@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Citracònico</orth>
@@ -14432,7 +14432,7 @@
 				<form type="lemma">
 					<orth>Citriòlo</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cetriolo.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cetriolo@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Citrografìa</orth>
@@ -14678,7 +14678,7 @@
 					</cit>
 				</sense>
 				<sense level="2" n="1.10">
-					<def>- Città capitale: città in cui hanno sede gli organi centrali dello Stato (governo, ecc.): v. Capitale2.</def>
+					<def>- Città capitale: città in cui hanno sede gli organi centrali dello Stato (governo, ecc.): v. @RR@Capitale2@_@.</def>
 					<cit>
 						<bibl>Botta, 6-I-163:</bibl>
 						<quote> Dei distretti e borghi della contea di Suffolk, di cui Boston è la città capitale.</quote>
@@ -14687,7 +14687,7 @@
 					</cit>
 				</sense>
 				<sense level="2" n="1.11">
-					<def>- Palazzo di città: nei comuni più cospicui edificio in cui hanno sede gli uffici comunali; municipio: v. Palazzo.</def>
+					<def>- Palazzo di città: nei comuni più cospicui edificio in cui hanno sede gli uffici comunali; municipio: v. @RR@Palazzo@_@.</def>
 				</sense>
 				<sense level="2" n="1.12">
 					<def>- Città eterna: Roma. - Città dominante: Venezia.</def>
@@ -15870,7 +15870,7 @@
 				<form type="lemma">
 					<orth>Ciuccétto</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Ciuccio1.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Ciuccio1@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Ciùccia</orth>
@@ -16156,7 +16156,7 @@
 				<form type="lemma">
 					<orth>Ciufèga</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Ciuffeca.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Ciuffeca@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Ciuffa1</orth>
@@ -17000,7 +17000,7 @@
 				<form type="lemma">
 					<orth>Ciurmadóre</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Ciurmatore.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Ciurmatore@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Ciurmàglia</orth>
@@ -17454,7 +17454,7 @@
 				<form type="lemma">
 					<orth>Civanza</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Civanzo.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Civanzo@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Civanzaménto</orth>
@@ -17897,7 +17897,7 @@
 					</cit>
 				</sense>
 				<sense level="2" n="14.1">
-					<gramGrp><gram type="der">dimin.</gram></gramGrp><entry type="relatedEntry"><form type="sub_lemma" subtype="2">Civettina,civettuòla</form></entry><entry type="relatedEntry"><form type="sub_lemma" subtype="1">civettùccia,civettuzza</form></entry><def>- Dimin. Civettina, v.: Civettino, civettùccia, civettuòla (v.) civettuzza.</def>
+					<gramGrp><gram type="der">dimin.</gram></gramGrp><entry type="relatedEntry"><form type="sub_lemma" subtype="2">Civettina,civettuòla</form></entry><entry type="relatedEntry"><form type="sub_lemma" subtype="1">civettùccia,civettuzza</form></entry><def>- Dimin. Civettina, v.: @RR@Civettino@_@, civettùccia, civettuòla (v.) civettuzza.</def>
 					<cit>
 						<bibl>Buonarroti il Giovane, 9-210:</bibl>
 						<quote> Ma ve’ ve’ guarda quelle civettuzze, / ve’ quelle scioccherelle.</quote>
@@ -18379,7 +18379,7 @@
 					</cit>
 				</sense>
 				<sense level="2" n="3.1">
-					<def>- Corona civica: v. Corona.</def>
+					<def>- Corona civica: v. @RR@Corona@_@.</def>
 				</sense>
 				<sense level="2" n="3.2">
 					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><def>- Guardia civica (anche, semplicemente, civica, sf.): istituzione militare del Risorgimento, con funzioni essenzialmente locali, soprattutto per l’ordine pubblico (ma collaborò a volte anche a operazioni belliche); oggi equivale a guardia municipale.</def>
@@ -19564,7 +19564,7 @@
 				<form type="lemma">
 					<orth>Cìvita</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Città.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Città@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Civitèlla</orth>
@@ -19751,7 +19751,7 @@
 				<form type="lemma">
 					<orth>Clàina</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Clena.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Clena@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Clamante</orth>
@@ -20312,7 +20312,7 @@
 					</cit>
 				</sense>
 				<sense level="2" n="1.1">
-					<def>- Matrimonio clandestino: contratto senza l’osservanza delle forme prescritte per la celebrazione (v. Clandestinità, n. 2); fu considerato illecito ma valido fino al concilio di Trento, quando ne fu decretata la nullità.</def>
+					<def>- Matrimonio clandestino: contratto senza l’osservanza delle forme prescritte per la celebrazione (v. @RR@Clandestinità@_@, n. 2); fu considerato illecito ma valido fino al concilio di Trento, quando ne fu decretata la nullità.</def>
 					<cit>
 						<bibl>B. Davanzati, II-385:</bibl>
 						<quote> Confessò d’avere innanzi alle nozze del Re contratto altro matrimonio clandestino.</quote>
@@ -21778,7 +21778,7 @@
 					</cit>
 				</sense>
 				<sense level="2" n="1.1">
-					<def>- Classificazione catastale: nel catasto terreni, operazione consistente nel suddividere ogni qualità (seminativo, prato, pascolo, orto, frutteto, ecc.) in tante classi quanti sono i gradi notevolmente diversi della rispettiva produttività; nel catasto edilizio urbano, operazione consistente nel suddividere ogni categoria di unità immobiliari in tante classi quanti sono i gradi diversi delle rispettive capacità di reddito (v. Classe, n. 5).</def>
+					<def>- Classificazione catastale: nel catasto terreni, operazione consistente nel suddividere ogni qualità (seminativo, prato, pascolo, orto, frutteto, ecc.) in tante classi quanti sono i gradi notevolmente diversi della rispettiva produttività; nel catasto edilizio urbano, operazione consistente nel suddividere ogni categoria di unità immobiliari in tante classi quanti sono i gradi diversi delle rispettive capacità di reddito (v. @RR@Classe@_@, n. 5).</def>
 				</sense>
 				<sense level="2" n="1.2">
 					<def>- Classificazione bibliografica: divisione (in classi e sottoclassi) dei libri di una biblioteca, di un catalogo, ecc., operata secondo gli schemi dei cosiddetti sistemi di classificazione bibliografica, che distinguono i libri empiricamente, per materie, costituendo raggruppamenti sempre più specifici, a ciascuno dei quali corrisponde un simbolo (numero, lettera dell’alfabeto, sigla, ecc.) che consente di ritrovare prontamente ogni volume dopo la consultazione del catalogo (dove è indicato per ciascun volume il simbolo esprimente la sua collocazione).</def>
@@ -21795,7 +21795,7 @@
 					</cit>
 				</sense>
 				<sense level="2" n="1.4">
-					<usg type="dom" subtype="SC">aeron.</usg><usg type="dom">marin.</usg><def>- Aeron. e marin. Complesso di accertamenti e controlli rivolti a determinare la classe di un aeromobile e di una nave (v. Classe, n. 14).</def>
+					<usg type="dom" subtype="SC">aeron.</usg><usg type="dom">marin.</usg><def>- Aeron. e marin. Complesso di accertamenti e controlli rivolti a determinare la classe di un aeromobile e di una nave (v. @RR@Classe@_@, n. 14).</def>
 				</sense>
 				<sense level="1" n="2">
 					<usg type="fre">raro.</usg><def>2. Raro. Voto assegnato a uno studente o a un candidato, per esprimere il giudizio sulla sua preparazione.</def>
@@ -21870,7 +21870,7 @@
 					<orth>Clatrato</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS">agg.</gram></gramGrp><usg type="dom" subtype="SC">bot.</usg><def>agg. Bot. Tubo clatrato: tubo cribroso (v. Cribroso).</def>
+					<gramGrp><gram type="POS">agg.</gram></gramGrp><usg type="dom" subtype="SC">bot.</usg><def>agg. Bot. Tubo clatrato: tubo cribroso (v. @RR@Cribroso@_@).</def>
 				</sense>
 				<etym>= Voce dotta, deriv. dal lat. clathratus, part. pass. di clathrare ‘chiudere con inferriata’ (cfr. gr. dorico κλᾷθρα, attico κλεῖθρον ‘chiusura, cancello’).</etym>
 			</entry>
@@ -22109,7 +22109,7 @@
 					</cit>
 				</sense>
 				<sense level="2" n="5.1">
-					<def>- Clausola comminatoria: v. Comminatorio. - Clausola compromissoria: v. Compromissorio. - Clausola della nazione più favorita: v. Nazione. - Clausola derogatoria: v. Derogatorio. - Clausola di esonero: v. Esonero. - Clausola di negligenza: v. Negligenza. - Clausola irritante: v. Irritante. - Clausola oro: v. Oro. Clausola penale: v. Penale. - Clausola provvisionale: v. Provvisionale. - Clausola risolutiva: v. Risolutivo.</def>
+					<def>- Clausola comminatoria: v. @RR@Comminatorio@_@. - Clausola compromissoria: v. @RR@Compromissorio@_@. - Clausola della nazione più favorita: v. @RR@Nazione@_@. - Clausola derogatoria: v. @RR@Derogatorio@_@. - Clausola di esonero: v. @RR@Esonero@_@. - Clausola di negligenza: v. @RR@Negligenza@_@. - Clausola irritante: v. @RR@Irritante@_@. - Clausola oro: v. @RR@Oro@_@. Clausola penale: v. @RR@Penale@_@. - Clausola provvisionale: v. @RR@Provvisionale@_@. - Clausola risolutiva: v. @RR@Risolutivo@_@.</def>
 				</sense>
 				<sense level="1" n="6">
 					<usg type="sem">simil.</usg><def>6. Per simil. Riserva, condizione (anche espressa verbalmente).</def>
@@ -22582,7 +22582,7 @@
 				<form type="lemma">
 					<orth>Clavadura</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Chiavatura.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Chiavatura@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Clavagèllidi</orth>
@@ -22618,7 +22618,7 @@
 				<form type="lemma">
 					<orth>Clave</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Chiave.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Chiave@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Clavicembalista</orth>
@@ -23394,12 +23394,12 @@
 				<form type="lemma">
 					<orth>Clericato</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Chiericato.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Chiericato@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Clèrico</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Chierico.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Chierico@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Clericume</orth>
@@ -24102,7 +24102,7 @@
 				<form type="lemma">
 					<orth>Climo</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Clima2.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Clima2@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Clìnica</orth>
@@ -24930,7 +24930,7 @@
 				<form type="lemma">
 					<orth>Cloracètico e deriv.</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cloroacetico e deriv.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cloroacetico@_@ e deriv.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cloràggio</orth>
@@ -24983,12 +24983,12 @@
 				<form type="lemma">
 					<orth>Clorammina</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cloroammina.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cloroammina@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cloranfenicòlo</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cloroamfenicolo.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cloroamfenicolo@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cloranile</orth>
@@ -25011,7 +25011,7 @@
 				<form type="lemma">
 					<orth>Clorarsine</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cloroarsine.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cloroarsine@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Clorato</orth>
@@ -25073,7 +25073,7 @@
 				<form type="lemma">
 					<orth>Cloretilammina</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cloroetilammina.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cloroetilammina@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Clòrico</orth>

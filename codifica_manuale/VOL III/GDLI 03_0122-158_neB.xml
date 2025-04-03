@@ -1651,7 +1651,7 @@
 				<form type="lemma">
 					<orth>Ciclòpio</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Ciclopeo.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Ciclopeo@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Ciclopi#smo</orth>
@@ -1961,7 +1961,7 @@
 					<usg type="dom" subtype="UM">archit.</usg><def>6. Archit. Lama o staffa di ferro in piccole dimensioni, che serve a sostenere la gronda dei tetti (e viene sagomata secondo la forma di tale gronda e abbellita con motivi ornamentali).</def>
 				</sense>
 				<sense level="1" n="7">
-					<usg type="time">ant.</usg><def>7. Ant. Macchina per attingere acqua dai pozzi, che consisteva in un asse posto in bilico, in modo che le estremità di esso si potevano alternamente abbassare e alzare (cfr. Cicognola, n. 2).</def>
+					<usg type="time">ant.</usg><def>7. Ant. Macchina per attingere acqua dai pozzi, che consisteva in un asse posto in bilico, in modo che le estremità di esso si potevano alternamente abbassare e alzare (cfr. @RR@Cicognola@_@, n. 2).</def>
 					<cit>
 						<bibl>Garzoni, 1-762:</bibl>
 						<quote> [La meccanica comprende] il cavare acqua da pozzi con le gru, overo cicogne, dette da latini ‘ toffenoni ’, che sono come grandissime bilancie.</quote>
@@ -2017,7 +2017,7 @@
 					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><usg type="time">ant.</usg><def>sf. Ant. Pezzo di ferro piegato a cicogna.</def>
 				</sense>
 				<sense level="1" n="2">
-					<def>2. Tromba, sifone per condurre acque (cfr. Cicogna, n. 7).</def>
+					<def>2. Tromba, sifone per condurre acque (cfr. @RR@Cicogna@_@, n. 7).</def>
 					<cit>
 						<bibl>Leonardo, 4-1-100:</bibl>
 						<quote> Come le canne delle cicognole di medesima larghezza di bocca e altezza della superficie dell’acqua al luogo, dove debbe discendere, son tutte d’una medesima natura e potenza.</quote>
@@ -2051,7 +2051,7 @@
 				<form type="lemma">
 					<orth>Cicoràceo</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cicoriaceo.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cicoriaceo@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cicòria</orth>
@@ -2411,7 +2411,7 @@
 				<form type="lemma">
 					<orth>Cièca1</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Ceca.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Ceca@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cièca2</orth>
@@ -2429,27 +2429,27 @@
 				<form type="lemma">
 					<orth>Ciecale</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cecale.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cecale@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Ciecaménte</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cecamente.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cecamente@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Ciecare</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cecare.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cecare@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Ciécero</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cecero.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cecero@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Ciechità</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cechità.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cechità@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cièco</orth>
@@ -3255,12 +3255,12 @@
 				<form type="lemma">
 					<orth>Ciecolina</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Ceca1.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Ceca1@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cièlico</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Celico.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Celico@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Ciellenista</orth>
@@ -3829,7 +3829,7 @@
 					</cit>
 				</sense>
 				<sense level="2" n="16.8">
-					<def>- Casa del cielo: v. Casa, n. 12.</def>
+					<def>- Casa del cielo: v. @RR@Casa@_@, n. 12.</def>
 				</sense>
 				<sense level="2" n="16.9">
 					<def>- Cessi, tolga il cielo: per auspicare o deprecare il verificarsi di un avvenimento.</def>
@@ -4174,12 +4174,12 @@
 				<form type="lemma">
 					<orth>Cifalóne</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cefaglione.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cefaglione@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cìfera</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cifra.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cifra@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Ciferista</orth>
@@ -4686,12 +4686,12 @@
 				<form type="lemma">
 					<orth>Cigliare2</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Ciliare.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Ciliare@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cigliati</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Ciliati.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Ciliati@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cigliato1</orth>
@@ -4869,7 +4869,7 @@
 					</cit>
 				</sense>
 				<sense level="2" n="1.5">
-					<def>- Aggrottare le ciglia: v. Aggrottare.</def>
+					<def>- Aggrottare le ciglia: v. @RR@Aggrottare@_@.</def>
 				</sense>
 				<sense level="2" n="1.6">
 					<def>- Inarcare, sospendere il ciglio: in segno di stupore, di meraviglia, di terrore.</def>
@@ -5232,12 +5232,12 @@
 				<form type="lemma">
 					<orth>Cigna e deriv.</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cinghia e deriv.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cinghia@_@ e deriv.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cignale</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cinghiale.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cinghiale@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cignare</orth>
@@ -5256,7 +5256,7 @@
 				<form type="lemma">
 					<orth>Cìgnere e deriv.</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cingere e deriv.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cingere@_@ e deriv.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cìgnico</orth>
@@ -6588,7 +6588,7 @@
 				<form type="lemma">
 					<orth>Cilìzio</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cilicio.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cilicio@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cima</orth>
@@ -7138,7 +7138,7 @@
 				<form type="lemma">
 					<orth>Cimaiòlo1</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cimarolo.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cimarolo@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cimaiòlo2</orth>
@@ -7542,7 +7542,7 @@
 					<orth>Cimàzio</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><def>sm. Arch. Ovolo (Cfr. Cimasa).</def>
+					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><def>sm. Arch. Ovolo (Cfr. @RR@Cimasa@_@).</def>
 					<cit>
 						<bibl>Palladio, 4-6:</bibl>
 						<quote> Il Cimacio dell’architrave è degno di avertimento per esser diverso dagli altri e fatto molto graziosamente.</quote>
@@ -7773,7 +7773,7 @@
 					<orth>Cìmberli</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sm.</gram><gram type="numb">plur.</gram></gramGrp><def>sm. plur. Nell’espressione in cimberli: v. Cimbalo.</def>
+					<gramGrp><gram type="POS" subtype="gen">sm.</gram><gram type="numb">plur.</gram></gramGrp><def>sm. plur. Nell’espressione in cimberli: v. @RR@Cimbalo@_@.</def>
 				</sense>
 			</entry>
 			<entry>
@@ -7804,7 +7804,7 @@
 				<form type="lemma">
 					<orth>Cimbòtto e deriv.</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cimbottolo e deriv.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cimbottolo@_@ e deriv.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cimbottolare e cimbottare</orth>
@@ -7875,13 +7875,13 @@
 				<form type="lemma">
 					<orth>Cimbra</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cembra.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cembra@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cimbràccola</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><usg type="geo">dial.</usg><def>sf. Dial. Donna sciatta, sudicia, volgare (cfr. Cirimbraccola).</def>
+					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><usg type="geo">dial.</usg><def>sf. Dial. Donna sciatta, sudicia, volgare (cfr. @RR@Cirimbraccola@_@).</def>
 				</sense>
 				<etym>= Cfr. pis. e lucch. cimbràccolo, cirimbràccolo ‘cencio, straccio’. Cfr. Tommaseo [s. v.]: «Cimbraccole, panni piccoli di poco valore».</etym>
 			</entry>
@@ -8864,7 +8864,7 @@
 					<orth>Cimitèro</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><usg type="time">ant.</usg><usg type="dia">letter.</usg><def>(ant. e letter. cimitèrio) sm. Luogo consacrato, cintato da muri o compreso nei sagrati delle chiese (nei primitivi tempi cristiani, nelle catacombe), ove si dà sepoltura ai morti; camposanto (cfr. Cemeterio).</def>
+					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><usg type="time">ant.</usg><usg type="dia">letter.</usg><def>(ant. e letter. cimitèrio) sm. Luogo consacrato, cintato da muri o compreso nei sagrati delle chiese (nei primitivi tempi cristiani, nelle catacombe), ove si dà sepoltura ai morti; camposanto (cfr. @RR@Cemeterio@_@).</def>
 					<cit>
 						<bibl>Giovanni dalle Celle, 4-2-35:</bibl>
 						<quote> Il primo è di costoro che seppelliscono i corpi nel cimiterio nel tempo dello ’nterdetto, ne’ casi non conceduti dalla ragione.</quote>
@@ -9152,7 +9152,7 @@
 				<form type="lemma">
 					<orth>Cimòlo</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cimene.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cimene@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cimòmetro</orth>
@@ -9676,7 +9676,7 @@
 				<form type="lemma">
 					<orth>Cincìglia</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cincilla.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cincilla@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cincìglio</orth>
@@ -9717,7 +9717,7 @@
 				<form type="lemma">
 					<orth>Cinciglióne2</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cinciglio.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cinciglio@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cincilla</orth>
@@ -10079,7 +10079,7 @@
 				<form type="lemma">
 					<orth>Cincistiare</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cincischiare.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cincischiare@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cincistrare</orth>
@@ -10322,7 +10322,7 @@
 					<orth>Cinefare</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS">verbo</gram><gram type="subc">tr.</gram><gram>coniug.</gram></gramGrp><usg type="fre">disus.</usg><def>tr. (per la coniug.: cfr. Fare) Disus. Ridurre un corpo in cenere, incenerire.</def>
+					<gramGrp><gram type="POS">verbo</gram><gram type="subc">tr.</gram><gram>coniug.</gram></gramGrp><usg type="fre">disus.</usg><def>tr. (per la coniug.: cfr. @RR@Fare@_@) Disus. Ridurre un corpo in cenere, incenerire.</def>
 					<cit>
 						<bibl>Tommaseo [s. v.]:</bibl>
 						<quote> ‘ Cinefare ’, ridurre un corpo in cenere facendolo ardere sinché ne siano distrutti i principii organici, e rimangano le sole parti minerali.</quote>
@@ -10450,7 +10450,7 @@
 				<form type="lemma">
 					<orth>Cinemadramma</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cinedramma.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cinedramma@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cinemascope</orth>
@@ -10464,12 +10464,12 @@
 				<form type="lemma">
 					<orth>Cinemateatro</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cineteatro.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cineteatro@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cinematèca</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cineteca.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cineteca@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cinemàtica</orth>
@@ -10679,7 +10679,7 @@
 					</cit>
 				</sense>
 				<sense level="2" n="3.1">
-					<def>- Pagare il cinematografo: v. Pagare.</def>
+					<def>- Pagare il cinematografo: v. @RR@Pagare@_@.</def>
 				</sense>
 				<sense level="1" n="4">
 					<usg type="sem">simil.</usg><usg type="sem">figur.</usg><def>4. Per simil. e al figur. Successione rapida di eventi, con colpi di scena, aspetti comici o grotteschi; confusione estrema di persone che si muovono in disordine; luogo dove regna la confusione, il disordine morale (e non si hanno più princìpi saldi e serietà di comportamento).</def>
@@ -10757,7 +10757,7 @@
 				<form type="lemma">
 					<orth>Cineràccio</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cinerazzo.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cinerazzo@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cinerama</orth>
@@ -10914,7 +10914,7 @@
 					<orth>Cinerìccio</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS">agg.</gram></gramGrp><usg type="dia">letter.</usg><def>(cinerìcio, cinerìzio) agg. Letter. Che ha il colore grigio della cenere. V. Cenericcio.</def>
+					<gramGrp><gram type="POS">agg.</gram></gramGrp><usg type="dia">letter.</usg><def>(cinerìcio, cinerìzio) agg. Letter. Che ha il colore grigio della cenere. V. @RR@Cenericcio@_@.</def>
 					<cit>
 						<bibl source="Tommaseo">Ricettario fiorentino [Tommaseo]:</bibl>
 						<quote> Un’altra [terra] di color bianchiccio verso il cinerizio.</quote>
@@ -10953,7 +10953,7 @@
 					<orth>Cinerino</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS">agg.</gram><gram type="POS" subtype="gen">sm.</gram></gramGrp><usg type="dia">letter.</usg><def>agg. (anche sm.) Letter. Del colore della cenere, grigio cenere; cenerognolo (V. Cenerino).</def>
+					<gramGrp><gram type="POS">agg.</gram><gram type="POS" subtype="gen">sm.</gram></gramGrp><usg type="dia">letter.</usg><def>agg. (anche sm.) Letter. Del colore della cenere, grigio cenere; cenerognolo (V. @RR@Cenerino@_@).</def>
 					<cit>
 						<bibl>Bertola, 87:</bibl>
 						<quote> A coloro che navigano sul Reno... offresi una specie di maestoso musaico nella quadruplice fascia che abbraccia il monte: verde una di vigneti, l’altra nereggiante per gli strati di terra grassa disposti ad accoglierli, indi la bianca de’ muricciuoli, e tratto tratto ima ancor più larga ed irregolare tinta a cinerin grigio della roccia nuda ed alpestre.</quote>
@@ -10971,7 +10971,7 @@
 				<form type="lemma">
 					<orth>Cinerógnolo</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cenerognolo.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cenerognolo@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cineroman#zo</orth>
@@ -11256,7 +11256,7 @@
 				<form type="lemma">
 					<orth>Cingallégra</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cinciallegra.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cinciallegra@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cingano</orth>
@@ -12266,7 +12266,7 @@
 				<form type="lemma">
 					<orth>Cingottare</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Ciangottare.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Ciangottare@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cinguettaménto</orth>
@@ -12555,7 +12555,7 @@
 				<form type="lemma">
 					<orth>Cinice</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cinigia.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cinigia@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cìnico</orth>
@@ -13002,7 +13002,7 @@
 				<form type="lemma">
 					<orth>Cinnamulgo</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cinamulgo.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cinamulgo@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cinnolina</orth>

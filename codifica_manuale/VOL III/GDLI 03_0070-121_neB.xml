@@ -126,7 +126,7 @@
 				<form type="lemma">
 					<orth>Chiepino</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Chiesino.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Chiesino@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Chièppa</orth>
@@ -144,7 +144,7 @@
 				<form type="lemma">
 					<orth>Chiérco e deriv.</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Chierico e deriv.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Chierico@_@ e deriv.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Chiercuto</orth>
@@ -167,12 +167,12 @@
 				<form type="lemma">
 					<orth>Chièrere</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cherere1.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cherere1@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Chiere#sìa</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Chericia.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Chericia@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Chiérica</orth>
@@ -292,7 +292,7 @@
 				<form type="lemma">
 					<orth>Chiericale</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Clericale.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Clericale@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Chiericastro</orth>
@@ -452,7 +452,7 @@
 				<form type="lemma">
 					<orth>Chiericile</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Chericile.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Chericile@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Chiérico</orth>
@@ -686,7 +686,7 @@
 				<form type="lemma">
 					<orth>Chiericuto</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Chiercuto.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Chiercuto@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Chiè#sa</orth>
@@ -1422,7 +1422,7 @@
 				<form type="lemma">
 					<orth>Chietarìa</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Chietineria.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Chietineria@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Chietinerìa</orth>
@@ -1522,7 +1522,7 @@
 				<form type="lemma">
 					<orth>Chignóne</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cignone.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cignone@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Chile</orth>
@@ -2526,7 +2526,7 @@
 				<form type="lemma">
 					<orth>Chimiatrìa</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Chemiatria.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Chemiatria@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Chìmica</orth>
@@ -2775,7 +2775,7 @@
 				<form type="lemma">
 					<orth>Chimmèrio</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cimmerio.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cimmerio@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Chimo1</orth>
@@ -2973,7 +2973,7 @@
 					</cit>
 				</sense>
 				<sense level="2" n="5.2">
-					<def>- Cavalcare la capra alla china: v. Capra.</def>
+					<def>- Cavalcare la capra alla china: v. @RR@Capra@_@.</def>
 				</sense>
 				<sense level="1" n="6">
 					<gramGrp><gram type="comp">prov.</gram></gramGrp><def>6. Prov. L'acqua va alla china: le cose si svolgono secondo il loro corso naturale. - Lasciar andare l’acqua per la china: lasciare che le cose seguano il loro corso (riconoscendo in esse una legge necessaria e provvidenziale).</def>
@@ -3603,7 +3603,7 @@
 				<form type="lemma">
 					<orth>Chinchina</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. China2.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@China2@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Chinci</orth>
@@ -3635,7 +3635,7 @@
 					<orth>Chinèa</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><usg type="time">ant.</usg><def>sf. Ant. Cavalcatura che sa tenere l’ambio, adatta ai viaggi e al passeggio (cfr. Achinea).</def>
+					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><usg type="time">ant.</usg><def>sf. Ant. Cavalcatura che sa tenere l’ambio, adatta ai viaggi e al passeggio (cfr. @RR@Achinea@_@).</def>
 					<cit>
 						<bibl>Bellincioni, 1-121:</bibl>
 						<quote> Questa chinea mi par gentile.</quote>
@@ -3694,7 +3694,7 @@
 				<form type="lemma">
 					<orth>Chinése</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cinese.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cinese@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Chinéto</orth>
@@ -4033,7 +4033,7 @@
 				<form type="lemma">
 					<orth>Chintana</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Quintana.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Quintana@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Chío</orth>
@@ -4098,7 +4098,7 @@
 					</cit>
 				</sense>
 				<sense level="1" n="2">
-					<def>2. Costellazione del Toro (e delle Pleiadi). Cfr. Chioccia, n. 5.</def>
+					<def>2. Costellazione del Toro (e delle Pleiadi). Cfr. @RR@Chioccia@_@, n. 5.</def>
 					<cit>
 						<bibl>Cecco d'Ascoli, 3983:</bibl>
 						<quote> Le stelle viziose delli segni / fanno accidenti e vizii nelle terre. / ... / Or guardisi la testa il bolognino, / che piccioletta piaga non l’atterre; / così le gambe guardi il fiorentino, / ché la chiocca taurina colà ascese.</quote>
@@ -4211,7 +4211,7 @@
 				<form type="lemma">
 					<orth>Chiocchiolìo</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Chioccolio.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Chioccolio@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Chiòccia</orth>
@@ -4282,7 +4282,7 @@
 					</cit>
 				</sense>
 				<sense level="1" n="5">
-					<usg type="dom" subtype="SC">astron.</usg><def>5. Astron. La costellazione delle Pleiadi (cfr. Chiocca2, n. 2).</def>
+					<usg type="dom" subtype="SC">astron.</usg><def>5. Astron. La costellazione delle Pleiadi (cfr. @RR@Chiocca2@_@, n. 2).</def>
 					<cit>
 						<bibl>Cecco d'Ascoli, 1644:</bibl>
 						<quote> Spero di venire / al nido [Bologna] ch’è fondà sotto la chioccia / de le globate stelle.</quote>
@@ -4485,7 +4485,7 @@
 					<orth>Chiòcciola</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><def>sf. Mollusco Gasteropodo dell’ordine Polmonati (genere Helix), comunissimo in Italia, dove se ne conoscono più di duecento specie: ha una conchiglia globulosa a spirale, di colore giallo-bruno, da cui si protende il corpo molle e viscido, di forma allungata, dotato di un’ampia superficie ventrale (piede) per strisciare e di un capo che porta due paia di tentacoli retrattili; all’apice dei tentacoli posteriori, che sono più lunghi, stanno gli occhi; il corpo secerne un muco che lascia sul passaggio dell’animale una traccia argentea. È un animale erbivoro, e può arrecare notevoli danni alle coltivazioni. Vive nei luoghi freschi e ombrosi, uscendo dai suoi nascondigli soprattutto quando il tempo è umido; in inverno si infossa nel terreno e cade in letargo, ritirandosi nella conchiglia e chiudendone l’apertura con una pellicola calcarea bianca (v. Lumaca).</def>
+					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><def>sf. Mollusco Gasteropodo dell’ordine Polmonati (genere Helix), comunissimo in Italia, dove se ne conoscono più di duecento specie: ha una conchiglia globulosa a spirale, di colore giallo-bruno, da cui si protende il corpo molle e viscido, di forma allungata, dotato di un’ampia superficie ventrale (piede) per strisciare e di un capo che porta due paia di tentacoli retrattili; all’apice dei tentacoli posteriori, che sono più lunghi, stanno gli occhi; il corpo secerne un muco che lascia sul passaggio dell’animale una traccia argentea. È un animale erbivoro, e può arrecare notevoli danni alle coltivazioni. Vive nei luoghi freschi e ombrosi, uscendo dai suoi nascondigli soprattutto quando il tempo è umido; in inverno si infossa nel terreno e cade in letargo, ritirandosi nella conchiglia e chiudendone l’apertura con una pellicola calcarea bianca (v. @RR@Lumaca@_@).</def>
 					<cit>
 						<bibl source="Crusca">Bencivenni [Crusca]:</bibl>
 						<quote> Questi [accidiosi] rassembrano coloro che non osano entrare ne’ sentieri per le chiocciole che mostrano lor coma.</quote>
@@ -5051,14 +5051,14 @@
 					</cit>
 				</sense>
 				<sense level="1" n="2">
-					<usg type="sem">figur.</usg><def>2. Figur. Chi fa debiti, chi pianta chiodi (cfr. Chiodo, n. 8).</def>
+					<usg type="sem">figur.</usg><def>2. Figur. Chi fa debiti, chi pianta chiodi (cfr. @RR@Chiodo@_@, n. 8).</def>
 					<cit>
 						<bibl>Tommaseo [s. v.]:</bibl>
 						<quote> Volgarmente chiodaiuolo dicesi colui che sol la dice coi debiti.</quote>
 					</cit>
 				</sense>
 				<sense level="1" n="3">
-					<usg type="time">ant.</usg><def>3. Ant. Nell’antica industria tessile, operaio addetto a stendere le stoffe, tinte e lavate, inchiodandole su appositi telai (v. Chiovara).</def>
+					<usg type="time">ant.</usg><def>3. Ant. Nell’antica industria tessile, operaio addetto a stendere le stoffe, tinte e lavate, inchiodandole su appositi telai (v. @RR@Chiovara@_@).</def>
 					<cit>
 						<bibl>Glossario medievale del commercio, 74:</bibl>
 						<quote> E lavati che sono [i panni] si tornano a distirare in chiovara da’ chiodaiuoli.</quote>
@@ -5460,7 +5460,7 @@
 					</cit>
 				</sense>
 				<sense level="2" n="9.3">
-					<def>- Attaccare il cappello al chiodo: v. Attaccare, n. 24.</def>
+					<def>- Attaccare il cappello al chiodo: v. @RR@Attaccare@_@, n. 24.</def>
 				</sense>
 				<sense level="2" n="9.4">
 					<def>- Attaccare una voglia a un chiodo: rinunciare ad appagarla.</def>
@@ -5477,7 +5477,7 @@
 					</cit>
 				</sense>
 				<sense level="2" n="9.6">
-					<def>- Fare due chiodi a un caldo: v. Caldo2, n. 13.</def>
+					<def>- Fare due chiodi a un caldo: v. @RR@Caldo2@_@, n. 13.</def>
 				</sense>
 				<sense level="2" n="9.7">
 					<def>- Fissare, fermare il chiodo: decidere fermamente.</def>
@@ -7030,13 +7030,13 @@
 				<form type="lemma">
 					<orth>Chiòvo1 e deriv.</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Chiodo e deriv.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Chiodo@_@ e deriv.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Chiòvo2</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><usg type="geo">dial.</usg><def>sm. Dial. Anello del giogo in cui s’incastra l’estremità del timone del carro (cfr. Chiovolo).</def>
+					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><usg type="geo">dial.</usg><def>sm. Dial. Anello del giogo in cui s’incastra l’estremità del timone del carro (cfr. @RR@Chiovolo@_@).</def>
 				</sense>
 				<etym>= Voce d’area toscana, assimilata a chiovo1, ma di origine distinta: dal lat. cohum (e coum), secondo la definizione di Varrone (5-235): «Sub jugo medio cavum, quod bura extrema addita oppilatur, vocatur coum a cavo»; mentre per Festo (34-26) si tratta d’una cinghia che lega il timone al giogo («Cohum lorum, quo temo buris cum jugo conligatur, a cohibendo dictum». Comunque, il senso originario era quello di ‘cavità’ («coum a cavo»: e cavus deriva dalla forma arcaica covos).</etym>
 			</entry>
@@ -7186,7 +7186,7 @@
 				<form type="lemma">
 					<orth>Chirintana e chirinzana</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Chiarentana.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Chiarentana@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Chirogàleo</orth>
@@ -7735,7 +7735,7 @@
 					<orth>Chirurgo</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sm.</gram><gram type="numb">plur.</gram></gramGrp><usg type="time">ant.</usg><usg type="geo">dial.</usg><def>(ant. dial. cirùgio) sm. (plur. -gi o -ghi) Medico specializzato in chirurgia; medico che compie interventi chirurgici (e anticamente poteva essere anche una persona non esperta nell’arte medica, che agiva secondo consuetudini e metodi pratici). Cfr. Cerusico.</def>
+					<gramGrp><gram type="POS" subtype="gen">sm.</gram><gram type="numb">plur.</gram></gramGrp><usg type="time">ant.</usg><usg type="geo">dial.</usg><def>(ant. dial. cirùgio) sm. (plur. -gi o -ghi) Medico specializzato in chirurgia; medico che compie interventi chirurgici (e anticamente poteva essere anche una persona non esperta nell’arte medica, che agiva secondo consuetudini e metodi pratici). Cfr. @RR@Cerusico@_@.</def>
 					<cit>
 						<bibl>Ariosto, 24-25:</bibl>
 						<quote> Fatto sano in poco termine hallo / per cura et arte d’un chirurgo antico.</quote>
@@ -7817,7 +7817,7 @@
 					<orth>Chisciottésco</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS">agg.</gram><gram type="numb">plur.</gram><gram type="gen">m.</gram></gramGrp><def>agg. (plur. m. -chi) Proprio di Don Chisciotte, che ricorda la figura o gli atteggiamenti di don Chisciotte (o di personaggi del romanzo omonimo di Cervantes). Cfr. Donchisciottesco.</def>
+					<gramGrp><gram type="POS">agg.</gram><gram type="numb">plur.</gram><gram type="gen">m.</gram></gramGrp><def>agg. (plur. m. -chi) Proprio di Don Chisciotte, che ricorda la figura o gli atteggiamenti di don Chisciotte (o di personaggi del romanzo omonimo di Cervantes). Cfr. @RR@Donchisciottesco@_@.</def>
 					<cit>
 						<bibl>Baldini, I-316:</bibl>
 						<quote> La serva... una massa nera e deforme di grasso, specie di Maritoma chisciottesca, e sosteneva che Giorgione ne avrebbe ricavato benissimo una Venere.</quote>
@@ -8002,7 +8002,7 @@
 				<form type="lemma">
 					<orth>Chissisìa</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Chicchessia.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Chicchessia@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Chistétto</orth>
@@ -8115,7 +8115,7 @@
 					</cit>
 				</sense>
 				<sense level="1" n="3">
-					<usg type="dom" subtype="SC">ittiol.</usg><usg type="geo">lat.</usg><usg type="dom" subtype="SC">scient.</usg><def>3. Ittiol. Pesce cartilagineo (lat. scient. Rhinobatus rhinobatus). V. Rinobatidi.</def>
+					<usg type="dom" subtype="SC">ittiol.</usg><usg type="geo">lat.</usg><usg type="dom" subtype="SC">scient.</usg><def>3. Ittiol. Pesce cartilagineo (lat. scient. Rhinobatus rhinobatus). V. @RR@Rinobatidi@_@.</def>
 				</sense>
 				<sense level="1" n="4">
 					<gramGrp><gram type="comp">locuz.</gram></gramGrp><def>4. Locuz. - Essere da cantare nella chitarra: essere talmente madornale e strampalato da potersi raccontare, divulgare a suon di musica (idee, opinioni, convinzioni, ecc.).</def>
@@ -9359,7 +9359,7 @@
 					</cit>
 				</sense>
 				<sense level="2" n="39.14">
-					<def>- Chiudere, chiudersi a chiave, sotto chiave, a catenaccio: v. Catenaccio e Chiave.</def>
+					<def>- Chiudere, chiudersi a chiave, sotto chiave, a catenaccio: v. @RR@Catenaccio@_@ e @RR@Chiave@_@.</def>
 				</sense>
 				<sense level="2" n="39.15">
 					<def>- Chiudere, chiudersi verso qualche parte o contro, addosso a qualcuno: precipitarsi verso un luogo o contro una persona.</def>
@@ -10054,7 +10054,7 @@
 					</cit>
 				</sense>
 				<sense level="2" n="2.2">
-					<def>- Casa chiusa: v. Casa.</def>
+					<def>- Casa chiusa: v. @RR@Casa@_@.</def>
 				</sense>
 				<sense level="1" n="3">
 					<usg type="sem">figur.</usg><def>3. Figur. Proprio di un ambiente serrato, non arieggiato.</def>
@@ -10262,7 +10262,7 @@
 					<def>- Economia, mercato chiuso: senza rapporti esterni, relativamente alla domanda e all’offerta di prodotti o fattori produttivi, sia per ipotesi di studio, sia in caso di conflitto o di blocco economico o di una politica di autarchia e di isolamento.</def>
 				</sense>
 				<sense level="2" n="14.2">
-					<def>- Comune chiuso: v. Comune.</def>
+					<def>- Comune chiuso: v. @RR@Comune@_@.</def>
 				</sense>
 				<sense level="2" n="14.3">
 					<def>- Mare chiuso: residuo di mare che in seguito a fenomeni geologici non comunica più con un oceano.</def>
@@ -11270,7 +11270,7 @@
 					<orth>Ci2</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sm.</gram><gram type="gen">f.</gram></gramGrp><def>sm. e f. Nome della lettera c (C), la terza lettera dell’alfabeto, la seconda delle consonanti (v. Ce1).</def>
+					<gramGrp><gram type="POS" subtype="gen">sm.</gram><gram type="gen">f.</gram></gramGrp><def>sm. e f. Nome della lettera c (C), la terza lettera dell’alfabeto, la seconda delle consonanti (v. @RR@Ce1@_@).</def>
 				</sense>
 			</entry>
 			<entry>
@@ -12799,7 +12799,7 @@
 				<form type="lemma">
 					<orth>Ciamberlano</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Ciambellano.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Ciambellano@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Ciamberlato</orth>
@@ -12818,7 +12818,7 @@
 					<orth>Ciambétta</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><usg type="dom">ipp.</usg><usg type="time">ant.</usg><def>sf. Ipp. Ant. Figura d’equitazione d’alta scuola, ciambella (cfr. Ciambella, n. 9).</def>
+					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><usg type="dom">ipp.</usg><usg type="time">ant.</usg><def>sf. Ipp. Ant. Figura d’equitazione d’alta scuola, ciambella (cfr. @RR@Ciambella@_@, n. 9).</def>
 					<cit>
 						<bibl>Garzoni, 1-630:</bibl>
 						<quote> Insegnandoli [al cavallo] le raddoppiate giustamente, la ciambétta, le capriole, i cornetti, i trotti, i galoppi, e tutte le sorti di passi.</quote>
@@ -13211,7 +13211,7 @@
 				<form type="lemma">
 					<orth>Ciancèro</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cianciere.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cianciere@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Ciancerulla</orth>
@@ -14720,12 +14720,12 @@
 				<form type="lemma">
 					<orth>Ciantèllo e deriv.</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Centello e deriv.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Centello@_@ e deriv.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Ciantósa</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Sciantosa.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Sciantosa@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Ciantre</orth>
@@ -14851,7 +14851,7 @@
 					<orth>Ciappa1</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><usg type="time">ant.</usg><def>sf. Ant. Specie di bulino (cfr. anche Ciappola).</def>
+					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><usg type="time">ant.</usg><def>sf. Ant. Specie di bulino (cfr. anche @RR@Ciappola@_@).</def>
 					<cit>
 						<bibl>Biringuccio, 1-134:</bibl>
 						<quote> Bisogna... che bene sappi [il fabbro orefice] lavorare di martello, ed adoperare per intagliare ciappe e burini, e così ancora lime e ciselli.</quote>
@@ -14994,7 +14994,7 @@
 				<form type="lemma">
 					<orth>Ciarafuglióne</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cerfuglione.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cerfuglione@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Ciaramèlla1</orth>
@@ -15497,7 +15497,7 @@
 					</cit>
 				</sense>
 				<sense level="1" n="4">
-					<gramGrp><gram type="comp">locuz.</gram></gramGrp><def>4. Locuz. La biscia si volta al ciarlatano: l’inganno ricade a danno di chi lo ha tentato (cfr. anche Biscia).</def>
+					<gramGrp><gram type="comp">locuz.</gram></gramGrp><def>4. Locuz. La biscia si volta al ciarlatano: l’inganno ricade a danno di chi lo ha tentato (cfr. anche @RR@Biscia@_@).</def>
 					<cit>
 						<bibl>Monti, 11-66:</bibl>
 						<quote> Mi faccia un foglio giustificativo della sua condotta su questo punto, perché costoro non si quietano, per impedire che la biscia si volti al ciarlatano.</quote>
@@ -16255,7 +16255,7 @@
 					<usg type="dom" subtype="SC">bot.</usg><def>3. Bot. Genere di funghi gasteromiceti della famiglia Nidulariacee, a forma di piccola coppa aperta verso l’alto (dove sono i corpi fruttiferi).</def>
 				</sense>
 				<sense level="1" n="4">
-					<usg type="dom" subtype="SC">bot.</usg><def>4. Bot.: v. Ciazio.</def>
+					<usg type="dom" subtype="SC">bot.</usg><def>4. Bot.: v. @RR@Ciazio@_@.</def>
 				</sense>
 				<etym>= Voce dotta, lat. cyathus, dal gr. κύαθος.</etym>
 			</entry>
@@ -16283,7 +16283,7 @@
 				<form type="lemma">
 					<orth>Ciaùscolo</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Ciabuscolo.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Ciabuscolo@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Ciau#sire</orth>
@@ -16314,17 +16314,17 @@
 				<form type="lemma">
 					<orth>Ciavatta e deriv.</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Ciabatta e deriv.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Ciabatta@_@ e deriv.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Ciàvola</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Ciaula.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Ciaula@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Ciavùscolo</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Ciabuscolo.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Ciabuscolo@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Ciàzio</orth>
@@ -17121,7 +17121,7 @@
 				<form type="lemma">
 					<orth>Cicada</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cicala1.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cicala1@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cicadàcee</orth>
@@ -17323,7 +17323,7 @@
 					</cit>
 				</sense>
 				<sense level="1" n="9">
-					<gramGrp><gram type="der">accr.</gram><gram type="POS" subtype="gen">sm.</gram></gramGrp><entry type="relatedEntry"><form type="sub_lemma" subtype="3">Cicalóne</form></entry><def>9. Accr. Cicalóne (sm.). Cfr. anche Cicalone.</def>
+					<gramGrp><gram type="der">accr.</gram><gram type="POS" subtype="gen">sm.</gram></gramGrp><entry type="relatedEntry"><form type="sub_lemma" subtype="3">Cicalóne</form></entry><def>9. Accr. Cicalóne (sm.). Cfr. anche @RR@Cicalone@_@.</def>
 					<cit>
 						<bibl>Bibbia volgar., V-776:</bibl>
 						<quote> Lo cicalone... non ha niunaala, né può volare, anzi si va appiccando co’ piedi, e sta alle case de’ re.</quote>
@@ -17339,7 +17339,7 @@
 					</cit>
 				</sense>
 				<sense level="2" n="9.2">
-					<gramGrp><gram type="der">dimin.</gram><gram type="POS" subtype="gen">sm.</gram></gramGrp><entry type="relatedEntry"><form type="sub_lemma" subtype="3">cicalino</form></entry><entry type="relatedEntry"><form type="sub_lemma" subtype="1">Cicalétta,cicalina</form></entry><def>- Dimin. Cicalétta, cicalina, cicalino (sm.). Cfr. anche Cicalino.</def>
+					<gramGrp><gram type="der">dimin.</gram><gram type="POS" subtype="gen">sm.</gram></gramGrp><entry type="relatedEntry"><form type="sub_lemma" subtype="3">cicalino</form></entry><entry type="relatedEntry"><form type="sub_lemma" subtype="1">Cicalétta,cicalina</form></entry><def>- Dimin. Cicalétta, cicalina, cicalino (sm.). Cfr. anche @RR@Cicalino@_@.</def>
 					<cit>
 						<bibl>Ariosto, 14-40:</bibl>
 						<quote> Come appresso la sera Tacchettata / la cicaletta sia, ch’or s’ode sola, / avanti al padre fra l’ispane torme / la condurremo.</quote>
@@ -17936,7 +17936,7 @@
 					<orth>Cicaròla</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><usg type="dom">marin.</usg><def>(cicariuòla) sf. Marin. Piccola vela di fortuna (cfr. Cecarola).</def>
+					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><usg type="dom">marin.</usg><def>(cicariuòla) sf. Marin. Piccola vela di fortuna (cfr. @RR@Cecarola@_@).</def>
 				</sense>
 				<sense level="1" n="2">
 					<usg type="sem">figur.</usg><usg type="time">ant.</usg><def>2. Figur. Ant. Persona volubile, che muta con facilità pareri e atteggiamenti.</def>
@@ -18366,7 +18366,7 @@
 				<form type="lemma">
 					<orth>Cìcchera</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Chicchera.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Chicchera@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cicchettare</orth>

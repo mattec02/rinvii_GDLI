@@ -434,7 +434,7 @@
 				<form type="lemma">
 					<orth>Certiduni</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Certuni.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Certuni@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Certificaménto</orth>
@@ -1342,7 +1342,7 @@
 					<orth>Cèrto2</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS">avv.</gram><gram type="der">superl.</gram><gram>ripet.</gram></gramGrp><def>avv. (superl. certìssimo) Certamente (spesso usato come inciso). - Anche ripet. certo certo: con valore di superl. (cfr. Certo1, n. 25).</def>
+					<gramGrp><gram type="POS">avv.</gram><gram type="der">superl.</gram><gram>ripet.</gram></gramGrp><def>avv. (superl. certìssimo) Certamente (spesso usato come inciso). - Anche ripet. certo certo: con valore di superl. (cfr. @RR@Certo1@_@, n. 25).</def>
 					<cit>
 						<bibl>Latini, Rettor., 19-4:</bibl>
 						<quote> E certo chi avea forza e podere sopra altri molti non averia patito divenire pare di coloro ch’elli potea segnoreggiare.</quote>
@@ -1712,7 +1712,7 @@
 				<form type="lemma">
 					<orth>Cerusa</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cerussa.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cerussa@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Ceru#sìa</orth>
@@ -1840,7 +1840,7 @@
 				<form type="lemma">
 					<orth>Cèrva</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cervo.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cervo@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cervaro</orth>
@@ -3010,12 +3010,12 @@
 				<form type="lemma">
 					<orth>Cèrvia</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cervo.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cervo@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cerviatto</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cerbiatto.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cerbiatto@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cervicace</orth>
@@ -3445,7 +3445,7 @@
 					<orth>Cervino2</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS">agg.</gram></gramGrp><usg type="dom" subtype="SC">bot.</usg><def>agg. Bot. Spina cervina (anche spino cervino): arbusto spinoso della famiglia Ramnacee (Rhamnus infectorius); cfr. Spinacervina.</def>
+					<gramGrp><gram type="POS">agg.</gram></gramGrp><usg type="dom" subtype="SC">bot.</usg><def>agg. Bot. Spina cervina (anche spino cervino): arbusto spinoso della famiglia Ramnacee (Rhamnus infectorius); cfr. @RR@Spinacervina@_@.</def>
 					<cit>
 						<bibl>Soderini, II-353:</bibl>
 						<quote> Lo spin cervino somiglia di foglia, di garbo e di scorza i susini... I frutti suoi simili a quelli della mortella, ma neri di fuori e dentro verdi, usati dai pittori per tal colore.</quote>
@@ -3474,7 +3474,7 @@
 				<form type="lemma">
 					<orth>Cervì#sia</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cervogia.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cervogia@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cèrvo</orth>
@@ -3668,7 +3668,7 @@
 				<form type="lemma">
 					<orth>Cervò#sa</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cervogia.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cervogia@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cèrvo volante</orth>
@@ -4007,7 +4007,7 @@
 				<form type="lemma">
 					<orth>Ce#sareopapi#smo</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cesaropapismo.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cesaropapismo@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Ce#sariano</orth>
@@ -4120,7 +4120,7 @@
 					<orth>Ce#satura</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><usg type="fre">disus.</usg><def>sf. Disus. Operazione agricola con cui si tagliano e s’interrano le piantine per rendere il terreno più fertile (v. Sovescio).</def>
+					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><usg type="fre">disus.</usg><def>sf. Disus. Operazione agricola con cui si tagliano e s’interrano le piantine per rendere il terreno più fertile (v. @RR@Sovescio@_@).</def>
 					<cit>
 						<bibl>Tramater [s. v.]:</bibl>
 						<quote> ‘ Cesatura’, lavoro con cui seppellisconsi l’erbe spontanee, o quelle seminate a bella posta per far sovescio.</quote>
@@ -4425,7 +4425,7 @@
 				<form type="lemma">
 					<orth>Cè#sne</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cigno.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cigno@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Ce#sóia</orth>
@@ -4511,13 +4511,13 @@
 				<form type="lemma">
 					<orth>Cespicare</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cespitare.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cespitare@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cèspita</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><usg type="dom" subtype="SC">bot.</usg><def>sf. Bot. Erba vischia (Inula graveolens; Capularia viscosa); cfr. Ceppita.</def>
+					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><usg type="dom" subtype="SC">bot.</usg><def>sf. Bot. Erba vischia (Inula graveolens; Capularia viscosa); cfr. @RR@Ceppita@_@.</def>
 					<cit>
 						<bibl>Tramater [s. v.]:</bibl>
 						<quote> * Cespita specie di pianta della famiglia delle composte, comune ne’ siti incolti presso il mare, ed ha i gambetti uniflori laterali, fogliosi; le foglie a lancetta, dentellate, reflesse alla base (‘ ceppita ‘erba vischia’, ‘erba puzza’).</quote>
@@ -5624,7 +5624,7 @@
 					<orth>Césta</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><def>sf. Grosso paniere di vimini (o di stecche di castagno o di salice), di forma varia, per lo più quadrata od ovoidale, usato nelle campagne per il trasporto di frutta, verdura, polli, uova, ecc. (e, nella città, per il trasporto di pane e altri generi alimentari, da parte dei garzoni delle panetterie e dei negozi di generi alimentari). Cfr. Canestro e Sporta.</def>
+					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><def>sf. Grosso paniere di vimini (o di stecche di castagno o di salice), di forma varia, per lo più quadrata od ovoidale, usato nelle campagne per il trasporto di frutta, verdura, polli, uova, ecc. (e, nella città, per il trasporto di pane e altri generi alimentari, da parte dei garzoni delle panetterie e dei negozi di generi alimentari). Cfr. @RR@Canestro@_@ e @RR@Sporta@_@.</def>
 					<cit>
 						<bibl>Malespini, 106:</bibl>
 						<quote> E gittò la prima cesta di calcina.</quote>
@@ -6581,7 +6581,7 @@
 					<orth>Cetano</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><usg type="dom" subtype="SC">chim.</usg><def>sm. Chim. Idrocarburo saturo. - Numero di cetano: indice dell’attitudine di un combustibile a essere impiegato nei motori Diesel (cfr. anche Cetene).</def>
+					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><usg type="dom" subtype="SC">chim.</usg><def>sm. Chim. Idrocarburo saturo. - Numero di cetano: indice dell’attitudine di un combustibile a essere impiegato nei motori Diesel (cfr. anche @RR@Cetene@_@).</def>
 				</sense>
 				<etym>= Voce dotta, deriv. da cet[ina], col suffisso -ano.</etym>
 			</entry>
@@ -6605,7 +6605,7 @@
 					<orth>Cetène</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><usg type="fre">disus.</usg><usg type="dom" subtype="SC">chim.</usg><def>(disus. cetèno) sm. Chim. Idrocarburo non saturo. - Numero di cetene: indice dell’attitudine di un combustibile a essere impiegato nei motori Diesel (cfr. anche Cetano).</def>
+					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><usg type="fre">disus.</usg><usg type="dom" subtype="SC">chim.</usg><def>(disus. cetèno) sm. Chim. Idrocarburo non saturo. - Numero di cetene: indice dell’attitudine di un combustibile a essere impiegato nei motori Diesel (cfr. anche @RR@Cetano@_@).</def>
 					<cit>
 						<bibl>Tommaseo [s. v.]:</bibl>
 						<quote> * Ceteno ’, idrocarburo liquido ed olioso che si estrae come prodotto dalla distillazione della cetina colla potassa.</quote>
@@ -6617,7 +6617,7 @@
 				<form type="lemma">
 					<orth>Cétera</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cetra1.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cetra1@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cètera1</orth>
@@ -6669,7 +6669,7 @@
 				<form type="lemma">
 					<orth>Cèterach</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cetracca.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cetracca@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Ceterante</orth>
@@ -6970,7 +6970,7 @@
 					<orth>Cèto2</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><usg type="time">ant.</usg><def>sm. Ant. Cetaceo, balena (cfr. anche Cete).</def>
+					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><usg type="time">ant.</usg><def>sm. Ant. Cetaceo, balena (cfr. anche @RR@Cete@_@).</def>
 					<cit>
 						<bibl>Cavalca, 6-1-361:</bibl>
 						<quote> Essi lo presero, e lo gittarono in mare, e il pesce ceto lo inghiottitte.</quote>
@@ -7181,7 +7181,7 @@
 				<form type="lemma">
 					<orth>Cètra</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cetera1.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cetera1@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cetracca</orth>
@@ -7244,12 +7244,12 @@
 				<form type="lemma">
 					<orth>Cetrina</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cedrina.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cedrina@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cetrino</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Citrino.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Citrino@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cetriòlo</orth>
@@ -7740,7 +7740,7 @@
 					</cit>
 				</sense>
 				<sense level="1" n="7">
-					<gramGrp><gram type="comp">locuz.</gram></gramGrp><usg type="time">ant.</usg><usg type="dia">letter.</usg><def>7. Ant. e letter. Con valore di indefinito relativo nelle locuz. come che, donde che, dove che, quando che: in qualunque modo, in qualunque tempo (v. Come, Donde, Dove, Ove, ecc.).</def>
+					<gramGrp><gram type="comp">locuz.</gram></gramGrp><usg type="time">ant.</usg><usg type="dia">letter.</usg><def>7. Ant. e letter. Con valore di indefinito relativo nelle locuz. come che, donde che, dove che, quando che: in qualunque modo, in qualunque tempo (v. @RR@Come@_@, @RR@Donde@_@, @RR@Dove@_@, @RR@Ove@_@, ecc.).</def>
 					<cit>
 						<bibl>Dante, Inf., 6-5:</bibl>
 						<quote> Novi tormenti e novi tormentati / mi veggio intorno, come ch’io mi mova, / e ch’io mivolga, e come che io guati.</quote>
@@ -8074,7 +8074,7 @@
 					</cit>
 				</sense>
 				<sense level="2" n="3.4">
-					<gramGrp><gram type="comp">locuz.</gram><gram type="POS">agg.</gram><gram type="POS">pron.</gram></gramGrp><def>- Non so che: locuz. interrogativa che ha assunto il valore di agg. e di pron. indef. (per cui cfr. Che3): un certo, un certo che.</def>
+					<gramGrp><gram type="comp">locuz.</gram><gram type="POS">agg.</gram><gram type="POS">pron.</gram></gramGrp><def>- Non so che: locuz. interrogativa che ha assunto il valore di agg. e di pron. indef. (per cui cfr. @RR@Che3@_@): un certo, un certo che.</def>
 				</sense>
 				<sense level="2" n="3.5">
 					<usg type="time">ant.</usg><usg type="dia">letter.</usg><usg type="fre">rar.</usg><def>- Ant. e letter. A che? (rar. a che fare?): a quale scopo, per quale causa.</def>
@@ -8237,7 +8237,7 @@
 					</cit>
 				</sense>
 				<sense level="1" n="6">
-					<gramGrp><gram type="POS">pron.</gram><gram>esclam.</gram></gramGrp><def>6. Pron. esclam. usato (anche nella forma che cosa) come interr., a indicare meraviglia, disappunto, sdegno, rifiuto. - Ripetuto, indica impaziente noncuranza o negazione di quanto altri venga dicendo. - Ma che!: niente affatto (cfr. Macché).</def>
+					<gramGrp><gram type="POS">pron.</gram><gram>esclam.</gram></gramGrp><def>6. Pron. esclam. usato (anche nella forma che cosa) come interr., a indicare meraviglia, disappunto, sdegno, rifiuto. - Ripetuto, indica impaziente noncuranza o negazione di quanto altri venga dicendo. - Ma che!: niente affatto (cfr. @RR@Macché@_@).</def>
 					<cit>
 						<bibl>Bandello, 1-51 (I-599):</bibl>
 						<quote> Con verissime ragioni ed amorevoli parole cominciò a vedergli levar questo umor fantastico di capo. Ma che! ella predicava a’ sordi, ed al vento le sue parole commetteva, perciò che egli altro non rispondeva che voler morire. </quote>
@@ -8429,7 +8429,7 @@
 					</cit>
 				</sense>
 				<sense level="2" n="1.5">
-					<gramGrp><gram type="comp">locuz.</gram><gram type="POS">pron.</gram></gramGrp><def>- Chi sa che: locuz. interrogativa con valore di pron. indef.; indica alcunché di oscuro, ma assai importante e grave; spesso è usata ironicamente, per esprimere l’oggetto di vaghe e illusorie speranze (con lo stesso valore è anche usata talvolta la locuz. non so che, non so che cosa). V. Chissà.</def>
+					<gramGrp><gram type="comp">locuz.</gram><gram type="POS">pron.</gram></gramGrp><def>- Chi sa che: locuz. interrogativa con valore di pron. indef.; indica alcunché di oscuro, ma assai importante e grave; spesso è usata ironicamente, per esprimere l’oggetto di vaghe e illusorie speranze (con lo stesso valore è anche usata talvolta la locuz. non so che, non so che cosa). V. @RR@Chissà@_@.</def>
 					<cit>
 						<bibl>Sbarbaro, 1-181:</bibl>
 						<quote> Un po’ il vino, un po’ l’aria della domenica, le fisonomie vengono incontro. Le distende una confidenza reciproca: schiude qualche bocca l’aspettativa di chi sa che.</quote>
@@ -8447,10 +8447,10 @@
 					</cit>
 				</sense>
 				<sense level="2" n="1.7">
-					<usg type="fre">disus.</usg><def>- Disus. Alcun che: v. Alcunché.</def>
+					<usg type="fre">disus.</usg><def>- Disus. Alcun che: v. @RR@Alcunché@_@.</def>
 				</sense>
 				<sense level="2" n="1.8">
-					<usg type="dia">famil.</usg><def>- Famil. Gran che: a designare l’importanza, la gravità, l’eccezionaiità di qualche cosa o di qualcuno: e spesso si usa ironicamente (cfr. anche Granché e Grande).</def>
+					<usg type="dia">famil.</usg><def>- Famil. Gran che: a designare l’importanza, la gravità, l’eccezionaiità di qualche cosa o di qualcuno: e spesso si usa ironicamente (cfr. anche @RR@Granché@_@ e @RR@Grande@_@).</def>
 					<cit>
 						<bibl>Foscolo, XV-319:</bibl>
 						<quote> Quel povero ragazzo mi fa pietà; e temo che militare o cittadino, giovine o vecchio farà pietà sempre: gran che questo non sapere, né potere, né volere far nulla della propria vita!</quote>
@@ -8489,7 +8489,7 @@
 					</cit>
 				</sense>
 				<sense level="1" n="2">
-					<gramGrp><gram type="POS">pron.</gram><gram type="comp">locuz.</gram></gramGrp><def>2. Seguito dal pron. relat., nella locuz. pronominale che che sia: qualunque cosa (cfr. Checchessia).</def>
+					<gramGrp><gram type="POS">pron.</gram><gram type="comp">locuz.</gram></gramGrp><def>2. Seguito dal pron. relat., nella locuz. pronominale che che sia: qualunque cosa (cfr. @RR@Checchessia@_@).</def>
 				</sense>
 				<sense level="2" n="2.1">
 					<gramGrp><gram type="POS">agg.</gram></gramGrp><usg type="time">ant.</usg><def>- Ant. Agg. Qualunque, qualsiasi.</def>
@@ -8501,7 +8501,7 @@
 					</cit>
 				</sense>
 				<sense level="1" n="3">
-					<gramGrp><gram type="POS">pron.</gram><gram type="comp">locuz.</gram></gramGrp><def>3. Pron. indef. relat. di cosa: qualunque cosa, tutto ciò che: oggi comunemente raddoppiato (cfr. Checché); la forma semplice si usa solo più nella locuz. avvenga che può.</def>
+					<gramGrp><gram type="POS">pron.</gram><gram type="comp">locuz.</gram></gramGrp><def>3. Pron. indef. relat. di cosa: qualunque cosa, tutto ciò che: oggi comunemente raddoppiato (cfr. @RR@Checché@_@); la forma semplice si usa solo più nella locuz. avvenga che può.</def>
 					<cit>
 						<bibl>Boccaccio, Dec., 3-3 (289):</bibl>
 						<quote> Io il dirò al marito mio, ed a’ fratelli miei, ed avvegnane che può.</quote>
@@ -8549,7 +8549,7 @@
 					<orth>Che4</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS">cong.</gram><gram type="comp">locuz.</gram><gram type="POS">sost.</gram><gram type="POS">pron.</gram></gramGrp><usg type="time">ant.</usg><def>(ant. ched davanti a vocale; la forma chel sta per che ’l, che lo: cfr. Ca3 e Co) cong. che regge vari costrutti subordinativi e dichiarativi. - Con l’indicativo o il congiuntivo, introduce proposizioni soggettive (dopo verbi e locuzioni che significano sembrare, bisognare, convenire, importare, accadere; dopo predicati nominali con valore neutro, come: è vero, è falso, è opportuno, è meglio, ecc.), oggettive (dopo verbi come dire, credere, sapere, dubitare; verbi di percezione, verbi di volontà, desiderio, timore; verbi che esprimono un comando o una proibizione, e le locuzioni di significato analogo), dichiarative (dopo locuz. come: fare bene, fare male, far piacere, ecc.; dopo un sost. o un pron. di cosa, per spiegarlo: e in questo caso è talvolta preceduto, negli scrittori antichi, da cioè).</def>
+					<gramGrp><gram type="POS">cong.</gram><gram type="comp">locuz.</gram><gram type="POS">sost.</gram><gram type="POS">pron.</gram></gramGrp><usg type="time">ant.</usg><def>(ant. ched davanti a vocale; la forma chel sta per che ’l, che lo: cfr. @RR@Ca3@_@ e @RR@Co@_@) cong. che regge vari costrutti subordinativi e dichiarativi. - Con l’indicativo o il congiuntivo, introduce proposizioni soggettive (dopo verbi e locuzioni che significano sembrare, bisognare, convenire, importare, accadere; dopo predicati nominali con valore neutro, come: è vero, è falso, è opportuno, è meglio, ecc.), oggettive (dopo verbi come dire, credere, sapere, dubitare; verbi di percezione, verbi di volontà, desiderio, timore; verbi che esprimono un comando o una proibizione, e le locuzioni di significato analogo), dichiarative (dopo locuz. come: fare bene, fare male, far piacere, ecc.; dopo un sost. o un pron. di cosa, per spiegarlo: e in questo caso è talvolta preceduto, negli scrittori antichi, da cioè).</def>
 					<cit>
 						<bibl>Giacomo da Lentini, 8-29:</bibl>
 						<quote> Così m’è adivenuto, / che, lasso, l’avenente / lo vo cercando, ed ò noie e pene.</quote>
@@ -8697,7 +8697,7 @@
 					</cit>
 				</sense>
 				<sense level="1" n="2">
-					<usg type="time">ant.</usg><def>2. Con il congiuntivo, per introdurre proposizioni finali (dopo verbi e locuzioni come: badare, procurare, fare in modo; chiedere, pregare, esortare; impedire, evitare, fare a meno, ecc.): è talvolta preceduta da a (ant. acciò, affine: cfr. Acciocché e Affinché).</def>
+					<usg type="time">ant.</usg><def>2. Con il congiuntivo, per introdurre proposizioni finali (dopo verbi e locuzioni come: badare, procurare, fare in modo; chiedere, pregare, esortare; impedire, evitare, fare a meno, ecc.): è talvolta preceduta da a (ant. acciò, affine: cfr. @RR@Acciocché@_@ e @RR@Affinché@_@).</def>
 					<cit>
 						<bibl>Giacomo da Lentini, 1-73:</bibl>
 						<quote> Vorria c’or avvenisse / a10 meo cor ch’escisse / come ncarnato tutto, / e non dicesse mutto - a voi, sdengosa.</quote>
@@ -8764,7 +8764,7 @@
 					</cit>
 				</sense>
 				<sense level="1" n="3">
-					<gramGrp><gram type="POS">agg.</gram><gram type="POS">avv.</gram><gram type="comp">locuz.</gram><gram type="POS">avverb.</gram><gram type="POS">cong.</gram></gramGrp><usg type="time">ant.</usg><def>3. Con l'indicativo, il congiuntivo o il condizionale, per introdurre frasi consecutive, dopo agg. come tale, tanto, avv. e locuz. avverb. come così, tanto (ant. in tanto), talmente, a tal punto, in guisa, di modo, per modo, ecc.; spesso la cong. forma una parola unica con l’avv. (cfr. Cosicché, Sicché, ecc.).</def>
+					<gramGrp><gram type="POS">agg.</gram><gram type="POS">avv.</gram><gram type="comp">locuz.</gram><gram type="POS">avverb.</gram><gram type="POS">cong.</gram></gramGrp><usg type="time">ant.</usg><def>3. Con l'indicativo, il congiuntivo o il condizionale, per introdurre frasi consecutive, dopo agg. come tale, tanto, avv. e locuz. avverb. come così, tanto (ant. in tanto), talmente, a tal punto, in guisa, di modo, per modo, ecc.; spesso la cong. forma una parola unica con l’avv. (cfr. @RR@Cosicché@_@, @RR@Sicché@_@, ecc.).</def>
 					<cit>
 						<bibl>Giacomo da Lentini, II-108:</bibl>
 						<quote> Quand’om ha un bon amico leiale, / cortesemente il dè saper tenire; / e noi dè trar sì cort’o deleiale, / che si convegna per forza partire.</quote>
@@ -8861,7 +8861,7 @@
 					</cit>
 				</sense>
 				<sense level="1" n="4">
-					<gramGrp><gram type="comp">locuz.</gram><gram>part.</gram><gram>pass.</gram></gramGrp><def>4. Con l’indicativo, per introdurre una causale: è spesso preceduta da locuz. come da, da poi, già, perciò, però (con cui può unirsi o formare un’unica parola: cfr. Dacché, Dappoiché, Giacché, ecc.), da part. pass. come atteso, considerato, dato, visto, ecc. (cfr. Ché).</def>
+					<gramGrp><gram type="comp">locuz.</gram><gram>part.</gram><gram>pass.</gram></gramGrp><def>4. Con l’indicativo, per introdurre una causale: è spesso preceduta da locuz. come da, da poi, già, perciò, però (con cui può unirsi o formare un’unica parola: cfr. @RR@Dacché@_@, @RR@Dappoiché@_@, @RR@Giacché@_@, ecc.), da part. pass. come atteso, considerato, dato, visto, ecc. (cfr. @RR@Ché@_@).</def>
 					<cit>
 						<bibl>Giacomo da Lentini, II-108:</bibl>
 						<quote> Acquistar l’amico poco vale, / da poi che non lo sa mantenire.</quote>
@@ -9069,7 +9069,7 @@
 					</cit>
 				</sense>
 				<sense level="2" n="5.6">
-					<gramGrp><gram>assol.</gram><gram type="POS">sost.</gram></gramGrp><def>- Altro che! (assol. o seguito da un sost.): commenta ironicamente la scarsa opportunità o utilità di qualche cosa, che si vorrebbe sostituire con altra più adeguata o efficace (cfr. Altro, n. 9 e Altroché).</def>
+					<gramGrp><gram>assol.</gram><gram type="POS">sost.</gram></gramGrp><def>- Altro che! (assol. o seguito da un sost.): commenta ironicamente la scarsa opportunità o utilità di qualche cosa, che si vorrebbe sostituire con altra più adeguata o efficace (cfr. @RR@Altro@_@, n. 9 e @RR@Altroché@_@).</def>
 					<cit>
 						<bibl>Barilli, 1-82:</bibl>
 						<quote> La gloria non esiste più. Guardate la vostra città. Han demolito le mura, hanno abbattuto anche le centenarie alberate dei bastioni. Al suono dei claroni il villano traversa in automobile le vostre strade. Polvere che il vento solleva, polvere che ricade sulla polvere, in quel deserto di memorie che è diventata la vita. Altro che arte!</quote>
@@ -9107,7 +9107,7 @@
 					</cit>
 				</sense>
 				<sense level="1" n="6">
-					<def>6. Per introdurre proposizioni temporali, dopo avverbi di tempo (con cui talvolta si unisce: cfr. Dacché, Finché, Poiché, ecc.) e complementi di tempo.</def>
+					<def>6. Per introdurre proposizioni temporali, dopo avverbi di tempo (con cui talvolta si unisce: cfr. @RR@Dacché@_@, @RR@Finché@_@, @RR@Poiché@_@, ecc.) e complementi di tempo.</def>
 					<cit>
 						<bibl>Guittone, II-261:</bibl>
 						<quote> E tanto giuto ei so dietro e davante / con prego e con mercé e con clamore, / facendo di perfetto amor sembiante, / che me promise loco en su’ dolzore / adesso che lei fusse benestante.</quote>
@@ -9324,7 +9324,7 @@
 					</cit>
 				</sense>
 				<sense level="2" n="7.1">
-					<gramGrp><gram type="comp">locuz.</gram></gramGrp><def>- In locuz. prepositive o congiuntive come fuor che (v. anche Fuorché), eccetto che, salvo che, tranne che.</def>
+					<gramGrp><gram type="comp">locuz.</gram></gramGrp><def>- In locuz. prepositive o congiuntive come fuor che (v. anche @RR@Fuorché@_@), eccetto che, salvo che, tranne che.</def>
 					<cit>
 						<bibl>Dante, Purg., 2-79:</bibl>
 						<quote> Ohi ombre vane, fuor che nell’aspetto!</quote>
@@ -9401,7 +9401,7 @@
 					</cit>
 				</sense>
 				<sense level="1" n="10">
-					<gramGrp><gram type="POS">avv.</gram><gram type="comp">locuz.</gram><gram type="POS">avverb.</gram><gram type="POS">cong.</gram></gramGrp><def>10. Col congiuntivo, davanti a proposizioni concessive, preceduto dagli avv. e locuz. avverb. ancora, bene, come, nonostante, (con) tutto, ecc. (a cui però oggi la cong. per lo più si unisce, formando un’unica parola: cfr. Ancorché, Benché, ecc.): usato senza alcun antecedente è arcaico.</def>
+					<gramGrp><gram type="POS">avv.</gram><gram type="comp">locuz.</gram><gram type="POS">avverb.</gram><gram type="POS">cong.</gram></gramGrp><def>10. Col congiuntivo, davanti a proposizioni concessive, preceduto dagli avv. e locuz. avverb. ancora, bene, come, nonostante, (con) tutto, ecc. (a cui però oggi la cong. per lo più si unisce, formando un’unica parola: cfr. @RR@Ancorché@_@, @RR@Benché@_@, ecc.): usato senza alcun antecedente è arcaico.</def>
 					<cit>
 						<bibl>Giacomo da Lentini, 3-8:</bibl>
 						<quote> Non vivo in disperanza / ancor che mi diffidi / la vostra disdegnanza.</quote>
@@ -9902,7 +9902,7 @@
 					<orth>Ché</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS">cong.</gram></gramGrp><usg type="time">ant.</usg><def>(ant. ched davanti a vocale; anche senz’accento, che, specie nella grafia antica) cong.Con valore causale perché; infatti (cfr. Che4, n. 4).</def>
+					<gramGrp><gram type="POS">cong.</gram></gramGrp><usg type="time">ant.</usg><def>(ant. ched davanti a vocale; anche senz’accento, che, specie nella grafia antica) cong.Con valore causale perché; infatti (cfr. @RR@Che4@_@, n. 4).</def>
 					<cit>
 						<bibl>Giacomo da Lentini, II-58:</bibl>
 						<quote> Se l’amor ch’eo vi porto / non posso dire in tutto, / vagliami alcun bon mutto; / ché per un frutto - piace tutto un orto. </quote>
@@ -10340,22 +10340,22 @@
 				<form type="lemma">
 					<orth>Cheiromegalìa</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Chiromegalia.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Chiromegalia@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cheironomìa</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Chironomia.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Chironomia@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cheirospa#smo</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Chirospasmo.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Chirospasmo@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cheiròtteri</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Chirotteri.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Chirotteri@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Chèla1</orth>
@@ -10479,7 +10479,7 @@
 				<form type="lemma">
 					<orth>Chelidònia1</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Celidonia1.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Celidonia1@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Chelidònia2</orth>
@@ -11196,7 +11196,7 @@
 				<form type="lemma">
 					<orth>Cherargirite</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cerargirite.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cerargirite@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Chera#sina</orth>
@@ -11439,12 +11439,12 @@
 				<form type="lemma">
 					<orth>Chérca e chérco</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Chierica e Chierico.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Chierica@_@ e @RR@Chierico@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Chercuto</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Chiericuto.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Chiericuto@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cherènte</orth>
@@ -11616,7 +11616,7 @@
 				<form type="lemma">
 					<orth>Chérico e deriv.</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Chierico e deriv.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Chierico@_@ e deriv.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Cherilèo</orth>
@@ -11630,7 +11630,7 @@
 				<form type="lemma">
 					<orth>Cherimòlia</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cerimolia.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cerimolia@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Chèripo</orth>
@@ -11648,7 +11648,7 @@
 				<form type="lemma">
 					<orth>Cheri#sìa</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Chericia.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Chericia@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Chèrmes</orth>
@@ -12282,7 +12282,7 @@
 				<form type="lemma">
 					<orth>Chetanza</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Quietanza.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Quietanza@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Chetare</orth>
@@ -12845,7 +12845,7 @@
 					</cit>
 				</sense>
 				<sense level="2" n="10.10">
-					<def>- Acqua cheta, v. Acqua.</def>
+					<def>- Acqua cheta, v. @RR@Acqua@_@.</def>
 				</sense>
 				<sense level="2" n="10.11">
 					<def>- Star di cheto: rassegnarsi, non fare opposizione, non contrastare.</def>
@@ -12905,7 +12905,7 @@
 				<form type="lemma">
 					<orth>Chetoe#sò#sio</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Chetosio.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Chetosio@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Chetogène#si</orth>
@@ -13030,7 +13030,7 @@
 				<form type="lemma">
 					<orth>Chetòpteri</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Chetotteri.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Chetotteri@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Chetò#si1</orth>
@@ -13081,7 +13081,7 @@
 					<orth>Chetospòra</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><usg type="dom" subtype="SC">bot.</usg><def>sf. Bot. Genere di piante della famiglia Ciperacee (v. Rincospora).</def>
+					<gramGrp><gram type="POS" subtype="gen">sf.</gram></gramGrp><usg type="dom" subtype="SC">bot.</usg><def>sf. Bot. Genere di piante della famiglia Ciperacee (v. @RR@Rincospora@_@).</def>
 					<cit>
 						<bibl>Tramater [s. v.]:</bibl>
 						<quote> 4 Chetospora’, genere di piante della triandria monoginia, famiglia delle ciperacee, che hanno per carattere l’ovario o lo spora o seme circondato da sei setole o da un numero maggiore.</quote>
@@ -13133,7 +13133,7 @@
 				<form type="lemma">
 					<orth>Chevèlle</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cavelle.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cavelle@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Chi1</orth>
@@ -13475,7 +13475,7 @@
 					</cit>
 				</sense>
 				<sense level="2" n="2.1">
-					<def>- Chi sa: v. Chissà.</def>
+					<def>- Chi sa: v. @RR@Chissà@_@.</def>
 				</sense>
 				<sense level="2" n="2.2">
 					<def>- Chi mi dice, chi ti dice, ecc.: a esprimere sfiducia in un’opinione sostenuta da altri come vera o molto probabile.</def>
@@ -13583,7 +13583,7 @@
 					</cit>
 				</sense>
 				<sense level="2" n="2.1">
-					<def>- Chi che sia (chi chi sia), chi si sia (chissisia), chi che si sia, chi ne sia: cfr. Chicchessia.</def>
+					<def>- Chi che sia (chi chi sia), chi si sia (chissisia), chi che si sia, chi ne sia: cfr. @RR@Chicchessia@_@.</def>
 				</sense>
 				<sense level="2" n="2.2">
 					<def>- Chi vuole, chi si vuole, chi voglia, chi si voglia, ecc.: chiunque.</def>
@@ -13623,7 +13623,7 @@
 				<form type="lemma">
 					<orth>Chià</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Cià.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Cià@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Chiabellata</orth>
@@ -13648,12 +13648,12 @@
 				<form type="lemma">
 					<orth>Chiabèllo</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Chiavello.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Chiavello@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Chiacchi</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Bichiacco.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Bichiacco@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Chiàcchiera</orth>
@@ -13861,7 +13861,7 @@
 					</cit>
 				</sense>
 				<sense level="1" n="7">
-					<gramGrp><gram type="numb">plur.</gram></gramGrp><def>7. Al plur. Dolci cotti in forno, molto leggeri: composti con chiare d’uovo e zucchero. - Anche: pasta dolce, fatta di farina e uova, spianata, tagliata a strisce e fritta (e viene chiamata anche chiacchiere delle monache, cenci, frappe, nastri, ecc.). Cfr. Cencio, n. 7.</def>
+					<gramGrp><gram type="numb">plur.</gram></gramGrp><def>7. Al plur. Dolci cotti in forno, molto leggeri: composti con chiare d’uovo e zucchero. - Anche: pasta dolce, fatta di farina e uova, spianata, tagliata a strisce e fritta (e viene chiamata anche chiacchiere delle monache, cenci, frappe, nastri, ecc.). Cfr. @RR@Cencio@_@, n. 7.</def>
 				</sense>
 				<sense level="1" n="8">
 					<gramGrp><gram type="der">dimin.</gram></gramGrp><entry type="relatedEntry"><form type="sub_lemma" subtype="1">Chiacchierina</form></entry><def>8. Dimin. Chiacchierina.</def>
@@ -14349,7 +14349,7 @@
 				<form type="lemma">
 					<orth>Chiacènza</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Chiasenza.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Chiasenza@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Chiacére</orth>
@@ -15568,7 +15568,7 @@
 					</cit>
 				</sense>
 				<sense level="1" n="7">
-					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><usg type="dom" subtype="DEA">dir.</usg><def>7. Sm. Dir. Chiamato all'eredità, alla successione: il soggetto designato alla successione (cfr. Chiamata, n. 13).</def>
+					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><usg type="dom" subtype="DEA">dir.</usg><def>7. Sm. Dir. Chiamato all'eredità, alla successione: il soggetto designato alla successione (cfr. @RR@Chiamata@_@, n. 13).</def>
 					<cit>
 						<bibl>Cuoco, 1-120:</bibl>
 						<quote> Giudicando questo ottimo sovrano che manca alla giustizia chiunque priva del diritto alla successione un uomo nato e nodrito con esso, riserbò la capacità di succedere ai fedecommessi non solo ai possessori, ma anche ai chiamati già nati o da nascere da matrimoni contratti prima della legge, molti de’ quali eransi fatti colla speranza di una successione fedecommessaria.</quote>
@@ -15920,7 +15920,7 @@
 					<orth>Chiappamósche</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sm.</gram><gram>invar.</gram></gramGrp><usg type="dom" subtype="SC">bot.</usg><def>sm. Invar.  Bot. Nome comune della Dionaea muscipula, pianta carnivora della famiglia Droseracee (cfr. anche Acchiappamosche).</def>
+					<gramGrp><gram type="POS" subtype="gen">sm.</gram><gram>invar.</gram></gramGrp><usg type="dom" subtype="SC">bot.</usg><def>sm. Invar.  Bot. Nome comune della Dionaea muscipula, pianta carnivora della famiglia Droseracee (cfr. anche @RR@Acchiappamosche@_@).</def>
 					<cit>
 						<bibl>Tommaseo [s. v.]:</bibl>
 						<quote> * Chiappamósche ’, pianta che ha la radice scagliosa; le foglie radicali, distese in giro sul terreno, un poco carnose, e smarginate, con due lobi d’un tessuto irritabile e armato di spine al margine, per modo che quando un insetto viene a volarvi sopra, per succhiare l’umore che trasuda alla superficie, vi rimane trafitto dalle spine dei due lobi che si chiudono l’uno sull’altro.</quote>
@@ -16114,7 +16114,7 @@
 				<form type="lemma">
 					<orth>Chiapparèllo</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Chiapperello.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Chiapperello@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Chiappato</orth>
@@ -16145,7 +16145,7 @@
 					<orth>Chiapperèllo</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sm.</gram><gram type="POS" subtype="gen">sf.</gram></gramGrp><def>(chiapparèllo) sm. (anche chiapparèlla, sf.) Tranello, inganno (in genere, per motivi di scarsa importanza), giro di parole artificioso, fatto per confondere; domanda subdola, ingannatrice. Cfr. Acchiapparella.</def>
+					<gramGrp><gram type="POS" subtype="gen">sm.</gram><gram type="POS" subtype="gen">sf.</gram></gramGrp><def>(chiapparèllo) sm. (anche chiapparèlla, sf.) Tranello, inganno (in genere, per motivi di scarsa importanza), giro di parole artificioso, fatto per confondere; domanda subdola, ingannatrice. Cfr. @RR@Acchiapparella@_@.</def>
 					<cit>
 						<bibl>Collodi, 306:</bibl>
 						<quote> [Il gatto] pose dentro al sacco un po’ di crusca e della cicerbita: e sdraiandosi per terra come se fosse morto, aspettò che qualche giovine coniglio, ancora novizio dei chiapperelli del mondo, venisse a ficcarsi nel sacco.</quote>
@@ -16597,7 +16597,7 @@
 				<form type="lemma">
 					<orth>Chiaranzana2</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Chiarentana.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Chiarentana@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Chiarare</orth>
@@ -16879,7 +16879,7 @@
 					<orth>Chiarétto2</orth>
 				</form>
 				<sense level="1" n="1">
-					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><def>sm. Vinello chiaro, trasparente, molto leggero (e si produce soprattutto in Francia, in Piemonte e in Liguria). Cfr. Claretto.</def>
+					<gramGrp><gram type="POS" subtype="gen">sm.</gram></gramGrp><def>sm. Vinello chiaro, trasparente, molto leggero (e si produce soprattutto in Francia, in Piemonte e in Liguria). Cfr. @RR@Claretto@_@.</def>
 					<cit>
 						<bibl>Garzoni, 1-689:</bibl>
 						<quote> Vanno in succo e in brodetto quando odono ricordare il vino Falerno..., il Candioto, il Lesbio, il Tasio, il Calibonio di Damasco, il Chiaretto de’ Galli.</quote>
@@ -16891,7 +16891,7 @@
 				<form type="lemma">
 					<orth>Chiarétto3</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Chiarella3.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Chiarella3@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Chiarézza</orth>
@@ -19390,7 +19390,7 @@
 				<form type="lemma">
 					<orth>Chia#sma</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Chiasmo.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Chiasmo@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Chia#smàtico</orth>
@@ -20388,7 +20388,7 @@
 				<form type="lemma">
 					<orth>Chiavardo</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Chiovardo.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Chiovardo@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Chiavare1</orth>
@@ -22407,7 +22407,7 @@
 				<form type="lemma">
 					<orth>Chicchi e bichiacchi</orth>
 				</form>
-				<xr type="related"><ref type="entry">v. Bichiacco.</ref></xr></entry>
+				<xr type="related"><ref type="entry">v. @RR@Bichiacco@_@.</ref></xr></entry>
 			<entry>
 				<form type="lemma">
 					<orth>Chicchiriaménto</orth>
